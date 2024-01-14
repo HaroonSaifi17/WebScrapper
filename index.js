@@ -6,6 +6,7 @@ const url = "https://byjus.com/jee/jee-main-2019-question-paper-physics-april/";
 const difficulty = "Medium";
 const exam = "jee";
 const subject = "physics";
+let ignoreArray = [];
 axios
   .get(url)
   .then((response) => {
@@ -13,6 +14,7 @@ axios
     const $ = cheerio.load(html);
     let questionsArray = [];
     $(".questions").each((index, questionContainer) => {
+      if (!ignoreArray.includes(index+1)) {
       const questionObject = {};
 
       const questionText = $(questionContainer)
@@ -54,6 +56,7 @@ axios
       questionObject.correctOption =
         correctOptionLabel.charCodeAt(0) - "a".charCodeAt(0);
       questionsArray.push(questionObject);
+      }
     });
     questionsArray.forEach((item) => {
       if (
@@ -81,7 +84,7 @@ function sendData(data) {
         const y = 0;
 
         const width = inputImage.getWidth() * 0.2;
-        const height = inputImage.getHeight() * 0.1;
+        const height = inputImage.getWidth() * 0.1;
 
         coverImage.resize(width, height);
 
