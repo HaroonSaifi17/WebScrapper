@@ -1,4 +1,5 @@
 const axios = require("axios");
+const Jimp = require("jimp");
 const cheerio = require("cheerio");
 
 const url = "https://byjus.com/jee/jee-main-2019-question-paper-physics-april/";
@@ -11,69 +12,123 @@ axios
     const html = response.data;
     const $ = cheerio.load(html);
     let questionsArray = [];
-    // Select each question container
     $(".questions").each((index, questionContainer) => {
       const questionObject = {};
 
-      // Check if the question container contains an image
-      if ($(questionContainer).find(".question-title img").length === 0) {
-        // Get the question text without numbers
-        const questionText = $(questionContainer)
-          .find(".question-title")
-          .text()
-          .replace(/\d+\.\s/, "")
-          .trim();
-        questionObject.questionText = questionText;
-        questionObject.difficulty = difficulty;
-        questionObject.exam = exam;
-        questionObject.subject = subject;
+      const questionText = $(questionContainer)
+        .find(".question-title")
+        .text()
+        .replace(/\d+\.\s/, "")
+        .trim();
+      questionObject.questionText = questionText;
+      questionObject.difficulty = difficulty;
+      questionObject.exam = exam;
+      questionObject.subject = subject;
+      if ($(questionContainer).find(".question-title img").length != 0) {
+        const img = $(questionContainer)
+          .find(".question-title img")
+          .attr("src");
+        questionObject.img = img;
+      }
+      const optionsArray = [];
+      $(questionContainer)
+        .find(".sub-question")
+        .each((i, subElement) => {
+          optionsArray.push(
+            $(subElement)
+              .text()
+              .trim()
+              .replace(/^\w+\.\s/, ""),
+          );
+        });
+      questionObject.options = optionsArray;
 
-        // Get the options array (sub-questions)
-        const optionsArray = [];
-        $(questionContainer)
-          .find(".sub-question")
-          .each((i, subElement) => {
-            optionsArray.push(
-              $(subElement)
-                .text()
-                .trim()
-                .replace(/^\w+\.\s/, ""),
-            ); // Remove 'a.', 'b.', etc.
-          });
-        questionObject.options = optionsArray;
-
-        // Get the correct option as array index
-        const answerElement = $(questionContainer)
-          .find(".sub-answer")
-          .find("strong")
-          .text()
-          .trim();
-        const correctOptionLabel = answerElement
-          .slice(answerElement.indexOf("(") + 1, answerElement.indexOf(")"))
-          .toLowerCase(); // Extract 'a', 'b', etc.
-        questionObject.correctOption =
-          correctOptionLabel.charCodeAt(0) - "a".charCodeAt(0); // Convert 'a' to 0, 'b' to 1, etc.
-
-        // Push the question object to the array
-        questionsArray.push(questionObject);
+      const answerElement = $(questionContainer)
+        .find(".sub-answer")
+        .find("strong")
+        .text()
+        .trim();
+      const correctOptionLabel = answerElement
+        .slice(answerElement.indexOf("(") + 1, answerElement.indexOf(")"))
+        .toLowerCase();
+      questionObject.correctOption =
+        correctOptionLabel.charCodeAt(0) - "a".charCodeAt(0);
+      questionsArray.push(questionObject);
+    });
+    questionsArray.forEach((item) => {
+      if (
+        !isNaN(item.correctOption) &&
+        item.options.length == 4 &&
+        item.questionText != ""
+      ) {
+        sendData(item);
       }
     });
-    // sendData(questionsArray)
-    console.log(questionsArray);
   })
   .catch((error) => {
     console.error(`Error fetching data from ${url}: ${error.message}`);
   });
 function sendData(data) {
-  // Replace 'your-api-endpoint' with the actual endpoint you want to send data to
-  const apiUrl = "http://localhost:4040/admin/addMQuestion";
+  const apiEndpoint = "http://localhost:4040/admin/addMQuestion";
+  const formData = new FormData();
+  if (data.img) {
+    Promise.all([Jimp.read(data.img), Jimp.read("cover.png")])
+      .then((images) => {
+        const inputImage = images[0];
+        const coverImage = images[1];
 
-  axios
-    .post(apiUrl, data)
-    .then((response) => {
-      console.log("Data sent successfully:", response.data);
-    })
-    .catch((error) => {
-      console.error("Error sending data:", error);
-    });
+        const x = inputImage.getWidth() - inputImage.getWidth() * 0.2;
+        const y = 0;
+
+        const width = inputImage.getWidth() * 0.2;
+        const height = inputImage.getHeight() * 0.1;
+
+        coverImage.resize(width, height);
+
+        inputImage.composite(coverImage, x, y);
+
+        inputImage.getBufferAsync(Jimp.MIME_JPEG).then((imageBuffer) => {
+          const blob = new Blob([imageBuffer], { type: Jimp.MIME_JPEG });
+          formData.append("img", blob, "composite.png");
+
+          formData.append("questionText", data.questionText);
+          formData.append("options", JSON.stringify(data.options));
+          formData.append("correctOption", data.correctOption);
+          formData.append("exam", data.exam);
+          formData.append("subject", data.subject);
+          formData.append("difficulty", data.difficulty);
+
+          axios
+            .post(apiEndpoint, formData)
+            .then((response) => {
+              console.log(data);
+              console.log("Image successfully sent to the API:", response.data);
+            })
+            .catch((err) => {
+              console.log(data);
+              console.error("Error:", err.message);
+            });
+        });
+      })
+      .catch((err) => {
+        console.error(err);
+      });
+  } else {
+    formData.append("questionText", data.questionText);
+    formData.append("options", JSON.stringify(data.options));
+    formData.append("correctOption", data.correctOption);
+    formData.append("exam", data.exam);
+    formData.append("subject", data.subject);
+    formData.append("difficulty", data.difficulty);
+    axios
+      .post(apiEndpoint, formData)
+      .then((response) => {
+        console.log(data);
+        console.log("Image successfully sent to the API:", response.data);
+      })
+      .catch((err) => {
+        console.log(data);
+        console.error("Error:", err.message);
+      });
+  }
 }
