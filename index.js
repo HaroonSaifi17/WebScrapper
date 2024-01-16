@@ -2,11 +2,15 @@ const axios = require("axios");
 const Jimp = require("jimp");
 const cheerio = require("cheerio");
 
-const url = "https://byjus.com/jee/jee-main-2019-question-paper-physics-april/";
+const url =
+  "https://byjus.com/jee/jee-main-2018-question-paper-chemistry-jan-10-shift-1/";
 const difficulty = "Medium";
 const exam = "jee";
-const subject = "physics";
+const subject = "chemisty";
 let ignoreArray = [];
+let addBook = 1;
+let height1 = 0.1 * addBook;
+let width1 = 0.2 * addBook;
 axios
   .get(url)
   .then((response) => {
@@ -14,48 +18,57 @@ axios
     const $ = cheerio.load(html);
     let questionsArray = [];
     $(".questions").each((index, questionContainer) => {
-      if (!ignoreArray.includes(index+1)) {
-      const questionObject = {};
+      if (!ignoreArray.includes(index + 1)) {
+        const questionObject = {};
 
-      const questionText = $(questionContainer)
-        .find(".question-title")
-        .text()
-        .replace(/\d+\.\s/, "")
-        .trim();
-      questionObject.questionText = questionText;
-      questionObject.difficulty = difficulty;
-      questionObject.exam = exam;
-      questionObject.subject = subject;
-      if ($(questionContainer).find(".question-title img").length != 0) {
-        const img = $(questionContainer)
-          .find(".question-title img")
-          .attr("src");
-        questionObject.img = img;
-      }
-      const optionsArray = [];
-      $(questionContainer)
-        .find(".sub-question")
-        .each((i, subElement) => {
-          optionsArray.push(
-            $(subElement)
-              .text()
-              .trim()
-              .replace(/^\w+\.\s/, ""),
-          );
-        });
-      questionObject.options = optionsArray;
+        const questionText = $(questionContainer)
+          .find(".question-title")
+          .text()
+          .trim()
+          .replace(/(?:^\(\w\)|^[a-zA-Z])\)|^\(\w\)|^\w+\.\s|^\b\d+\)\s/g, "");
+        questionObject.questionText = questionText;
+        questionObject.difficulty = difficulty;
+        questionObject.exam = exam;
+        questionObject.subject = subject;
+        if ($(questionContainer).find(".question-title img").length != 0) {
+          const img = $(questionContainer)
+            .find(".question-title img")
+            .attr("src");
+          questionObject.img = img;
+        }
+        const optionsArray = [];
+        $(questionContainer)
+          .find(".sub-question")
+          .each((i, subElement) => {
+            optionsArray.push(
+              $(subElement)
+                .text()
+                .trim()
+                .replace(
+                  /(?:^\(\w\)|^[a-zA-Z])\)|^\(\w\)|^\w+\.\s|^\b\d+\)\s/g,
+                  "",
+                ),
+            );
+          });
+        questionObject.options = optionsArray;
 
-      const answerElement = $(questionContainer)
-        .find(".sub-answer")
-        .find("strong")
-        .text()
-        .trim();
-      const correctOptionLabel = answerElement
-        .slice(answerElement.indexOf("(") + 1, answerElement.indexOf(")"))
-        .toLowerCase();
-      questionObject.correctOption =
-        correctOptionLabel.charCodeAt(0) - "a".charCodeAt(0);
-      questionsArray.push(questionObject);
+        const answerElement = $(questionContainer)
+          .find(".sub-answer")
+          .find("strong")
+          .text()
+          .trim()
+          .replace(/[^A-Za-z0-9]/gi, "");
+        const correctOptionLabel = answerElement.charAt(
+          answerElement.length - 1,
+        );
+
+        if (correctOptionLabel == parseInt(correctOptionLabel)) {
+          questionObject.correctOption = parseInt(correctOptionLabel) - 1;
+        } else {
+          questionObject.correctOption =
+            correctOptionLabel.charCodeAt(0) - "a".charCodeAt(0);
+        }
+        questionsArray.push(questionObject);
       }
     });
     questionsArray.forEach((item) => {
@@ -80,11 +93,11 @@ function sendData(data) {
         const inputImage = images[0];
         const coverImage = images[1];
 
-        const x = inputImage.getWidth() - inputImage.getWidth() * 0.2;
+        const x = inputImage.getWidth() - inputImage.getWidth() * width1;
         const y = 0;
 
-        const width = inputImage.getWidth() * 0.2;
-        const height = inputImage.getWidth() * 0.1;
+        const width = inputImage.getWidth() * width1;
+        const height = inputImage.getWidth() * height1;
 
         coverImage.resize(width, height);
 
