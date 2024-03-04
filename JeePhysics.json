@@ -1,0 +1,2590 @@
+[
+  {
+    "questionText": "It is found that if a neutron suffers an elastic collinear collision with deuterium at rest, fractional oss of its energy is pd; while for its similar collision with carbon nucleus at rest, fractional loss of energy is pC. The values of pd and pc are respectively:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "(0, 0)",
+      "(0, 1)",
+      "(.89,.28)",
+      "(.28,.89)"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-physics-jan-10-shift-1/"
+  },
+  {
+    "questionText": "The mass of a hydrogen molecule is 3.32 x 10-27 kg. If 1023 hydrogen molecules strike, per second, a fixed wall of area 2 cm2 at an angle of 450 to the normal, and rebound elastically with a speed of 103 m/s, then the pressure on the wall is nearly:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "2.35 x 102 N/m2",
+      "4.70 x 102 N/m2",
+      "2.35 x 103 N/m2",
+      "4.70 x 103 N/m2"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-physics-jan-10-shift-1/"
+  },
+  {
+    "questionText": "A solid sphere of radius r made of a soft material of bulk modulus K is surrounded by a liquid in a cylindrical container. A mass less piston of area a floats on the surface of the liquid, covering entire cross section of cylindrical container. When a mass m is placed on the surface of the piston to compress the liquid, the fractional decrement in the radius of the sphere,(dr/r)  is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "mg/3Ka",
+      "mg/Ka",
+      "Ka/mg",
+      "Ka/3mg"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-physics-jan-10-shift-1/"
+  },
+  {
+    "questionText": "A particle is moving in a circular path of radius a under the action of an attractive potential U = -k/2r2. Its total energy is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "zero",
+      "\\(\\begin{array}{l}\\frac{-3k}{2a^{2}}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{-k}{4a^{2}}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{k}{2a^{2}}\\end{array} \\)"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-physics-jan-10-shift-1/"
+  },
+  {
+    "questionText": "Two masses m1 = 5 kg and m2 = 10 kg, connected by an inextensible string over a frictionless pulley, are moving as shown in the figure. The coefficient of friction of horizontal surface is 0.15. The minimum weight m that should be put on top of m2 to stop the motion is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-2018-Physics-Paper-With-Solutions-Shift-1-Jan-10-05.png",
+    "options": [
+      "43.3 Kg",
+      "10.3 Kg",
+      "18.3 Kg",
+      "27.3 Kg"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-physics-jan-10-shift-1/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "Unpolarized light of intensity I passes through an ideal polarizer A. Another identical polarizer B is placed behind A. the intensity of light beyond B is found to be I/2. Now another identical polarizer C is placed between A and B. The intensity beyond B is now found to be I/8. The angle between polarizer A and C is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "450",
+      "600",
+      "00",
+      "300"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-physics-jan-10-shift-1/"
+  },
+  {
+    "questionText": "An electron from various excited states of hydrogen atom emit radiation to come to the ground state. Let λn, λg be the de Broglie wavelength of the electron in the nth state and the ground state respectively. Let An be the wavelength of the emitted photon in the transition from the nth state to the ground state. For large n, (A, B are constants)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "Λ2n≈ A+B λ2n",
+      "Λ2n≈ λ",
+      "Λn≈A + (B/ λ2n)",
+      "Λn≈A + Bλn"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-physics-jan-10-shift-1/"
+  },
+  {
+    "questionText": "The reading of the ammeter for a silicon diode in the given circuit is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-2018-Physics-Paper-With-Solutions-Shift-1-Jan-10-07.png",
+    "options": [
+      "11.5 mA",
+      "13.5 mA",
+      "0",
+      "15 mA"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-physics-jan-10-shift-1/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "An electron, a proton and an alpha particle having the same kinetic energy are moving in circular orbits of radii re, rp, rα respectively in a uniform magnetic field B. The relation between re, rp, rα is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "re < rp < rα",
+      "re < rα < rp",
+      "re > rp = rα",
+      "re < rp = rα"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-physics-jan-10-shift-1/"
+  },
+  {
+    "questionText": " A parallel plate capacitor of capacitance 90 pF is connected to a battery of emf 20V. If a dielectric material of dielectric constant k = 5/3 is inserted between the plates, the magnitude of the induced charge will be:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "2.4 nC",
+      "0.9 nC",
+      "1.2 nC",
+      "0.3 nC"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-physics-jan-10-shift-1/"
+  },
+  {
+    "questionText": "For an RLC circuit driven with voltage of amplitude Vm and frequency \\(\\begin{array}{l}\\omega _{0}=\\frac{1}{\\sqrt{LC}}\\end{array} \\) the current exhibits resonance. The quality factor, Q is given by:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "\\(\\begin{array}{l}\\frac{R}{(\\omega _{0}C)}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{CR}{(\\omega _{0})}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{\\omega _{0}L}{(R)}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{\\omega _{0}R}{(L)}\\end{array} \\)"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-physics-jan-10-shift-1/"
+  },
+  {
+    "questionText": "A telephonic communication service is working at carrier frequency of 10 GHz. Only 10% of it is utilized for transmission. How",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "2 x 105",
+      "2 x 105",
+      "2 x 103",
+      "2 x 104"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-physics-jan-10-shift-1/"
+  },
+  {
+    "questionText": "A granite rod of 60 cm length is clamed at its middle point and is set into longitudinal vibrations. The density of granite is 2.7 x 103 kg/m3 and its Young’s modulus is 9.27 x 1010 Pa. What will be the fundamental frequency of the longitudinal vibrations?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "10 kHz",
+      "7.5 kHz",
+      "5kHz",
+      "2.5 kHz"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-physics-jan-10-shift-1/"
+  },
+  {
+    "questionText": "Seven identical circular planar disks, each of mass M and radius R are welded symmetrically as shown. The moment of inertia of the arrangement about the axis normal to the plane and passing through the point P is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-2018-Physics-Paper-With-Solutions-Shift-1-Jan-10-09.png",
+    "options": [
+      "\\(\\begin{array}{l}\\frac{73}{2}MR^{2}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{181}{2}MR^{2}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{19}{2}MR^{2}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{55}{2}MR^{2}\\end{array} \\)"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-physics-jan-10-shift-1/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "Three concentric metal shells A, B and C of respective radii a, b and c (a < b < c) have surface charge densities + σ, -σ and +σ respectively. The potential of shell B is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "\\(\\begin{array}{l}\\frac{\\sigma }{\\epsilon _{0}}\\left [ \\frac{b^{2}-c^{2}}{b}+a \\right ]\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{\\sigma }{\\epsilon _{0}}\\left [ \\frac{b^{2}-c^{2}}{c}+a \\right ]\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{\\sigma }{\\epsilon _{0}}\\left [ \\frac{a^{2}-b^{2}}{a}+c \\right ]\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{\\sigma }{\\epsilon _{0}}\\left [ \\frac{a^{2}-b^{2}}{b}+c \\right ]\\end{array} \\)"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-physics-jan-10-shift-1/"
+  },
+  {
+    "questionText": "In a potentiometer experiment, it is found that no current passes through the galvanometer when the terminals of the galvanometer when the terminals of the cell are connected across 52 cm of the potentiometer wire. If the cell is shunted by a resistance of 5 Ω, a balance is found when the cell is connected across 40 cm of the wire. Find the internal resistance of the cell.",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "2 Ω",
+      "2.5 Ω",
+      "1 Ω",
+      "1.5 Ω"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-physics-jan-10-shift-1/"
+  },
+  {
+    "questionText": "An EM wave from air enters a medium. The electric fields are\\(\\begin{array}{l}\\vec{E_{1}}=E_{01}\\hat{x}cos\\left [ 2\\pi v\\left ( \\frac{z}{c}-t \\right ) \\right ]\\end{array} \\) in air and in medium, where the wave number k and frequency v refer to their values in air. The medium is nonmagnetic. If εr1 refer εr2 to relative permittivities of air and medium respectively, which of the following options is correct?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2020/09/jee-main-2018-physics-questions-with-answers-set-b.png",
+    "options": [
+      "\\(\\begin{array}{l}\\frac{\\epsilon _{r1}}{\\epsilon _{r2}}=\\frac{1}{4}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{\\epsilon _{r1}}{\\epsilon _{r2}}=\\frac{1}{2}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{\\epsilon _{r1}}{\\epsilon _{r2}}=4\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{\\epsilon _{r1}}{\\epsilon _{r2}}=2\\end{array} \\)"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-physics-jan-10-shift-1/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "The angular width of the central maximum in a single slit diffraction pattern is 600. The width ofthe slit is 1μm. The slit is illuminated by monochromatic plane waves. If another slit of same width is made near it, Young’s fringes can be observed on a screen placed at a distance 50 cm from the slits. If the observed fringe width is 1 cm, what is slit separation distance? (i.e., distance between the cenrtres of each slit.)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "75 μm",
+      "100 μm",
+      "25 μm",
+      "50 μm"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-physics-jan-10-shift-1/"
+  },
+  {
+    "questionText": "A silver atom in a solid oscillates in simple harmonic motion in some direction with a frequency of 1012/sec. What is the force constant of the bonds connecting one atom with the other? (Mole wt. of silver = 108 and Avagadro number = 6.02 x 1023 gm mole-1",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "2.2 N/m",
+      "5.5 N/m",
+      "6.4 N/m",
+      "7.1 N/m"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-physics-jan-10-shift-1/"
+  },
+  {
+    "questionText": "In a collinear collision, a particle with an initial speed v0 strikes a stationary particle of the same mass. If the final total kinetic energy is 50% greater than the original kinetic energy, the magnitude of the relative velocity between the two particles, after collision, is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "V0/2",
+      "V0/√2",
+      "V0/4",
+      "√2 V0"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-physics-jan-10-shift-1/"
+  },
+  {
+    "questionText": "The dipole moment of a circular loop carrying a current I, is m and the magnetic field at the centre of the loop is B1. When the dipole moment is doubled by keeping the current constant, the magnetic field at the centre of the loop is B2. The ratio B1/B2 is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "√2",
+      "1/√2",
+      "2",
+      "√3"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-physics-jan-10-shift-1/"
+  },
+  {
+    "questionText": "The density of the material in the shape of a cube is determined by measuring three sides of the cube and its mass. If the relative errors in measuring the mass and length are respectively 1.5% and 1%, the maximum error in determining the density is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "4.5 %",
+      "6 %",
+      "2.5 %",
+      "3.5 %"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-physics-jan-10-shift-1/"
+  },
+  {
+    "questionText": "On interchanging the resistances, the balance point of a meter bridge shifts to the left by 10 cm. The resistance of their series combination is 1 k Ω. How much was the resistance on the left slot before interchanging the resistances?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "550 Ω",
+      "910 Ω",
+      "990 Ω",
+      "505 Ω"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-physics-jan-10-shift-1/"
+  },
+  {
+    "questionText": "In an a.c. circuit, the instantaneous e.m.f. and current are given by e = 100 sin 30 t and i = 20 sin(30 t – (π/4)). In one cycle of a.c., the average power consumed by the circuit and the wattles current are, respectively:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "((50/√2),0)",
+      "50,0",
+      "50,10",
+      "((1000//√2),10)"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-physics-jan-10-shift-1/"
+  },
+  {
+    "questionText": "Two moles of an ideal monoatomic gas occupies a volume V at 270C. The gas expands adiabatically to a volume 2 V. Calculate (a) the final temperature of the gas and (b) change in its internal energy.",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      " (a) 189 K (b) -2.7 kJ",
+      " (a) 195 K (b) 2.7 kJ",
+      " (a) 189 K (b) 2.7 kJ",
+      " (a) 195 K (b) -2.7 kJ"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-physics-jan-10-shift-1/"
+  },
+  {
+    "questionText": "A particle is moving with a uniform speed in a circular orbit of radius R in a central force inversely proportional to the nth power of R. If the period of rotation of the particle is T, then:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "T ∝ R(n+1)/2",
+      "T ∝ R n/2",
+      "T ∝ R n/2 for any n",
+      "T ∝ R(n/2)+1"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-physics-jan-10-shift-1/"
+  },
+  {
+    "questionText": "A capacitor of capacitance C = 15 pF is charged with voltage V = 500 V. The electric field inside the capacitor with dielectric is 106 V/m and the area of the plate is 10– 4 m2, then the dielectric constant of the medium is: ( \\(\\begin{array}{l}{{\\varepsilon }_{0}}=8.85\\times {{10}^{-12}}\\end{array} \\) in SI units)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "a.12.47",
+      "b.8.47",
+      "c.10.85",
+      "d.14.85"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-physics-april/"
+  },
+  {
+    "questionText": "The electric field of EM wave is 6 volt/m. The magnetic field associated with the wave if the wave is propagating in the +x direction and electric field  along y-axis is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "\\(\\begin{array}{l}{{10}^{-8}}T\\hat{K}\\end{array} \\)",
+      "\\(\\begin{array}{l}2\\times {{10}^{-8}}T\\hat{K}\\end{array} \\)",
+      "\\(\\begin{array}{l}3\\times {{10}^{-8}}T\\hat{K}\\end{array} \\)",
+      "\\(\\begin{array}{l}4\\times {{10}^{-8}}T\\hat{K}\\end{array} \\)"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-physics-april/"
+  },
+  {
+    "questionText": "An electron of H-atom de-exits from energy level m1 = 2 to h2 = 1 and the emitted photon is incident on He+ ion in ground state and first ox cited states which of following transition is possible.",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "n = 1 to n = 4",
+      "n = 2 to n = 4",
+      "n = 2 to n = 3",
+      "n = 1 to n = 4"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-physics-april/"
+  },
+  {
+    "questionText": "The switch is closed at t = 0. The time after which the rate of dissipation of energy in the resistor is equal to rate at which energy is being store in the inductor is:\n\n\n\na. \\(\\begin{array}{l}\\ell n2\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-2019-April-Physics-Paper-with-Solution-01.png",
+    "options": [
+      "a.",
+      "\\(\\begin{array}{l}{}^{1}/{}_{2}\\ell n2\\end{array} \\)",
+      "c.\\(\\begin{array}{l}{}^{1}/{}_{4}\\ell n2\\end{array} \\)",
+      "\\(\\begin{array}{l}2\\ell n2\\end{array} \\)"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-physics-april/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "The system of 2 rods shown in fig is vibrating at the same frequency and forming a standing wave. The ratio of the number of antinodes in the two rods if radius of rod B is twice the radius of A is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-2019-April-Physics-Paper-with-Solutions-03.png",
+    "options": [
+      "a.1",
+      "b.2",
+      "c.3",
+      "d.4"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-physics-april/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "At the given instant the four particles having masses and acceleration as shown in the fig lie at vertices of a square. Acceleration of the mass of the system is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-2019-April-Physics-Paper-with-Solutions-04.png",
+    "options": [
+      "\\(\\begin{array}{l}\\frac{1}{5}\\left( \\hat{i}+\\hat{j} \\right)\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{1}{5}\\left( \\hat{j}-\\hat{i} \\right)\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{1}{5}\\left( \\hat{i}-\\hat{j} \\right)\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{1}{5}\\left( \\hat{i}+\\hat{j} \\right)\\end{array} \\)"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-physics-april/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "In YDSE ratio of Amplitude of wave is 1: 3. The ratio of I max: I min is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "1: 4",
+      "4: 1",
+      "1: 1",
+      "1: 9"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-physics-april/"
+  },
+  {
+    "questionText": "Two particles are moving perpendicular to each other with de-Broglie wave length λ1 and λ2 if they collide and stick then the de-Broglie wave length of system after collision is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "\\(\\begin{array}{l}\\lambda =\\frac{{{\\lambda }_{1}}{{\\lambda }_{2}}}{\\sqrt{\\lambda _{1}^{2}+\\lambda _{2}^{2}}}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\lambda =\\frac{{{\\lambda }_{1}}}{\\sqrt{\\lambda _{1}^{2}+\\lambda _{2}^{2}}}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{\\sqrt{\\lambda _{1}^{2}+\\lambda _{2}^{2}}}{{{\\lambda }_{2}}}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\lambda =\\frac{{{\\lambda }_{1}}{{\\lambda }_{2}}}{\\sqrt{{{\\lambda }_{1}}+{{\\lambda }_{2}}}}\\end{array} \\)"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-physics-april/"
+  },
+  {
+    "questionText": "Ship moving with velocity \\(\\begin{array}{l}{{\\vec{V}}_{1}}=30\\hat{i}+50\\hat{j}\\end{array} \\)from position (0, 0) and ship B moving with velocity \\(\\begin{array}{l}\\overrightarrow{{{V}_{2}}}=-10\\hat{i}\\end{array} \\)from position (80, 150). The time for minimum separation is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "2.6",
+      "2.2",
+      "2.4",
+      "None"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-physics-april/"
+  },
+  {
+    "questionText": "A carbon resistance with color bard is 200 Ω. If red bard is replaced by green bard then the new resistance is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "500 Ω",
+      "300 Ω",
+      "400 Ω",
+      "100 Ω"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-physics-april/"
+  },
+  {
+    "questionText": "Dimension of  \\(\\begin{array}{l}\\sqrt{\\frac{{{\\varepsilon }_{0}}}{{{\\mu }_{0}}}}\\end{array} \\)are",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "\\(\\begin{array}{l}\\left[ M{{L}^{2}}{{T}^{-3}}{{A}^{-2}} \\right]\\end{array} \\)",
+      "\\(\\begin{array}{l}\\left[ {{M}^{-1}}{{L}^{-2}}{{T}^{3}}{{A}^{2}} \\right]\\end{array} \\)",
+      "\\(\\begin{array}{l}\\left[ {{M}^{2}}{{L}^{2}}{{T}^{-3}}{{A}^{-2}} \\right]\\end{array} \\)",
+      "\\(\\begin{array}{l}\\left[ {{M}^{-1}}{{L}^{2}}{{T}^{3}}{{A}^{2}} \\right]\\end{array} \\)"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-physics-april/"
+  },
+  {
+    "questionText": " A electric circuit is shown in figure. The potential different between the points A & B is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-2019-April-Physics-Paper-with-Solutions-06.png",
+    "options": [
+      "\\(\\begin{array}{l}\\frac{10}{3}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{20}{3}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{5}{3}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{7}{3}\\end{array} \\)"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-physics-april/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "10 particles each of mass 10-26 kg are striking perpendicularly on a wall of area 1 m2 with speed 104 m/s in 1 sec. The pressure on the wall if collision are perfectly elastic is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "2 N/m2",
+      "4 N/m2",
+      "6 N/m2",
+      "8 N/m2"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-physics-april/"
+  },
+  {
+    "questionText": "An elastic string of Length 42 cm and cross section area 10–4 m2 is attached between two pegs at distance 6mm as shown in the figure. A particle of mass m is kept at mid point of string stretched as shown in figure by 20 cm and released. As the string attains natural Length, the particle attains a speed of 20 m/s. Then young modulus Y of string is of order.",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-2019-April-Physics-Paper-with-Solutions-07.png",
+    "options": [
+      "108",
+      "1012",
+      "106",
+      "104"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-physics-april/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "The density of a circular disc is given as σ = \\(\\begin{array}{l}{{p}_{0}}X\\end{array} \\) where ‘X’ is the distance from the centre. Its moment of interia about an axis perpendicular to interia about an axis perpendicular to its plane and passing through its edge is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "\\(\\begin{array}{l}\\frac{15}{16}{{P}_{0}}\\pi {{R}^{5}}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{16}{15}{{P}_{0}}\\pi {{R}^{5}}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{6}{5}{{P}_{0}}\\pi {{R}^{5}}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{5}{6}{{P}_{0}}\\pi {{R}^{5}}\\end{array} \\)"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-physics-april/"
+  },
+  {
+    "questionText": "The circuit shown in the figure. Determine the current through Zener diode. (Given: Zener diode break down. Voltage V2 = 5.6 V)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-2019-April-Physics-Paper-with-Solutions-08.png",
+    "options": [
+      "7 mA",
+      "17 mA",
+      "10 mA",
+      "15 mA"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-physics-april/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "A circular loop of radius r having N number of turns carries current I is placed in a uniform magnetic field \\(\\begin{array}{l}\\overrightarrow{B}\\end{array} \\) parallel to the plane of the loop. The torque on the loop is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-2019-April-Physics-Paper-with-Solutions-10.png",
+    "options": [
+      "\\(\\begin{array}{l}N\\ell \\pi {{r}^{2}}B\\end{array} \\)",
+      "\\(\\begin{array}{l}{{N}^{2}}\\ell \\pi {{r}^{2}}B\\end{array} \\)",
+      "\\(\\begin{array}{l}N{{\\ell }^{2}}\\pi {{r}^{2}}B\\end{array} \\)",
+      "\\(\\begin{array}{l}N\\ell \\pi {{r}^{2}}{{B}^{2}}\\end{array} \\)"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-physics-april/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "Four particle each of mass m are undergoing circular motion under the influence of action of their mutual gravitational interaction while being at the vertices of a square of side a. Their speeds are",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-2019-April-Physics-Paper-with-Solutions-13.png",
+    "options": [
+      "\\(\\begin{array}{l}\\sqrt{\\frac{2GM}{a}}\\end{array} \\)",
+      "\\(\\begin{array}{l}1.16\\sqrt{\\frac{GM}{a}}\\end{array} \\)",
+      "\\(\\begin{array}{l}1.5\\sqrt{\\frac{2M}{a}}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\sqrt{\\frac{GM}{a}}\\end{array} \\)"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-physics-april/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "A converging lens of focal length 20 cm is placed between an object & a concave mirror of focal mirror of focal length 10 cm as shown in figure. The final image is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-2019-April-Physics-Paper-with-Solutions-14.png",
+    "options": [
+      "Coinciding with object, enlarged, Inverted real",
+      "Coinciding with object, same size, erect, real",
+      "Coinciding with object, same size, Inverted, Vertical",
+      "Coinciding with object, same size, Inverted, real"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-physics-april/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "A conducting slider of resistance R (10 Ω) mass 50 g & length 10 cm is kept on a U – shaped frame as shown in figure. There is uniform magnetic field (B = 0.1T) perpendicular to plane of frame. These slider is attached to a spring (K = 0.5 N/m). It is displaced by AƟ& released time is which amplitude become A /e is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2020/09/jee-main-2019-april-physics-questions-answered.png",
+    "options": [
+      "9000 s",
+      "10000 s",
+      "12000 s",
+      "15000 s"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-physics-april/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "An A.C source of voltage V = 220 sin (100 πt) volts is connected with R = 50 Ω. The time interval in which the current goes from its peak value to half of the peak value is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-2019-April-Physics-Paper-with-Solutions-17.png",
+    "options": [
+      "\\(\\begin{array}{l}\\frac{1}{400}\\sec\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{1}{50}\\sec\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{1}{300}\\sec\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{1}{200}\\sec\\end{array} \\)"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-physics-april/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "Force displacement graph of a particle starting from rest is given in the figure shown. The kinetic energy of particle at x = 3m is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-2019-April-Physics-Paper-with-Solutions-18.png",
+    "options": [
+      "6.5 J",
+      "7.5 J",
+      "6 J",
+      "5 J"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-physics-april/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "Find out the no of reflection after which light ray will exit from (Given sin 40° = 0.64)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2020/09/solutions-forall-questions-of-jee-main-2019-april-physics.png",
+    "options": [
+      "130000",
+      "57803",
+      "140000",
+      "150000"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-physics-april/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "A block of mass 4 kg is suspended from the ceiling with the help of a steel wire off radius 2 mm and negligible mass. Find the stress in the wire (g = π2)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-2019-April-Physics-Paper-with-Solutions-201.png",
+    "options": [
+      "4 × 106",
+      "3 × 105",
+      "3.14 × 106",
+      "2 × 106"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-physics-april/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "A liquid of coefficient of viscosity \\(\\begin{array}{l}\\eta =1\\end{array} \\)poise is flowing in a pipe of radius 3 cm on such that the rate of volume flow is 1000 / min. determine the Reynolds numbers.",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "3536",
+      "3500",
+      "3400",
+      "3600"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-physics-april/"
+  },
+  {
+    "questionText": "Question 5. The velocity of a particle v at any instant is \\(\\begin{array}{l}\\vec{v}=y\\hat{i}+x\\hat{j}\\end{array} \\). The equation of trajectory of the particle is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      " x 2 + y2 = constant",
+      " y 2 = x 2 + constant",
+      " xy = constant",
+      " None of these"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-physics-january/"
+  },
+  {
+    "questionText": "Question 9.Two radioactive elements A & B have initially activity 10 curie & 20 curie respectively. If A has twice the no. of moles as that of B. The decay constant λA & λB can be;",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      " (10, 5)",
+      " (5, 20)",
+      " (20, 10)",
+      " (50, 100)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-physics-january/"
+  },
+  {
+    "questionText": "Question 10. A conducting loop of resistance 10Ω and area  3.5 x 10 -3m 2  is placed in uniform and time varying magnetic field B = 0.4 sin (50πt). The Charge passing through the loop in t = 0 to t = 10 ms is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      " 140 µC",
+      " 70 µC",
+      " 280 µC",
+      " 100 µC"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-physics-january/"
+  },
+  {
+    "questionText": "Question 11. If current in a current carrying wire is 1.5A, number of free electrons per unit volume is 8 x1028m3  and area of cross section is 5 mm2 . Drift velocity of electrons will be",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      " 0.02 mm/s",
+      " 2 mm/s",
+      " 0.2 mm/s",
+      " None of these"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-physics-january/"
+  },
+  {
+    "questionText": "Question 14. In mixture 2 mole of He and 1 mole of Ar is present. Find \\(\\begin{array}{l}\\frac{(V_{RMS})_{He}}{(V_{RMS})_{Ar}}\\end{array} \\) at 300 K.",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      " 6.32",
+      " 1.58",
+      " 3.16",
+      " 10"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-physics-january/"
+  },
+  {
+    "questionText": "Question 15. Light of wavelength λ1 = 340 nm and λ2 = 540 nm are incident on a metallic surface. If the ratio of the speed of the electrons ejected is 2. The work function of the metal is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      " 1 eV",
+      " 1.85 eV",
+      " 1.5 eV",
+      " 2 eV"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-physics-january/"
+  },
+  {
+    "questionText": "Question 18. If the value of electric field E = 6.3 x 1027 volt/m for an electromagnetic wave. The value of magnetic field B will be:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      " 5 x 10-19 T",
+      " 2.1 x 1019 T",
+      " 5 x 10-20 T",
+      " 2.1 x 1020 T"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-physics-january/"
+  },
+  {
+    "questionText": "Question 19.Two coherent light sources having intensity I1 and I2. If the ratio of Imax/Imin is 6 : 1. Find I1/I2​​?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      " 16/9",
+      " 9/16",
+      " 4/1",
+      " 25/9"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-physics-january/"
+  },
+  {
+    "questionText": "Question 22.A rod of acted by two equal forces as shown in the figure. The coefficient of thermal expansion of the rod is α and area of cross section is A. When the temperature the rod increased by Δ t. The length of the rod does not change. The young’s modulus Y will be.\n\n\na) \\(\\begin{array}{l}\\frac{F}{2A\\alpha \\Delta T}\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-2019-Physics-Paper-With-Solutions-January-Session-13.png",
+    "options": [
+      "",
+      " \\(\\begin{array}{l}\\frac{F}{A\\alpha \\Delta T}\\end{array} \\)",
+      " \\(\\begin{array}{l}\\frac{2F}{A\\alpha \\Delta T}\\end{array} \\)",
+      " \\(\\begin{array}{l}\\frac{F}{3A\\alpha \\Delta T}\\end{array} \\)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-physics-january/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "Question 23. A capacitor is formed by two square metal-plates of edge a, separated by a distance d. Dielectric of dielectric constants K is filled in the gap as shown in the figure. The equivalent capacitance is\n\n\n\n\na) \\(\\begin{array}{l}\\frac{k\\epsilon _{0}a^{2}lnk}{d(k-1)}\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-2019-Physics-Paper-With-Solutions-January-Session-14.png",
+    "options": [
+      "",
+      " \\(\\begin{array}{l}\\frac{k\\epsilon _{0}a^{2}lnk}{d(k-2)}\\end{array} \\)",
+      " \\(\\begin{array}{l}\\frac{k\\epsilon _{0}a^{2}lnk}{2d(k-1)}\\end{array} \\)",
+      " \\(\\begin{array}{l}\\frac{2k\\epsilon _{0}a^{2}lnk}{d(k-1)}\\end{array} \\)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-physics-january/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "Question 24. In a semiconductor mobility of electron, i.e. drift velocity per unit applied electric field is 1.6 (S.I unit). Density of electrons is 1019/m3. (Neglect holes concentration). Resistivity of semiconductor is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      " 0.4 Ωm",
+      " 2 Ωm",
+      " 4 Ωm",
+      " 0.2 Ωm"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-physics-january/"
+  },
+  {
+    "questionText": "Question 25.A block of mass M is hanging by a string of negligible mass in a car. The speed of the wave in the string 60 m/s. Now the car is accelerated horizontally by an acceleration at the speed of wave in the string is 60.5 m/s. What is a in terms of g?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      " g/5",
+      " g/10",
+      " g/20",
+      " g/30"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-physics-january/"
+  },
+  {
+    "questionText": "Question 15: Two identical electric point dipoles have dipole moments p1 = pi and p1 = -pi  are held on the x-axis at distance ‘a’ from each other. When released, they move along the x-axis with the direction of their dipole moments remaining unchanged. If the mass of each dipole is ‘m’, their speed when they are infinitely far apart is:\n\n1)\\(\\begin{array}{l} \\frac{p}{a}\\sqrt{\\frac{3}{2\\pi \\epsilon _{0}ma}}\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "1)",
+      "\\(\\begin{array}{l} \\frac{p}{a}\\sqrt{\\frac{1}{\\pi \\epsilon _{0}ma}}\\end{array} \\)",
+      "\\(\\begin{array}{l} \\frac{p}{a}\\sqrt{\\frac{1}{2\\pi \\epsilon _{0}ma}}\\end{array} \\)",
+      "\\(\\begin{array}{l} \\frac{p}{a}\\sqrt{\\frac{2}{\\pi \\epsilon _{0}ma}}\\end{array} \\)"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-sept-6-shift-2/"
+  },
+  {
+    "questionText": "On the x-axis and at a distance x from the origin, the gravitational field due a mass distribution is given by  \\(\\begin{array}{l}\\frac{Ax}{(x^{2}+a^{2})^{\\frac{3}{2}}}\\end{array} \\)  in the x-direction. The magnitude of gravitational potential on the x-axis at a distance x, taking its value to be zero at infinity, is:\n\n\n1) \\(\\begin{array}{l}{A}{(x^{2}+a^{2})^{\\frac{3}{2}}}\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "1)",
+      "\\(\\begin{array}{l}\\frac{Ax}{(x^{2}+a^{2})^{\\frac{1}{2}}}\\end{array} \\)",
+      "\\(\\begin{array}{l}{A}{(x^{2}+a^{2})^{\\frac{1}{2}}}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{A}{(x^{2}+a^{2})^{\\frac{3}{2}}}\\end{array} \\)"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-sept-4-shift-1/"
+  },
+  {
+    "questionText": "For a transverse wave travelling along a straight line, the distance between two peaks (crests) is 5m, while the distance between one crest and one trough is 1.5m. The possible wavelengths (in m) of the waves are:\n\n\n1) 1, 3, 5,…..\n2) 1, 2, 3,…..\n3) \\(\\begin{array}{l}\\frac{1}{2},\\frac{1}{4},\\frac{1}{6}\\end{array} \\) …..",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "1, 3, 5,…..",
+      "1, 2, 3,…..",
+      "3)",
+      "\\(\\begin{array}{l}\\frac{1}{1},\\frac{1}{3},\\frac{1}{5}…..\\end{array} \\)"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-sept-4-shift-1/"
+  },
+  {
+    "questionText": "Two points charges 4q and –q are fixed on the x-axis at x = -(d/2) and x = (d/2), respectively. If a third point charge ‘q’ is taken from the origin to x = d along the semicircle as shown in the figure, the energy of the charge will:\n\n\n\n\n1) decrease by \\(\\begin{array}{l}\\frac{q^{2}}{4\\pi \\epsilon _{0}d}\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-2020-Shift-1-4th-Sept-Physics-Paper-With-Solutions-13.png",
+    "options": [
+      "decrease by",
+      "decrease by \\(\\begin{array}{l}\\frac{4q^{2}}{3\\pi \\epsilon _{0}d}\\end{array} \\)",
+      "increase by \\(\\begin{array}{l}\\frac{3q^{2}}{4\\pi \\epsilon _{0}d}\\end{array} \\)",
+      "increase by \\(\\begin{array}{l}\\frac{2q^{2}}{3\\pi \\epsilon _{0}d}\\end{array} \\)"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-sept-4-shift-1/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "A small ball of mass m is thrown upward with velocity u from the ground. The ball experiences a resistive force mkv2 where v is its speed. The maximum height attained by the ball is:\n\n\n1) \\(\\begin{array}{l}\\frac{1}{k}tan^{-1}\\frac{ku^{2}}{2g}\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "1)",
+      "\\(\\begin{array}{l}\\frac{1}{2k}In\\left [1+\\frac{ku^{2}}{g} \\right ]\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{1}{2k}In\\left [1+\\frac{ku^{2}}{2g} \\right ]\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{1}{2k}tan^{-1}\\left [\\frac{ku^{2}}{g} \\right ]\\end{array} \\)"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-sept-4-shift-2/"
+  },
+  {
+    "questionText": "A series L-R circuit is connected to a battery of emf V. If the circuit is switched on at t =0, then the time at which the energy stored in the inductor reaches (1/n) times of its maximum value, is: \n\n\n1) \\(\\begin{array}{l}\\frac{L}{R}In\\left [ \\frac{\\sqrt{n}}{\\sqrt{n}+1} \\right ]\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "1)",
+      "\\(\\begin{array}{l}\\frac{L}{R}In\\left [ \\frac{\\sqrt{n}}{\\sqrt{n}-1} \\right ]\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{L}{R}In\\left [ \\frac{\\sqrt{n}+1}{\\sqrt{n}-1} \\right ]\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{L}{R}In\\left [ \\frac{\\sqrt{n}-1}{\\sqrt{n}} \\right ]\\end{array} \\)"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-sept-4-shift-2/"
+  },
+  {
+    "questionText": "The electric field of a plane electromagnetic wave is given by \\(\\begin{array}{l}\\vec{E}=E_{0}(\\hat{x}+\\hat{y})sin(kz-\\omega t)\\end{array} \\). Its magnetic field will be given by:\n\n\n1) \\(\\begin{array}{l}\\frac{E_{0}}{c}(\\hat{x}+\\hat{y})sin(kz-\\omega t)\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "1)",
+      "\\(\\begin{array}{l}\\frac{E_{0}}{c}(\\hat{x}-\\hat{y})sin(kz-\\omega t)\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{E_{0}}{c}(\\hat{x}-\\hat{y})cos(kz-\\omega t)\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{E_{0}}{c}(-\\hat{x}+\\hat{y})sin(kz-\\omega t)\\end{array} \\)"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-sept-4-shift-2/"
+  },
+  {
+    "questionText": "A particle of charge q and mass m is subjected to an electric field E = E0 (1 – ax2) in the x-direction, where a and E0 are constants. Initially the particle was at rest at x =0. Other than the initial position the kinetic energy of the particle becomes zero when the distance of the particle from the origin is:\n\n\n1) \\(\\begin{array}{l}\\sqrt{\\frac{2}{a}}\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "1)",
+      "a",
+      "\\(\\begin{array}{l}\\sqrt{\\frac{3}{a}}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\sqrt{\\frac{1}{a}}\\end{array} \\)"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-sept-4-shift-2/"
+  },
+  {
+    "questionText": "A capacitor C is fully charged with voltage V0. After disconnecting the voltage source, it is connected in parallel with another uncharged capacitor of capacitance C/2. The energy loss in the process after the charge is distributed between the two capacitors is:\n\n\n1) \\(\\begin{array}{l}\\frac{1}{2}CV_{0}^{2}\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "1)",
+      "\\(\\begin{array}{l}\\frac{1}{4}CV_{0}^{2}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{1}{3}CV_{0}^{2}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{1}{6}CV_{0}^{2}\\end{array} \\)"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-sept-4-shift-2/"
+  },
+  {
+    "questionText": "Model a torch battery of length l to be made up of a thin cylindrical bar of radius ‘a’ and a concentric thin cylindrical shell of radius ‘b’ filled in between with an electrolyte of resistivity ρ (see figure). If the battery is connected to a resistance of value R, the maximum joule heating in R will take place for:\n\t\n\n\n1) \\(\\begin{array}{l}R=\\frac{\\rho }{2\\pi l}(\\frac{b}{a})\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-2020-Physics-Paper-With-Solutions-Sept-3-Shift-1-04.png",
+    "options": [
+      "1)",
+      "\\(\\begin{array}{l}R=\\frac{2\\rho }{\\pi l}In(\\frac{b}{a})\\end{array} \\)",
+      "\\(\\begin{array}{l}R=\\frac{\\rho }{\\pi l}In(\\frac{b}{a})\\end{array} \\)",
+      "\\(\\begin{array}{l}R=\\frac{\\rho }{2\\pi l}In(\\frac{b}{a})\\end{array} \\)"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-sept-3-shift-1/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "Pressure inside two soap bubbles are 1.01 and 1.02 atmosphere, respectively. The ratio of their volumes is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "4 : 1",
+      "2 : 1",
+      "0.8 : 1",
+      "8 : 1"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-sept-3-shift-1/"
+  },
+  {
+    "questionText": "The magnetic field of a plane electromagnetic wave is\n\n\\(\\begin{array}{l}\\vec{B}= 3 \\times 10^{-8}sin\\left [ 200\\pi (y+ct) \\right ]\\hat{i}T\\end{array} \\)\nwhere c = 3 × 108 ms–1 is the speed of light.\nThe corresponding electric field is:\n\n1)\\(\\begin{array}{l}\\vec{E}= -9sin\\left [ 200\\pi (y+ct) \\right ]\\hat{k}V/m\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "1)",
+      "\\(\\begin{array}{l}\\vec{E}= 9sin\\left [ 200\\pi (y+ct) \\right ]\\hat{k}V/m\\end{array} \\)",
+      "\\(\\begin{array}{l}\\vec{E}= -10^{-6}sin\\left [ 200\\pi (y+ct) \\right ]\\hat{k}V/m\\end{array} \\)",
+      "\\(\\begin{array}{l}\\vec{E}= 3\\times 10^{-8}sin\\left [ 200\\pi (y+ct) \\right ]\\hat{k}V/m\\end{array} \\)"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-sept-3-shift-1/"
+  },
+  {
+    "questionText": "A charged particle carrying charge 1 μC is moving with velocity \\(\\begin{array}{l}(2\\hat{i}+3\\hat{j}+4\\hat{k})ms^{-1}\\end{array} \\). If an external magnetic field of \\(\\begin{array}{l}(5\\hat{i}+3\\hat{j}-6\\hat{k})\\times 10^{-3}T\\end{array} \\) exists in the region where the particle is moving then the force on the particle is \\(\\begin{array}{l}\\vec{F}\\times 10^{-9}N\\end{array} \\). The vector \\(\\begin{array}{l}\\vec{F}\\end{array} \\) is :\n\n\n1) \\(\\begin{array}{l}(-0.30\\hat{i}+0.32\\hat{j}-0.09\\hat{k})\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "1)",
+      "\\(\\begin{array}{l}(-3.0\\hat{i}+3.2\\hat{j}-0.9\\hat{k})\\end{array} \\)",
+      "\\(\\begin{array}{l}(-30\\hat{i}+32\\hat{j}-9\\hat{k})\\end{array} \\)",
+      "\\(\\begin{array}{l}(-300\\hat{i}+320\\hat{j}-90\\hat{k})\\end{array} \\)"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-sept-3-shift-1/"
+  },
+  {
+    "questionText": "A perfectly diamagnetic sphere has a small spherical cavity at its centre, which is filled with a paramagnetic substance. The whole system is placed in a uniform magnetic field B. Then the field inside the paramagnetic substance is:\n\n\n\t\n\n\n1) much large than \\(\\begin{array}{l}\\left | \\vec{B} \\right |\\end{array} \\) and parallel to \\(\\begin{array}{l}\\vec{B}\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-2020-Shift-2-3rd-Sept-Physics-Paper-With-Solutions-08.png",
+    "options": [
+      "much large than",
+      "zero",
+      "\\(\\begin{array}{l}\\vec{B}\\end{array} \\)",
+      "much large than \\(\\begin{array}{l}\\left | \\vec{B} \\right |\\end{array} \\) but opposite to \\(\\begin{array}{l}\\vec{B}\\end{array} \\)"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-sept-3-shift-2/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "Concentric metallic hollow spheres of radii R and 4R hold charges Q1 and Q2 respectively. Given that surface charge densities of the concentric spheres are equal, the potential difference V(R) – V(4R) is:\n\n\n1) \\(\\begin{array}{l}\\frac{3Q_{2}}{4\\pi \\varepsilon _{0}R}\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "1)",
+      "\\(\\begin{array}{l}\\frac{3Q_{1}}{4\\pi \\varepsilon _{0}R}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{3Q_{1}}{16\\pi \\varepsilon _{0}R}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{Q_{1}}{4\\pi \\varepsilon _{0}R}\\end{array} \\)"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-sept-3-shift-2/"
+  },
+  {
+    "questionText": "Two light waves having the same wavelength λ in vacuum are in phase initially. Then the first wave travels a path L1 through a medium of refractive index n1 while the second wave travels a path of length L2 through a medium of refractive index n2. After this the phase difference between the two waves is:\n\n\n\n\n\n1) \\(\\begin{array}{l}\\frac{2\\pi }{\\lambda }(n_{1}L_{1}-n_{2}L_{2})\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-2020-Shift-2-3rd-Sept-Physics-Paper-With-Solutions-13.png",
+    "options": [
+      "1)",
+      "\\(\\begin{array}{l}\\frac{2\\pi }{\\lambda }(\\frac{L_{1}}{n_{1}}-\\frac{L_{2}}{n_{2}})\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{2\\pi }{\\lambda }(\\frac{L_{2}}{n_{1}}-\\frac{L_{1}}{n_{2}})\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{2\\pi }{\\lambda }(n_{2}L_{1}-n_{1}L_{2})\\end{array} \\)"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-sept-3-shift-2/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "Question 1.The mass density of a spherical galaxy K varies as K/r over a large distance ‘r’ from its centre. In that region, a small star is in a circular orbit of radius R. Then the period of revolution, T depends on R as:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      " T2∝R",
+      " T2∝R3",
+      " T2∝ (1/R3)",
+      " T ∝R"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 2. An amplitude modulated wave is represented by the expression vm= 5(1 + 0.6 cos6280t )sin (211 x 104t) volts. The minimum and maximum amplitudes of the amplitude modulated wave are, respectively :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      " \\(\\begin{array}{l}\\frac{3}{2}V,5V\\end{array} \\)",
+      " 5V,8V",
+      " 3V,5V",
+      " \\(\\begin{array}{l}\\frac{5}{2}V,8V\\end{array} \\)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 4. A cylindrical vessel containing a liquid is rotated about its axis so that the liquid rises at its sides as shown in the figure. The radius of vessel is 5 cm an and the angular speed of rotation is \\(\\begin{array}{l}\\omega\\end{array} \\) rad s–1. The difference in the height, h (in cm) of liquid at the centre of vessel and at the side will be:\n\n\n\n\na) \\(\\begin{array}{l}\\frac{5\\omega ^{2}}{2g}\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-2020-Physics-Paper-Solutions-Sep-2-Shift-1.png",
+    "options": [
+      "",
+      " \\(\\begin{array}{l}\\frac{2\\omega ^{2}}{25g}\\end{array} \\)",
+      " \\(\\begin{array}{l}\\frac{25\\omega ^{2}}{2g}\\end{array} \\)",
+      " \\(\\begin{array}{l}\\frac{2\\omega ^{2}}{5g}\\end{array} \\)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-sep-2-shift-1/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "Question 6. A bead of mass m stays at point P (a, b) on a wire bent in the shape of a parabola y = 4Cx2 and rotating with angular speed \\(\\begin{array}{l}\\omega\\end{array} \\) (see figure). The value of \\(\\begin{array}{l}\\omega\\end{array} \\) is (neglect friction):\n\n\n\n\na) \\(\\begin{array}{l}\\sqrt{\\frac{2g}{C}}\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-2020-Physics-Paper-With-Solution-Shift-1-Sep-2.png",
+    "options": [
+      "",
+      " \\(\\begin{array}{l}2\\sqrt{gC}\\end{array} \\)",
+      " \\(\\begin{array}{l}\\sqrt{\\frac{2gC}{ab}}\\end{array} \\)",
+      " \\(\\begin{array}{l}2\\sqrt{2gC}\\end{array} \\)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-sep-2-shift-1/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "Question 7. Magnetic materials used for making permanent magnets (P) and magnets in a transformer (T) have different properties of the following, which property best matches for the type of magnet required?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      " P : Small retentivity, large coercivity",
+      " P : Large retentivity, large coercivity",
+      " T : Large retentivity, large coercivity",
+      " T : Large retentivity, small coercivity"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 8. Interference fringes are observed on a screen by illuminating two thin slits 1 mm apart with a light source (λ = 632.8 nm). The distance between the screen and the slits is 100cm. If a bright fringe is observed on screen at a distance of 1.27 mm from the central bright fringe, then the path difference between the waves, which are reaching this pointfrom the slits is close to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      " 2.05 μ m",
+      " 2.87 nm",
+      " 2 nm",
+      " 1.27 μ m"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 9. A gas mixture consists of 3 moles of oxygen and 5 moles of argon at temperature T. Assuming the gases to be ideal and the oxygen bond to be rigid, the total internal energy (in units of RT) of the mixture is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      " 11",
+      " 13",
+      " 15",
+      " 20"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 10. A plane electromagnetic wave, has frequency of 2.0 × 1010 Hz and its energy density is 1.02 × 10–8 J/m3 in vacuum. The amplitude of the magnetic field of the wave is close \\(\\begin{array}{l}(\\frac{1}{4\\pi \\varepsilon _{0}}=9 \\times 10^{9}\\frac{Nm^{2}}{C^{2}})\\end{array} \\) and speed of light = 3 x 108 m/s",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      " 160 nT",
+      " 150 nT",
+      " 180 nT",
+      " 190 nT"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 11.Consider four conducting materials copper, tungsten, mercury and aluminium with resistivity ρc, ρm , ρT and ρA respectively. Then:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      " ρc > ρA> ρT",
+      " ρA> ρm > ρc",
+      " ρA> ρT > ρc",
+      " ρm > ρA> ρc"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 12.A beam of protons with speed 4 x 105 ms–1 enters a uniform magnetic field of 0.3 T at an angle of 60° to the magnetic field. The pitch of the resulting helical path of protons is close to: (Mass of the pr oton =1.67 × 10–27 kg, charge of the proton =1.69 × 10–19C)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      " 4 cm",
+      " 2 cm",
+      " 12 cm",
+      " 5 cm"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 13. Two identical strings X and Z made of same material have tension Tx and Tz in them. If their fundamental frequencies are 450 Hz and 300 Hz, respectively, then the ratio Tx/Tz is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      " 2.25",
+      " 1.25",
+      " 0.44",
+      " 1.5"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 15. In a reactor, 2 kg of 92U235 fuel is fully used up in 30 days. The energy released perfission is 200 MeV. Given that the Avogadro number, N = 6.023 × 1026per kilo mole and1 eV =1.6 × 10–19 J. The power output of the reactor is close to",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      " 60 MW",
+      " 54 MW",
+      " 125 MW",
+      " 35 MW"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 16. A charged particle (mass m and charge q) moves along X axis with velocity V0. When it passes through the origin it enters a region having uniform electric field \\(\\begin{array}{l}\\vec{E}=-E\\hat{j}\\end{array} \\) which extends upto x = d. Equation of path of electron in the region x > d is :\n\n\n\n\na) \\(\\begin{array}{l}y=\\frac{qEd^{2}}{mV_{0}^{2}}x\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-2020-Physics-Paper-With-Solution-Sept-2-Shift-1.png",
+    "options": [
+      "",
+      " \\(\\begin{array}{l}y=\\frac{qEd}{mV_{0}^{2}}\\left [ \\frac{d}{2}-x \\right ]\\end{array} \\)",
+      " \\(\\begin{array}{l}y=\\frac{qEd}{mV_{0}^{2}}\\left [x-d\\right ]\\end{array} \\)",
+      " \\(\\begin{array}{l}y=\\frac{qEd}{mV_{0}^{2}}x\\end{array} \\)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-sep-2-shift-1/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "Question 17. Train A and train B are running on parallel tracks in the opposite directions with speeds of 36 km/hour and 72 km/hour, respectively. A person is walking in train A in the direction opposite to its motion with a speed of 1.8 km/hour. Speed (in ms–1) of this person as observed from train B will be close to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      " 29.5 ms–1",
+      " 30.5 ms–1",
+      " 31.5 ms–1",
+      " 28.5 ms–1"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 19.The least count of the main scale of a vernier callipers is 1 mm. Its vernier scale is divided into 10 divisions and coincide with 9 divisions of the main scale. When jaws are touching each other, the 7th division of vernier scale coincides with a division of main scale and the zero of vernier scale is lying right side of the zero of main scale. When this vernier is used to measure length of a cylinder the zero of the vernier scale between 3.1 cm and 3.2 cm and 4th VSD coincides with a main scale division. The length of the cylinder is: (VSD is vernier scale division)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      " 3.21 cm",
+      " 3.07 cm",
+      " 2.99 cm",
+      " 3.2 cm"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 20. A particle of mass m with an initial velocity \\(\\begin{array}{l}u\\hat{i}\\end{array} \\) collides perfectly elastically with a mass 3m at rest. It moves with a velocity \\(\\begin{array}{l}u\\hat{j}\\end{array} \\) after collision, then v is given by:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      " \\(\\begin{array}{l}v=\\frac{1}{\\sqrt{6}}u\\end{array} \\)",
+      " \\(\\begin{array}{l}v=\\sqrt{\\frac{2}{3}u}\\end{array} \\)",
+      " \\(\\begin{array}{l}v=\\frac{u}{\\sqrt{3}}\\end{array} \\)",
+      " \\(\\begin{array}{l}v=\\frac{u}{\\sqrt{2}}\\end{array} \\)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 3. Consider an infinitely long current carrying cylindrical straight wire having radius ‘a’. Then the ratio of magnetic field due to wire at distance a/3 and 2a, respectively from axis of wire is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      " 3/2",
+      " 2/3",
+      " 2",
+      " 1/2"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 6.An electric dipole of moment \\(\\begin{array}{l}\\vec{p} = (-\\hat{i}-3\\hat{j}+2\\hat{k})\\times 10^{-29}Cm\\end{array} \\) is at the origin (0,0,0). The electric field due to this dipole at \\(\\begin{array}{l}\\vec{r} = (\\hat{i}+3\\hat{j}+5\\hat{k})\\end{array} \\) is parallel to [Note that \\(\\begin{array}{l}\\vec{r} .\\vec{p} = 0\\end{array} \\) ]",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      " i -3j-2k",
+      " -i-3j+2k",
+      " i+3j-2k",
+      " -i+3j-2k"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 7. A body A of mass m is revolving around a planet in a circular orbit of radius R. At the instant the particle B has velocity , another particle of mass m/2 moving at velocity of V/2, collides perfectly inelastically with the first particle. Then, the combined body",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      " Fall vertically downward towards the planet.",
+      " Continue to move in a circular orbit",
+      " Escape from the Planet’s Gravitational field",
+      " Start moving in an elliptical orbit around the planet"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 8. Two particles of equal mass m have respective initial velocities \\(\\begin{array}{l}\\vec{u_{1}} = u\\hat{i}\\end{array} \\) and \\(\\begin{array}{l}\\vec{u_{2}} = \\frac{u}{2}\\hat{i} + \\frac{u}{2}\\hat{j}\\end{array} \\) . They collide completely inelastically. Find the loss in kinetic energy.",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      " 3mu2/4",
+      " v2mu2/v3",
+      " mu2/3",
+      " mu2/8"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 9.Three harmonic waves of same frequency (v) and intensity (I0) having initial phase angles 0, p/4, -p/4 rad respectively. When they are superimposed, the resultant intensity is close to;",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      " 5.8 I0",
+      " I0",
+      " 3 I0",
+      " 0.2 I0"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 11. A screw gauge advances by 3 mm on main scale in 6 rotations. There are 50 divisions on circular scale. Find least count of screw gauge?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      " 0.01 cm",
+      " 0.001 cm",
+      " 0.001 mm",
+      " 0.02 mm"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 12. A telescope of aperture diameter 5 m is used to observe the moon from the earth. Distance between the moon and earth is 4 × 105 km. The minimum distance between two points on the moon’s surface which can be resolved using this telescope is close to (Wavelength of light is 5500 A° )",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      " 60 m",
+      " 20 m",
+      " 600 m",
+      " 200 m"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 13. Radiation with wavelength 6561 A° falls on a metal surface to produce photoelectrons. The electrons are made to enter a uniform magnetic field of 3×10-4 T. If the radius of largest circular path followed by electron is 10 mm, the work function of metal is close to;",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      " 1.8 eV",
+      " 0.8 eV",
+      " 1.1 eV",
+      " 1.6 eV"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 14. Kinetic energy of the particle is ?? and it’s de–Broglie wavelength is ??. On increasing its K.E by ???, it’s new de–Broglie wavelength becomes ?/2. Then ??? is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      " 3E",
+      " E",
+      " 2E",
+      " 4E"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 15. A quantity is given by f = v(hc5/G), where c is speed of light, G is universal gravitational constant and h is the Planck’s constant. Dimension of f is that of;",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      " area",
+      " energy",
+      " volume",
+      " momentum"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 16. A vessel of depth 2h is half filled with a liquid of refractive index v2 in upper half and with a liquid of refractive index 2v2 in lower half. The liquids are immiscible. The apparent depth of inner surface of the bottom of the vessel will be;",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      " 3hv2/4",
+      " h/v2",
+      " h/3v2",
+      " h/2(v2+1)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 18. Two plane electromagnetic waves are moving in vacuum in whose electric field vectors are given by \n\\(\\begin{array}{l}\\vec{E_{1}} = E_{0}\\hat{j} \\cos (kx – \\omega t)\\end{array} \\) and \\(\\begin{array}{l}\\vec{E_{2}} = E_{0}\\hat{k} \\cos (ky – \\omega t)\\end{array} \\). At t = 0 A charge q is at origin with velocity \\(\\begin{array}{l}\\vec{v} = 0.8c\\hat{j}\\end{array} \\) (?? is speed of light in vacuum). The instantaneous force on this charge (all data are in SI units)\n\na) \\(\\begin{array}{l}qE_{0}(0.4\\hat{i}-3\\hat{j}+0.8\\hat{k})\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "",
+      " \\(\\begin{array}{l}qE_{0}(0.8\\hat{i}+\\hat{j}+0.2\\hat{k})\\end{array} \\)",
+      " \\(\\begin{array}{l}qE_{0}(0.8\\hat{i}-\\hat{j}+0.4\\hat{k})\\end{array} \\)",
+      " \\(\\begin{array}{l}qE_{0}(-0.8\\hat{i}+\\hat{j}+\\hat{k})\\end{array} \\)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 19.Consider two ideal diatomic gases A and B at some temperature T. Molecules of the gas A are rigid, and have a mass m. Molecules of the gas B have an additional vibration mode and have a mass m/4 . The ratio of molar specific heat at constant volume of gas A and B is;",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      " 7/9",
+      " 5/9",
+      " 3/5",
+      " 5/7"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-9-shift-1/"
+  },
+  {
+    "questionText": "1.An electron gun is placed inside a long solenoid of radius R on its axis. The solenoid has n turns/length and carries a current i. The electron gun shoots an electron along the radius of solenoid with speed If the electron does not hit the surface of the solenoid, maximum possible value of v is (all symbols have their standard meaning):",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-2020-Paper-with-Solution-Physics-9th-Jan-Shift-2.png",
+    "options": [
+      "\\(\\begin{array}{l}\\frac{2Re\\mu _{0}in}{m}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{Re\\mu _{0}in}{2m}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{Re\\mu _{0}in}{m}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{Re\\mu _{0}in}{4m}\\end{array} \\)"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-9-shift-2/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "2.Two identical capacitors A and B, charged to the same potential 5V are connected in two different circuit as shows below at time t=0. If the charges on capacitors A and B at time t= CR is QA and QB respectively, then (Here is the base of natural logarithm)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-2020-Paper-with-Solutions-Physics-9th-Jan-Shift-2-03.png",
+    "options": [
+      "CV,CV/e",
+      "CV/e, CV/2e",
+      "CV/e, CV/2",
+      "CV/e, CV"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-9-shift-2/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "4.A particle starts from the origin at t = 0 with an initial velocity of  \\(\\begin{array}{l}\\vec{u}=3\\hat{i}\\end{array} \\) from origin and moves in the x-y plane with a constant acceleration \\(\\begin{array}{l}\\vec{a}=6\\hat{i}+4\\hat{j}m/s^{2}\\end{array} \\). The x- coordinate of the particle at the instant when its y-cordinated is 32 meters. The value of D is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "60",
+      "50",
+      "32",
+      "40"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-9-shift-2/"
+  },
+  {
+    "questionText": "A spring mass system (mass m, spring constant k and natural length l) rest in equilibrium on a horizontal disc. The free end of the spring is fixed at the center of the disc. If the disc together with spring mass system, rotates about its axis with an angular velocity (k>>>m2), the relative change in the length of the spring is best given by the option:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "\\(\\begin{array}{l}\\frac{m\\omega^{2} }{3k}\\end{array} \\)",
+      "b .\\(\\begin{array}{l}\\sqrt{\\frac{2}{3}}\\frac{m\\omega^{2} }{k}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{m\\omega^{2} }{k}\\end{array} \\)",
+      "d .\\(\\begin{array}{l}\\frac{2m\\omega^{2} }{k}\\end{array} \\)"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-9-shift-2/"
+  },
+  {
+    "questionText": "A small circular loop of conducting wire has radius a and carries current i. It is placed in a uniform magnetic field B perpendicular to its plane such that when rotated slightly about its diameter and released, its starts performing simple harmonic motion of time period T.  If the mass of the loop is m then",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "\\(\\begin{array}{l}T= \\sqrt{\\frac{\\pi M}{iB}}\\end{array} \\)",
+      "\\(\\begin{array}{l}T= \\sqrt{\\frac{2\\pi M}{iB}}\\end{array} \\)",
+      "\\(\\begin{array}{l}T= \\sqrt{\\frac{\\pi M}{2iB}}\\end{array} \\)",
+      "\\(\\begin{array}{l}T= \\sqrt{\\frac{2M}{iB}}\\end{array} \\)"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-9-shift-2/"
+  },
+  {
+    "questionText": "A small spherical droplet of density d is floating exactly half immersed in a liquid of density ρ and surface tension T. The radius of droplet is (take note that the surface tension applied an upward force on droplet)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "\\(\\begin{array}{l}r= \\sqrt{\\frac{2T}{3(\\rho +d)g}}\\end{array} \\)",
+      "\\(\\begin{array}{l}r= \\sqrt{\\frac{T}{(\\rho +d)g}}\\end{array} \\)",
+      "\\(\\begin{array}{l}r= \\sqrt{\\frac{T}{(d-\\rho )g}}\\end{array} \\)",
+      "\\(\\begin{array}{l}r= \\sqrt{\\frac{3T}{(2\\rho- d)g}}\\end{array} \\)"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-9-shift-2/"
+  },
+  {
+    "questionText": "A wire of length L and mass 6 x 10-3 kg/m per unit length is put under tension of 540N. Two consecutive frequencies that it resonates at are: 420 Hz and 490 Hz . Then L in meter is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "8.1 m",
+      "2.1 m",
+      "1.1 m",
+      "5.1 m"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-9-shift-2/"
+  },
+  {
+    "questionText": "A plane electromagnetic wave is propagating along the direction \\(\\begin{array}{l}\\frac{\\hat{i}+\\hat{j}}{\\sqrt{2}}\\end{array} \\) with the polarization along the direction ̂\\(\\begin{array}{l}\\hat{k}\\end{array} \\).The correct form of the magnetic field of the wave would be ( here B0 is an appropriate constant)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "\\(\\begin{array}{l}B_{0}\\frac{\\hat{i}-\\hat{j}}{\\sqrt{2}}cos(\\omega t-k(\\frac{\\hat{i}+\\hat{j}}{\\sqrt{2}}))\\end{array} \\)",
+      "\\(\\begin{array}{l}B_{0}\\frac{\\hat{i}+\\hat{j}}{\\sqrt{2}}cos(\\omega t+k(\\frac{\\hat{i}+\\hat{j}}{\\sqrt{2}}))\\end{array} \\)",
+      "\\(\\begin{array}{l}B_{0}\\frac{\\hat{i}-\\hat{j}}{\\sqrt{2}}cos(\\omega t+k(\\frac{\\hat{i}+\\hat{j}}{\\sqrt{2}}))\\end{array} \\)",
+      "\\(\\begin{array}{l}B_{0}\\hat{k}cos(\\omega t-k(\\frac{\\hat{i}+\\hat{j}}{\\sqrt{2}}))\\end{array} \\)"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-9-shift-2/"
+  },
+  {
+    "questionText": "Two gases-Argon (atomic radius 0.07 nm atomic weight 40) and Xenon (atomic radius 0.1 nm atomic weight  140) have the same number density and are at the same temperature. The ratio of their respective mean free time is closest to",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "4.67",
+      "2.04",
+      "1.83",
+      "3.67"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-9-shift-2/"
+  },
+  {
+    "questionText": "Two steel wires having same length are suspended from a ceiling under the same load. If the ratio of their energy stored per unit volume is 1: 4, the ratio of their diameters is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "a.√2:1",
+      "b.1: √2",
+      "c.1:2",
+      "2:1"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-9-shift-2/"
+  },
+  {
+    "questionText": "12: Planets A has a mass M and radius R. Planet B has the mass and half the radius of planet A. If the escape velocities from the planets A and B are vA and vB respectively, then surfaces is \\(\\begin{array}{l}\\frac{v_{A}}{v_{B}}=\\frac{n}{4}\\end{array} \\)  , the value of n is :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "a.3",
+      "b.2",
+      "c.4",
+      "d.5"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-9-shift-2/"
+  },
+  {
+    "questionText": "A rod of length L has non-uniform linear mass density given by  \\(\\begin{array}{l}\\rho (x)=(a+b\\frac{x}{L}^{2})\\end{array} \\),  Where a and b are constants and \\(\\begin{array}{l}0\\leq x\\leq L\\end{array} \\).The value of x for the center of mass of the rod is at :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-2020-Paper-with-Solutions-Physics-9th-Jan-Shift-2-07.png",
+    "options": [
+      "\\(\\begin{array}{l}\\frac{3L}{2}(\\frac{2a+b}{3a+b})\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{3L}{4}(\\frac{2a+b}{3a+b})\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{3L}{4}(\\frac{a+b}{3a+b})\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{4L}{3}(\\frac{a+b}{3a+b})\\end{array} \\)"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-9-shift-2/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "A particle of mass m is projected with a speed u from the ground at angle is θ = π/3 w.r.t. horizontal (x-axis). When it has reached its maximum height, it collides completely inelastically with another particle of the same mass and velocity ̂\\(\\begin{array}{l}u\\hat{i}\\end{array} \\). The horizontal distance covered by the combined mass before reaching the ground is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "\\(\\begin{array}{l}\\frac{3\\sqrt{3}u^{2}}{8g}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{2\\sqrt{2}u^{2}}{g}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{5u^{2}}{8g}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{3\\sqrt{2}u^{2}}{4g}\\end{array} \\)"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-9-shift-2/"
+  },
+  {
+    "questionText": "A uniformly thick wheel with moment of inertia I and radius R is free to rotate about its center of mass (see fig). A massless string is wrapped over its rim and two blocks of massless string is wrapped over its rim and two blocks of masses m1 and m2 (m1>m2 ) are attached to the ends of string. The system is released from rest. The angular speed of the wheel when m1 descend by a distance h is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-2020-Paper-with-Solutions-Physics-9th-Jan-Shift-2-09.png",
+    "options": [
+      "\\(\\begin{array}{l}\\frac{1}{R}\\sqrt{\\frac{2(m_{1}-m_{2})gh}{(m_{1}+m_{2})+\\frac{1}{R^{2}}}}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{gh}{R}\\sqrt{\\frac{(m_{1}+m_{2})}{(m_{1}+m_{2})+\\frac{1}{R^{4}}}}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{gh}{R}\\sqrt{\\frac{(m_{1}-m_{2})}{(m_{1}+m_{2})+\\frac{1}{R}}}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{1}{R}\\sqrt{\\frac{2(m_{2}+m_{1})gh}{(m_{1}+m_{2})+\\frac{1}{R^{2}}}}\\end{array} \\)"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-9-shift-2/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "The energy required to ionise a hydrogen like ion in its ground state is 9 Rydbergs. What is the wavelength of the radiation emitted when the electron in this ion jumps from the second excited state to the ground stare?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "8.6",
+      "b.11.4",
+      "c.24.2",
+      "d.35.8"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-9-shift-2/"
+  },
+  {
+    "questionText": "There is a small source of light at some depth below the surface of water (refractive index 4/3) in a tank of large cross sectional surface area. Neglecting any reflection from the bottom and absorption by water, percentage of light that emerges out of surface is (nearly): [Use the fact that surface area of a spherical cap of height h and radius of curvature r is 2πrh]",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "a.17%",
+      "b.34%",
+      "c.50%",
+      "d.21%"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-9-shift-2/"
+  },
+  {
+    "questionText": "An electron of mass m and magnitude of charge |e| initially at rest gets accelerated by a constant electric field E. The of charge of de-Broglie wavelength of this electron at time t ignoring relativistic effects is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "\\(\\begin{array}{l}-\\frac{\\left | e \\right |Et}{h}\\end{array} \\)",
+      "\\(\\begin{array}{l}-\\frac{h}{\\left | e \\right |E\\sqrt{t}}\\end{array} \\)",
+      "\\(\\begin{array}{l}-\\frac{h}{\\left | e \\right |Et^{2}}\\end{array} \\)",
+      "\\(\\begin{array}{l}-\\frac{2ht^{2}}{\\left | e \\right |E}\\end{array} \\)"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-9-shift-2/"
+  },
+  {
+    "questionText": "In LC circuit the inductance L = 40mH and C = 100 μF. If a voltage V(t) = 10sin(314t) is applied to the circuit, the current in the circuit is given as",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "10cos (314t)",
+      "0.52cos (314t)",
+      "0.52sin (314t)",
+      "5.2cos (314t)"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-9-shift-2/"
+  },
+  {
+    "questionText": "The current (i) in the network is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-2020-Paper-with-Solutions-Physics-9th-Jan-Shift-2-12.png",
+    "options": [
+      "0A",
+      "0.3 A",
+      "0.2 A",
+      "0.6 A"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-9-shift-2/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "A very long wire ABDMNDC is shown in figure carrying current 𝑖. AB and BC parts are straight, long and at right angle. At D wire forms a circular turn DMND of radius 𝑅. AB, BC are tangential to circular turn at N and D. Magnetic field at the centre of circle is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-2020-Paper-with-Solutions-Physics-8th-Jan-Shift-2-01.png",
+    "options": [
+      "𝜇𝑜𝑖/2𝜋𝑅 [𝜋 −/1√2]",
+      "𝜇𝑜𝑖/2𝜋𝑅[𝜋 + 1]",
+      "𝜇𝑜𝑖/2𝑅",
+      "𝜇𝑜𝑖/2𝜋𝑅 [𝜋 +1/√2]"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-8-shift-2/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "A particle moves such that its position\\(\\begin{array}{l}\\vec{r(t)}=cos\\omega t\\hat{i}+sin\\omega t\\hat{j}\\end{array} \\), where 𝜔 is a constant and 𝑡 is time. Then which of the following statements is true for the velocity \\(\\begin{array}{l}\\vec{v}\\end{array} \\) and acceleration \\(\\begin{array}{l}\\vec{a}\\end{array} \\) (𝑡) of the particle?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "\\(\\begin{array}{l}\\vec{v}\\end{array} \\) and \\(\\begin{array}{l}\\vec{a}\\end{array} \\) both are perpendicular to \\(\\begin{array}{l}\\vec{r}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\vec{v}\\end{array} \\) and \\(\\begin{array}{l}\\vec{r}\\end{array} \\) both are parallel to \\(\\begin{array}{l}\\vec{r}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\vec{v}\\end{array} \\) is perpendicular to \\(\\begin{array}{l}\\vec{r}\\end{array} \\) and \\(\\begin{array}{l}\\vec{a}\\end{array} \\)  is directed away from the origin",
+      "\\(\\begin{array}{l}\\vec{v}\\end{array} \\) is perpendicular to \\(\\begin{array}{l}\\vec{r}\\end{array} \\) and \\(\\begin{array}{l}\\vec{a}\\end{array} \\)  is directed towards the origin"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-8-shift-2/"
+  },
+  {
+    "questionText": "Consider two charged metallic spheres 𝑆1 and 𝑆2 of radii 𝑟1 and 𝑟2, respectively. The electric fields 𝐸1(on 𝑆1) and 𝐸2(on 𝑆2) on their surfaces are such that 𝐸1/𝐸2 = 𝑟1/ 𝑟2. Then the ratio 𝑉1(on 𝑆1)/𝑉2(on 𝑆2) of the electrostatic potentials on each sphere is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "𝑟1/𝑟2",
+      "(𝑟1/𝑟2)2",
+      "𝑟2/𝑟1",
+      "(𝑟1/𝑟2)3"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-8-shift-2/"
+  },
+  {
+    "questionText": "A transverse wave travels on a taut steel wire with a velocity of 𝑉 when tension in it is 2.06 × 104 𝑁. When the tension is changed to 𝑇, the velocity changed to 𝑉/2. The value of 𝑇 is close to",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "30.5 × 104 𝑁",
+      "2.50 × 104 𝑁",
+      "10.2 × 102 𝑁",
+      "5.15 × 103 𝑁"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-8-shift-2/"
+  },
+  {
+    "questionText": "A particle of mass 𝑚 is dropped from a height ℎ above the ground. At the same time another particle of the same mass is thrown vertically upwards from the ground with a speed of √2𝑔ℎ. If they collide head-on completely inelastically, the time taken for the combined mass to reach the ground, in units of  √ ℎ/𝑔 is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "√3/2",
+      "√1/2",
+      "1/2",
+      "√3/4"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-8-shift-2/"
+  },
+  {
+    "questionText": "A Carnot engine having an efficiency of 1/10 is being used as a refrigerator. If the work done on the refrigerator is 10 J, the amount of heat absorbed from the reservoir at lower temperature is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "99 J",
+      "90 J",
+      "1 J",
+      "100 J"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-8-shift-2/"
+  },
+  {
+    "questionText": "Two liquids of density 𝜌1 and 𝜌2 (𝜌2 = 2𝜌1) are filled up behind a square wall of side 10 𝑚 as shown in figure. Each liquid has a height of 5 𝑚. The ratio of forces due to these liquids exerted on the upper part MN to that at the lower part NO is (Assume that the liquids are not mixing)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-2020-Paper-with-Solutions-Physics-8th-Jan-Shift-2-04.png",
+    "options": [
+      "2/3",
+      "1/2",
+      "1/4",
+      "1/ 3"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-8-shift-2/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "As shown in figure, when a spherical cavity (centered at O) of radius 1 m is cut out of a uniform sphere of radius 𝑅 (centered at C ), the center of mass of remaining (shaded) part of sphere is shown by COM, i.e. on the surface of the cavity. R can be determined by the equation",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-2020-Paper-with-Solutions-Physics-8th-Jan-Shift-2-06.png",
+    "options": [
+      "(𝑅 2 + 𝑅 + 1)(2 − 𝑅) = 1",
+      "(𝑅 2 − 𝑅 − 1)(2 − 𝑅) = 1",
+      "(𝑅 2 − 𝑅 + 1)(2 − 𝑅) = 1",
+      "(𝑅 2 + 𝑅 − 1)(2 − 𝑅) = 1"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-8-shift-2/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "A galvanometer having a coil resistance 100 Ω gives a full scale deflection when a current of 1 mA is passed through it. What is the value of the resistance which can convert this galvanometer into voltmeter giving full scale deflection for a potential difference of 10 V? In full scale deflection, current in galvanometer of resistance is 1 𝑚𝐴. Resistance required in series to convert it into voltmeter of range 10 𝑉.",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "7.9 𝑘Ω",
+      "9.9 𝑘Ω",
+      "8.9 𝑘Ω",
+      "10 𝑘Ω"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-8-shift-2/"
+  },
+  {
+    "questionText": "Consider a mixture of 𝑛 moles of helium gas and 2𝑛 moles of oxygen gas (molecules taken to be rigid) as an ideal gas. Its (𝐶𝑝/𝐶𝑣) value will be",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "67/45",
+      "40/27",
+      "19/13",
+      "23/15"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-8-shift-2/"
+  },
+  {
+    "questionText": "In a double-slit experiment, at a certain point on the screen the path difference between the two interfering waves is 1 8 𝑡ℎ of a wavelength. The ratio of the intensity of light at that point to that at the centre of a bright fringe is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "0.568",
+      "0.853",
+      "0.672",
+      "0.760"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-8-shift-2/"
+  },
+  {
+    "questionText": "As shown in figure, a battery of emf 𝜀 is connected to an inductor 𝐿 and resistance 𝑅 in series. The switch is closed at 𝑡 = 0. The total charge that flows from the battery, between 𝑡 = 0 and 𝑡 = 𝑡𝑐 (𝑡𝑐 is the time constant of the circuit) is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-2020-Paper-with-Solutions-Physics-8th-Jan-Shift-2-12.png",
+    "options": [
+      "ε𝐿/𝑒𝑅2",
+      "ε𝑅 𝑒𝐿2",
+      "ε𝐿/𝑅2 (1 – (1/𝑒) )",
+      "ε𝐿/𝑅2"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-8-shift-2/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "A simple pendulum is being used to determine the value of gravitational acceleration 𝑔 at a certain place. The length of the pendulum is 25.0 𝑐𝑚 and a stop watch with 1 sec resolution measures the time taken for 40 oscillations to be 50 sec. The accuracy in 𝑔",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "5.40%",
+      "3.40%",
+      "4.40%",
+      "2.4%"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-8-shift-2/"
+  },
+  {
+    "questionText": "An electron (mass 𝑚) with initial velocity \\(\\begin{array}{l}\\vec{v}=v_{0}\\hat{i}+v_{0}\\hat{j}\\end{array} \\) is in an electric field \\(\\begin{array}{l}\\vec{E}=-E_{0}\\hat{k}\\end{array} \\). If 𝜆0 is initial de-Broglie wavelength of electron, its de-Broglie wavelength at time 𝑡 is given by",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "\\(\\begin{array}{l}\\lambda =\\frac{\\lambda _{0}}{\\sqrt{1+\\frac{E_{0}^{2}e^{2}}{m^{2}v_{0}^{2}}t^{2}}}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\lambda =\\frac{\\lambda _{0}\\sqrt{2}}{\\sqrt{1+\\frac{E_{0}^{2}e^{2}}{m^{2}v_{0}^{2}}t^{2}}}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\lambda =\\frac{\\lambda _{0}}{\\sqrt{1+\\frac{E_{0}^{2}e^{2}}{2m^{2}v_{0}^{2}}t^{2}}}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\lambda =\\frac{\\lambda _{0}}{\\sqrt{2+\\frac{E_{0}^{2}e^{2}}{m^{2}v_{0}^{2}}t^{2}}}\\end{array} \\)"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-8-shift-2/"
+  },
+  {
+    "questionText": "In the given circuit, value of 𝑌 is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-2020-Paper-with-Solutions-Physics-8th-Jan-Shift-2-16.png",
+    "options": [
+      "1",
+      "0",
+      "Will not execute",
+      "Toggles between 0 and 1"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-8-shift-2/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "A plane electromagnetic wave of frequency 25 GHz is propagating in vacuum along the zdirection. At a particular point in space and time, the magnetic field is given by \\(\\begin{array}{l}\\vec{B}=5 \\times 10^{-8}\\hat{j}T\\end{array} \\). The corresponding electric field is given by \\(\\begin{array}{l}\\vec{E}\\end{array} \\) is (speed of light 𝑐 = 3 × 10 8 𝑚/𝑠)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "1.66 × 10−16𝑖̂ V/m",
+      "−1.66 × 10−16𝑖̂ V/m",
+      "15𝑖̂ V/m",
+      "−15𝑖̂ V/m"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-8-shift-2/"
+  },
+  {
+    "questionText": "A polarizer-analyzer set is adjusted such that the intensity of light coming out of the analyzer is just 10 % of the original intensity. Assuming that the polarizer-analyzer set does not absorb any light, the angle by which the analyser need to be rotated further to reduce the output intensity to be zero is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "45o",
+      "90o",
+      "71.6o",
+      "18.40"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-7-shift-1/"
+  },
+  {
+    "questionText": "Two moles of an ideal gas with Cp/Cv = 5/3 are mixed with 3 moles of another ideal gas with Cp/Cv = 4/3. The value of Cp/Cv for the mixture is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "1.47",
+      "1.4",
+      "1.42",
+      "1.50"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-7-shift-1/"
+  },
+  {
+    "questionText": "Consider a circular coil of wire carrying current I, forming a magnetic dipole. The magnetic flux through an infinite plane that contains the circular coil and excluding the circular coil area is given by φi The magnetic flux through the area of the circular coil area is given by φ0.\nWhich of the following option is correct?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "φi= −φo",
+      "φi>φo",
+      "φi<φo",
+      "φi=φo"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-7-shift-1/"
+  },
+  {
+    "questionText": "Two infinite planes each with uniform surface charge density +σ C/m2 are kept in such a way that the angle between them is 30o. The electric field in the region shown between them is given by:\n\n\na. \\(\\begin{array}{l}\\frac{\\sigma }{2\\epsilon _{0}}\\left [ (1-\\frac{\\sqrt{3}}{2})\\hat{y}-\\frac{1}{2}\\hat{x}) \\right ]\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-Physics-Paper-2020-With-Solutions-Jan-7-Shift-1.png",
+    "options": [
+      "a.",
+      "\\(\\begin{array}{l}\\frac{\\sigma }{2\\epsilon _{0}}\\left [ (1+\\frac{\\sqrt{3}}{2})\\hat{y}-\\frac{1}{2}\\hat{x}) \\right ]\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{\\sigma }{2\\epsilon _{0}}\\left [ (1-\\frac{\\sqrt{3}}{2})\\hat{y}+\\frac{1}{2}\\hat{x}) \\right ]\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{\\sigma }{2\\epsilon _{0}}\\left [ (1+\\frac{\\sqrt{3}}{2})\\hat{y}+\\frac{1}{2}\\hat{x}) \\right ]\\end{array} \\)"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-7-shift-1/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "If the magnetic field in a plane electromagnetic wave is given by B˙ = 3 × 10−8 sin(1.6 × 103x + 48 × 1010 t)ˆj T then what will be expression for electric field?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "E˙ = 3 × 10−8sin(1.6 × 103x + 48 × 1010t)ˆi V/m",
+      "E˙ = 3 × 10−8sin(1.6 × 103x + 48 × 1010t)ˆj V/m",
+      "E˙ = 60 sin(1.6 × 103x + 48 × 1010t)kˆ V/m",
+      "E˙ = 9 sin(1.6 × 103x + 48 × 1010t)kˆ V/m"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-7-shift-1/"
+  },
+  {
+    "questionText": "The time period of revolution of electron in its ground state orbit in a hydrogen atom is 1.6 × 10−16s. The frequency of revolution of the electron in its first excited state (in s−1) is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "6.2 × 1015",
+      "7.8 × 1014",
+      "1.6 × 1014",
+      "5.6 × 1012"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-7-shift-1/"
+  },
+  {
+    "questionText": "A LCR circuit behaves like a damped harmonic oscillator. Comparing it with a physical spring-mass damped oscillator having damping constant ’b’, the correct equivalence will be",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "L ↔1/b, C ↔1/m, R ↔1/k",
+      "L ↔ k, C ↔ b, R ↔ m",
+      "L ↔ m, C ↔ k, R ↔ b",
+      "L ↔ m, C ↔ 1/k , R ↔ b"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-7-shift-1/"
+  },
+  {
+    "questionText": "Visible light of wavelength 6000 × 10−8 cm falls normally on a single slit and produces a diffraction pattern. It is found that the second diffraction minima is at 60o from the central maxima. If the first minimum is produced at θ1, then θ1 is close to",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "20o",
+      "45o",
+      "30o",
+      "25o"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-7-shift-1/"
+  },
+  {
+    "questionText": "The radius of gyration of a uniform rod of length l about an axis passing through a point l/4 away from the center of the rod, and perpendicular to it, is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "√ (7/48)l",
+      "√ (3/8) l",
+      "(1/4) l",
+      "(1/8) l"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-7-shift-1/"
+  },
+  {
+    "questionText": "A satellite of mass m is launched vertically upward with an initial speed u from the surface of the earth. After it reaches height R(R = radius of earth), it ejects a rocket of mass m/10 so that subsequently the satellite moves in a circular orbit. The kinetic energy of the rocket is (G = gravitational constant; M is the mass of earth)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "\\(\\begin{array}{l}5m\\left[u^{2}-\\frac{119}{200}\\frac{GM}{R}\\right]\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{m}{20}\\left [ u-\\sqrt{\\frac{2GM}{3R}} \\right ]^{2}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{3m}{8}\\left [ u+\\sqrt{\\frac{5GM}{6R}} \\right ]^{2}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{m}{20}\\left [ u^{2}+\\frac{113}{200}{\\frac{GM}{R}} \\right ]\\end{array} \\)"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-7-shift-1/"
+  },
+  {
+    "questionText": "Three point particles of mass 1 kg, 1.5 kg and 2.5 kg are placed at three corners of a right triangle of sides 4.0 cm, 3.0 cm and 5.0 cm as shown in the figure. The centre of mass of the system is at the point:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "0.9 cm right and 2.0 cm above 1 kg mass",
+      "2.0 cm right and 0.9 cm above 1 kg mass",
+      "1.5 cm right and 1.2 cm above 1 kg mass",
+      "0.6 cm right and 2.0 cm above 1 kg mass"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-7-shift-1/"
+  },
+  {
+    "questionText": "If we need a magnification of 375 from a compound microscope of tube length 150 mm and an objective of focal length 5 mm, the focal length of the eye-piece should be close to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "22 mm",
+      "12 mm",
+      "2 mm",
+      "33 mm"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-7-shift-1/"
+  },
+  {
+    "questionText": "Speed of transverse wave on a straight wire (mass 6.0 g, length 60 cm and area of cross-section 1.0 mm2) is 90m/s. If the Young’s modulus of wire is 16 × 1011Nm−2, the extension of wire over its natural length is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "0.03 mm",
+      "0.04 mm",
+      "0.02 mm",
+      "0.01 mm"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-7-shift-1/"
+  },
+  {
+    "questionText": "18.1 liter of dry air at STP expands adiabatically to a volume of 3 litres. If γ = 1.4, the work done by air is (31.4 = 4.655) (take air to be an ideal gas)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "48 J",
+      "100.8 J",
+      "90.5 J",
+      "60.7 J"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-7-shift-1/"
+  },
+  {
+    "questionText": "A bob of mass m is tied by a massless string whose other end portion is wound on a fly wheel (disc) of radius r and mass m. When released from the rest, the bob starts falling vertically. When it has covered a distance h, the angular speed of the wheel will be:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "r√3/4gh",
+      "(1/r)√4gh/3",
+      "( r√3)/2gh",
+      "(1/r)√2gh/3"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-7-shift-1/"
+  },
+  {
+    "questionText": "A parallel plate capacitor has plates of area A separated by distance ‘d’ between them. It is filled with a dielectric which has a dielectric constant varies as k (x) = k(1 + αx), where ‘x’ is the distance measured from one of the plates. If (αd <<1), the total capacitance of the system is best given by the expression:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-Physics-Paper-2020-Solution-Jan-7-Shift-1.png",
+    "options": [
+      "a.\\(\\begin{array}{l}\\frac{A\\epsilon _{0}k}{d}\\left [ 1+(\\frac{\\alpha d}{2})^{2}\\right ]\\end{array} \\)",
+      "b.\\(\\begin{array}{l}\\frac{A\\epsilon _{0}k}{d}\\left [ 1+(\\frac{\\alpha d}{2})\\right ]\\end{array} \\)",
+      "c.\\(\\begin{array}{l}\\frac{A\\epsilon _{0}k}{d}\\left [ 1+(\\frac{\\alpha^{2} d}{2})\\right ]\\end{array} \\)",
+      "d.\\(\\begin{array}{l}\\frac{A\\epsilon _{0}k}{d}\\left [ 1+{\\alpha d})\\right ]\\end{array} \\)"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-7-shift-1/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "A box weighs 196 N on a spring balance at the North Pole. Its weight recorded on the same balance if it is shifted to the equator is close to (Take g = 10m/s2 at the North Pole and radius of the Earth = 6400 km )",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "194.32 N",
+      "194.66 N",
+      "195.32 N",
+      "195.66 N"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-7-shift-2/"
+  },
+  {
+    "questionText": "In a building, there are 15 bulbs of 45 W, 15 bulbs of 100 W, 15 small fans of and 2 heaters of 1kW. The voltage of electric main is 220V. The minimum fuse capacity (rated value) of the building will be approximately",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "10 A",
+      "20 A",
+      "25 A",
+      "15 A"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-7-shift-2/"
+  },
+  {
+    "questionText": "Under an adiabatic process, the volume of an ideal gas gets doubled. Consequently, the mean collision time between the gas molecules changes from τ1 to τ2. If Cp/Cv =  γ for this gas, then a good estimate for τ2 /τ1 is given by",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "1/2",
+      "(1/2) (γ +1)/2",
+      "(1/2) γ",
+      "2"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-7-shift-2/"
+  },
+  {
+    "questionText": "A mass of 10 kg is suspended by a rope of length 4 m, from the ceiling. A force F is applied horizontally at the mid-point of the rope such that the top half of the rope makes an angle of 45° with the vertical. Then F equals (Take g = 10 m/s2 and rope to be massless)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "100 N",
+      "90 N",
+      "75 N",
+      "70 N"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-7-shift-2/"
+  },
+  {
+    "questionText": "Mass per unit area of a circular disc of radius a depends on the distance r from its centre as σ(r) = A + Br. The moment of inertia of the disc about the axis, perpendicular to the plane and passing through its centre is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "\\(\\begin{array}{l}2\\pi a^{4}(\\frac{A}{4}+\\frac{aB}{5})\\end{array} \\)",
+      "\\(\\begin{array}{l}2\\pi a^{4}(\\frac{aA}{4}+\\frac{B}{5})\\end{array} \\)",
+      "\\(\\begin{array}{l}\\pi a^{4}(\\frac{A}{4}+\\frac{aB}{5})\\end{array} \\)",
+      "\\(\\begin{array}{l}2\\pi a^{4}(\\frac{A}{4}+\\frac{B}{5})\\end{array} \\)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-7-shift-2/"
+  },
+  {
+    "questionText": "Two ideal Carnot engines operate in cascade (all heat given up by one engine is used by the other engine to produce work) between temperatures T1 and T2. The temperature of the hot reservoir of the first engine is T1 and the temperature of the cold reservoir of the second engine is T2. T is the temperature of the sink of first engine which is also the source for the second engine. How is T related to T1 and T2 if both the engines perform equal amount of work?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "T = 2T1T2/(T1+T2)",
+      "T = (T1+T2)/2",
+      "T = 0",
+      "T = √T1T2"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-7-shift-2/"
+  },
+  {
+    "questionText": "The activity of a radioactive substance falls from 700 s-1 to 500 s-1 in 30 minutes. Its half life is close to",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "66 min",
+      "62 min",
+      "52 min",
+      "72 min"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-7-shift-2/"
+  },
+  {
+    "questionText": "In a Young’s double slit experiment, the separation between the slits is 0.15 mm. In the experiment, a source of light of wavelength 589 nm is used and the interference pattern is observed on a screen kept 1.5 m away. The separation between the successive bright fringes on the screen is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "5.9 mm",
+      "3.9 mm",
+      "6.9 mm",
+      "4.9 mm"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-7-shift-2/"
+  },
+  {
+    "questionText": "An ideal fluid flows (laminar flow) through a pipe of non-uniform diameter. The maximum and minimum diameters of the pipes are 6.4 cm and 4.8 cm, respectively. The ratio of minimum and maximum velocities of fluid in this pipe is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "√(3/2)",
+      "9/16",
+      "3/4",
+      "√3/4"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-7-shift-2/"
+  },
+  {
+    "questionText": "In the figure, potential difference between a and b is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-2020-Physics-Paper-With-Solution-Jan-7-Shift-2.png",
+    "options": [
+      "0 V",
+      "15 V",
+      "10 V",
+      "5 V"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-7-shift-2/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "A particle of mass m and charge q has an initial velocity \\(\\begin{array}{l}\\vec{v} = v_{0}\\: \\hat{j}\\end{array} \\). If an electric field \\(\\begin{array}{l}\\vec{E} = E_{0}\\: \\hat{i}\\end{array} \\) and magnetic field \\(\\begin{array}{l}\\vec{B} = B_{0}\\: \\hat{i}\\end{array} \\) act on the particle, its speed will double after a time",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "√3mv0/qE0",
+      "√2mv0/qE0",
+      "3mv0/qE0",
+      "2mv0/qE0"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-7-shift-2/"
+  },
+  {
+    "questionText": "A stationary observer receives sound from two identical tuning forks, one of which approaches and the other one receded with the same speed (much less than the speed of sound). The observer hears 2 beats/sec. The oscillation frequency of each tuning fork is v0 = 1400 Hz and the velocity of sound in air is 350 m/s. The speed of each tuning fork is close to",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "1/4 m/s",
+      "1 m/s",
+      "1/2 m/s",
+      "1/8 m/s"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-7-shift-2/"
+  },
+  {
+    "questionText": "An electron (of mass m) and a photon have the same energy E in the range of few eV. The ratio of the de Broglie wavelength associated with the electron and the wavelength of the photon is. ( c = speed of light in vacuum)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "(E/2m)1/2",
+      "1/c (2E/m)1/2",
+      "c(2mE)1/2",
+      "1/c (E/2m)1/2"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-7-shift-2/"
+  },
+  {
+    "questionText": "A planar loop of wire rotates in a uniform magnetic field. Initially at t = 0, the plane of the loop is perpendicular to the magnetic field. If it rotates with a period of 10 s about an axis in its plane, then the magnitude of induced emf will be maximum and minimum, respectively at",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "2.5 sec and 5 sec",
+      "5 sec and 7.5 sec",
+      "2.5 sec and 7.5 sec",
+      "5 sec and 10 sec"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-7-shift-2/"
+  },
+  {
+    "questionText": "The electric field of a plane electromagnetic wave is given by \\(\\begin{array}{l}\\vec{E}(t) = E_{0}\\frac{(\\hat{i}+\\hat{j})}{\\sqrt{2}}\\cos (kz+\\omega t)\\end{array} \\)\nAt t = 0, a positively charged particle is at the point (x,y,z) = (0,0,/k ). If its instantaneous velocity at t = 0 is v0 \\(\\begin{array}{l}\\hat{k}\\end{array} \\), the force acting on it due to the wave is\n\na. zero\nb. antiparallel to \\(\\begin{array}{l}\\frac{\\hat{i}+\\hat{j}}{\\sqrt{2}}\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "zero",
+      "antiparallel to",
+      "parallel to \\(\\begin{array}{l}\\frac{\\hat{i}+\\hat{j}}{\\sqrt{2}}\\end{array} \\)",
+      "parallel to \\(\\begin{array}{l}\\hat{k}\\end{array} \\)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-7-shift-2/"
+  },
+  {
+    "questionText": "A thin lens made of glass (refractive index 1.5) of focal length f = 16 cm is immersed in a liquid of refractive index 1.42. If its focal length in liquid is fi, then the ratio fl/ f is closest to the integer",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "9",
+      "17",
+      "1",
+      "5"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-7-shift-2/"
+  },
+  {
+    "questionText": "An elevator in a building can carry a maximum of 10 persons, with the average mass of each person being 68 kg. The mass of the elevator itself is 920 kg and it moves with a constant speed of 3 m/s. The frictional force opposing the motion is 6000N. If the elevator is moving up with its full capacity, the power delivered by the motor to the elevator (g = 10 m/s2) must be atleast",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "66000 W",
+      "63360 W",
+      "48000 W",
+      "56300 W"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-7-shift-2/"
+  },
+  {
+    "questionText": "The figure gives experimentally measured B vs H variation in a ferromagnetic material. The retentivity, coercivity and saturation, respectively, of the material are",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-2020-Physics-Paper-Jan-7-With-Solutions-Shift-2.png",
+    "options": [
+      "1.5 T, 50 A/m, 1 T",
+      "1 T, 50 A/m, 1.5 T",
+      "1.5 T, 50 A/m, 1 T",
+      "150 A/m, 1 T, 1.5 T"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-7-shift-2/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "An emf of 20 V is applied at time t = 0 to a circuit containing in series 10 mH inductor and 5 Ω resistor. The ratio of the currents at time t = ∞ and t = 40 s is close to take e2= 7.389)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "1.06",
+      "1.46",
+      "1.15",
+      "0.84"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-7-shift-2/"
+  },
+  {
+    "questionText": "The dimension of B2/2μ0 where B is magnetic field and μ0 is the magnetic permeability of vacuum, is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "physics",
+    "options": [
+      "ML-1T-2",
+      "ML2T-2",
+      "MLT-2",
+      "ML2T-1"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-physics-jan-7-shift-2/"
+  }
+]

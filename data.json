@@ -1,0 +1,3602 @@
+[
+  {
+    "questionText": "If the tangent at (1, 7) to the curve x2 = y-6 touches the circle x2+y2+16x+12y+c = 0, then the value of c is :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 85",
+      " 95",
+      " 195",
+      " 185"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-maths-jan-10-shift-1/"
+  },
+  {
+    "questionText": "If L1 is the line of intersection of the planes 2x-2y+3z-2 = 0, x-y+z+1 = 0 and L2 is the line of intersection of the planes x+2y-z-3 = 0, 3x-y+2z-1 = 0, then the distance of the origin from the plane, containing the lines L1 and L2 is :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 1/2√2",
+      " 1/√2",
+      " 1/4√2",
+      " 1/3√2"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-maths-jan-10-shift-1/"
+  },
+  {
+    "questionText": "If α and β ∈ C are the distinct roots of the equation x2-x+1 = 0, then α101+β107 is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 1",
+      " 2",
+      " -1",
+      " 0"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-maths-jan-10-shift-1/"
+  },
+  {
+    "questionText": "Tangents are drawn to the hyperbola 4x2– y2 = 36 at the points P and Q. If these tangents intersect at the point T(0, 3) then the area (in sq. units) of ar(PTQ) is :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 60√3",
+      " 36√5",
+      " 45√5",
+      " 54√3"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-maths-jan-10-shift-1/"
+  },
+  {
+    "questionText": "If the curves y2 = 6x, 9x2 + by2 = 16 intersect each other at right angles, then the value of b is :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 4",
+      " 9/2",
+      " 6",
+      " 7/2"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-maths-jan-10-shift-1/"
+  },
+  {
+    "questionText": "Let S = {x ∈R: x ≥ 0 and 2|√x-3|+√x(√x-6)+6 = 0}. Then S:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " contains exactly two elements.",
+      " contains exactly four elements.",
+      " is an empty set.",
+      " contains exactly one element."
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-maths-jan-10-shift-1/"
+  },
+  {
+    "questionText": "If sum of all the solutions of the equation 8cos x(cos ((π/6)+x). cos ((π/6)-(x))-(1/2)) = 1 in [0, π] is kπ, then k is equal to :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 8/9",
+      " 20/9",
+      " 2/3",
+      " 13/9"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-maths-jan-10-shift-1/"
+  },
+  {
+    "questionText": "A bag contains 4 red and 6 black balls. A ball is drawn at random from the bag, its colour is observed and this ball along with two additional balls of the same colour are returned to the bag. If now a ball is drawn at random from the bag, then the probability that this drawn ball is red, is :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 1/5",
+      " 3/4",
+      " 3/10",
+      " 2/5"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-maths-jan-10-shift-1/"
+  },
+  {
+    "questionText": "Let f(x) = x2+(1/x2) and g(x) = x-(1/x), x∈ R-{-1,0,1}. If h(x) = f(x)/g(x), then the local minimum value of h(x) is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " -2√2",
+      " 2√2",
+      " 3",
+      " -3"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-maths-jan-10-shift-1/"
+  },
+  {
+    "questionText": "The Boolean expression : ~(p ˅q) ˅(~p˄q) is equivalent to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " q",
+      " ~q",
+      " ~p",
+      " p"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-maths-jan-10-shift-1/"
+  },
+  {
+    "questionText": "Tangent and normal are drawn at P(16, 16) on the parabola y2 = 16x, which intersect the axis of the parabola at A and B, respectively. If C is the centre of the circle through the points P, A and B and ∠CPB = θ, then a value of tan θ is :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 3",
+      " 4/3",
+      " 1/2",
+      " 2"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-maths-jan-10-shift-1/"
+  },
+  {
+    "questionText": "If \\(\\begin{array}{l}\\begin{vmatrix} x-4 & 2x &2x \\\\ 2x& x-4 & 2x\\\\ 2x& 2x & x-4 \\end{vmatrix}\\end{array} \\) = (A+Bx)(x-A)2 then the ordered pair (A, B) is equal to :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (-4, 5)",
+      " (4, 5)",
+      " (-4, -5)",
+      " (-4, 3)"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-maths-jan-10-shift-1/"
+  },
+  {
+    "questionText": "The sum of the coefficients of all odd degree terms in the expansion of (x+√(x3-1))5+(x-√(x3-1))5, (x>) is :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 1",
+      " 2",
+      " -1",
+      " 0"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-maths-jan-10-shift-1/"
+  },
+  {
+    "questionText": "Let a1, a2, a3,..a49 be in A.P such that Ʃk=012 a4k+1 = 416 and a9+a43 = 66. If a12+a22+…+a172 = 140m, then m is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 34",
+      " 33",
+      " 66",
+      " 68"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-maths-jan-10-shift-1/"
+  },
+  {
+    "questionText": "A straight line through a fixed point (2, 3) intersects the coordinate axes at distinct points P and Q. If O is the origin and the rectangle OPRQ is completed, then the locus of R is :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 3x+2y = xy",
+      " 3x+2y = 6xy",
+      " 3x+2y = 6",
+      " 2x+3y = xy"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-maths-jan-10-shift-1/"
+  },
+  {
+    "questionText": "The value of \\(\\begin{array}{l}\\int_{\\frac{-\\pi }{2}}^{\\frac{\\pi }{2}}\\frac{\\sin ^{2}x}{1+2^{x}}dx\\end{array} \\) is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 4π",
+      " π/4",
+      " π/8",
+      " π/2"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-maths-jan-10-shift-1/"
+  },
+  {
+    "questionText": "Let g(x) = cos x2, f(x) = √x and α, β (α< β) be the roots of the quadratic equation 18x2-9πx+π2 = 0. Then the area in sq.units) bounded by the curve y = (gof)(x) and the lines x = αand x = β and y =0 is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (1/2)(√3-√2)",
+      " (1/2)(√2-1)",
+      " (1/2)(√3-1)",
+      " (1/2)(√3+1)"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-maths-jan-10-shift-1/"
+  },
+  {
+    "questionText": "If ∑9i=1 (xi-5) = 9 and ∑9i=1 (xi-5)2 = 45, then the standard deviation of the 9 items x1, x2,…x9 is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 2",
+      " 3",
+      " 9",
+      " 4"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-maths-jan-10-shift-1/"
+  },
+  {
+    "questionText": "Let S = {t∈R: f(x) = |x-π|(e|x|-1)sin x is not differentiable at t}. Then the set S is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " {π}",
+      " {0,π}",
+      " (an empty set)",
+      " {0}"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-maths-jan-10-shift-1/"
+  },
+  {
+    "questionText": "Let y = y(x) be the solution of the differential equation sin x(dy/dx)+y cosx = 4x, x∈(0,π). If y(π/2) = 0, then y(π/6) is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (-8/9)π2",
+      " (-4/9)π2",
+      " (4/9√3)π2",
+      " (-8/9√3)π2"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-maths-jan-10-shift-1/"
+  },
+  {
+    "questionText": "Let u be a vector coplanar with the vectors \\(\\begin{array}{l}\\vec{a}= 2\\hat{i}+3\\hat{j}-\\hat{k}\\end{array} \\)\nand \\(\\begin{array}{l}\\vec{b}= \\hat{j}+\\hat{k}\\end{array} \\). If vector u is perpendicular to vector a and \\(\\begin{array}{l}\\vec{u}.\\vec{b}= 24\\end{array} \\), then u2 is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 256",
+      " 84",
+      " 336",
+      " 315"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-maths-jan-10-shift-1/"
+  },
+  {
+    "questionText": "The length of the projection of the line segment joining the points (5, -1, 4) and (4, -1, 3) on the plane, x+y+z = 7 is :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 1/3",
+      " √(2/3)",
+      " 2/√3",
+      " 2/3"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-maths-jan-10-shift-1/"
+  },
+  {
+    "questionText": "PQR is a triangular park with PQ = PR = 200 m. A T.V. tower stands at the mid-point of QR. If the angles of elevation of the top of the tower at P, Q and R are respectively 450, 300 and 300, then the height of the tower (in m) is :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 100√3",
+      " 50√2",
+      " 100",
+      " 50"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-maths-jan-10-shift-1/"
+  },
+  {
+    "questionText": "From 6 different novels and 3 different dictionaries, 4 novels and 1 dictionary are to be selected and arranged in a row on a shelf so that the dictionary is always in the middle. The number of such arrangements is :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " at least 500 but less than 750",
+      " at least 750 but less than 1000",
+      " at least 1000",
+      " less than 500"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-maths-jan-10-shift-1/"
+  },
+  {
+    "questionText": "Let the orthocentre and centroid of a triangle be A(-3, 5) and B(3, 3) respectively. If C is the circumcentre of this triangle, then the radius of the circle having line segment AC as diameter, is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 3√(5/2)",
+      " 3√5/2",
+      " √10",
+      " 2√10"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-maths-jan-10-shift-1/"
+  },
+  {
+    "questionText": "The sum of coefficients of even powers of x in (x+√(x3-1)6 + x-√(x3-1)6)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 23",
+      " 24",
+      " 18",
+      " 21"
+    ],
+    "correctOption": -31,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-april/"
+  },
+  {
+    "questionText": "Let sin(α-β) = 5/13 and cos (α+β) = 3/5 where α, β ∈ (0, π/4) then tan 2α",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 63/16",
+      " 61/16",
+      " 65/16",
+      " 32/9"
+    ],
+    "correctOption": -32,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-april/"
+  },
+  {
+    "questionText": "3.The line x+y = n, n∈N, makes intercepts with x2+y2 = 16. Then the sum of squares of all possible intercepts",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 105/4",
+      " 105",
+      " 210",
+      " 105/2"
+    ],
+    "correctOption": -30,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-april/"
+  },
+  {
+    "questionText": "\\(\\begin{array}{l}\\int{\\frac{\\sin \\frac{5x}{2}}{\\sin \\frac{x}{2}}}.\\,dx=\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " x+2sin x+sin 2x+c",
+      " x+2cos x+sin 2x+c",
+      " x-2sin x+sin 2x+c",
+      " x+2sin x-sin 2x+c"
+    ],
+    "correctOption": -32,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-april/"
+  },
+  {
+    "questionText": "The area bounded by the curve y ≤ x2+3x, 0 ≤ y ≤ 4, 0 ≤ x ≤3 is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 59/6",
+      " 57/4",
+      " 59/3",
+      " 57/6"
+    ],
+    "correctOption": -32,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-april/"
+  },
+  {
+    "questionText": "“If you are born in India then you are citizen of India” contrapositive of this statement is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " If you are born in India then you are not citizen of India",
+      " If you are not citizen of India then you are not born in India",
+      " If you are citizen of India then you are not born in India",
+      " If you are citizen of India then you are born in India"
+    ],
+    "correctOption": -31,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-april/"
+  },
+  {
+    "questionText": "\\(\\begin{array}{l}A=\\left[ \\begin{matrix} \\cos \\alpha & -\\sin \\alpha \\\\ \\sin \\alpha & \\cos \\alpha \\\\ \\end{matrix} \\right]\\end{array} \\)and \\(\\begin{array}{l}{{A}^{32}}=\\left[ \\begin{matrix} 0 & -1 \\\\ 1 & 0 \\\\ \\end{matrix} \\right]\\end{array} \\). then α may be",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 0",
+      " π/32",
+      " π/64",
+      " π/16"
+    ],
+    "correctOption": -30,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-april/"
+  },
+  {
+    "questionText": "Shortest distance between the curves y2 = x-2 and y = x is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " greater than 4",
+      " less than 2",
+      " greater than 3",
+      " greater than 2"
+    ],
+    "correctOption": -31,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-april/"
+  },
+  {
+    "questionText": "\\(\\begin{array}{l}\\underset{x\\to 0}{\\mathop{\\lim }}\\,\\frac{\\sin^{2} x}{\\sqrt{2}-\\sqrt{1+\\cos x}}=\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " √2",
+      " 2",
+      " 4",
+      " 4√2"
+    ],
+    "correctOption": -29,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-april/"
+  },
+  {
+    "questionText": "How many 9 digit numbers can be formed by using the digits 1, 1, 2, 2, 2, 2, 3, 4, 4 such that odd numbers occur at even places.",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 160",
+      " 175",
+      " 180",
+      " 220"
+    ],
+    "correctOption": -30,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-april/"
+  },
+  {
+    "questionText": "Let g(x) = ln x and \\(\\begin{array}{l}f\\left( x \\right)=\\left( \\frac{1-x\\cos x}{1+x\\cos x} \\right)\\end{array} \\) then \\(\\begin{array}{l}\\int\\limits_{-\\frac{\\pi }{4}}^{\\frac{\\pi }{4}}{g\\left[ f\\left( x \\right) \\right]}.\\,dx=\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " ln 1",
+      " ln 2",
+      " ln e",
+      " ln 4"
+    ],
+    "correctOption": -32,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-april/"
+  },
+  {
+    "questionText": "The sum of the series 2. 20C0 + 5.20C1+8.20C2+62.20C20 is equal to",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 16.222",
+      " 8.222",
+      " 8.221",
+      " 16.221"
+    ],
+    "correctOption": -29,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-april/"
+  },
+  {
+    "questionText": "Sum of natural numbers between 100 and 200 whose HCF with 91 should be more than 1.",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 1121",
+      " 3210",
+      " 3121",
+      " 1520"
+    ],
+    "correctOption": -30,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-april/"
+  },
+  {
+    "questionText": "If mean and variance of 7 variates are 8 and 16 respectively and five of them are 2, 4, 10, 12, 14 then the product of remaining two variates is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 49",
+      " 48",
+      " 45",
+      " 40"
+    ],
+    "correctOption": -31,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-april/"
+  },
+  {
+    "questionText": "If α and β are the roots of x2-2x+2 = 0 then the minimum value of n such that (α/β)n = 1",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 4",
+      " 3",
+      " 2",
+      " 5"
+    ],
+    "correctOption": -32,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-april/"
+  },
+  {
+    "questionText": "Let y = y(x) be the solution of the differential equation, (x2+1)2dy/dx + 2x(x2+1)y = 1 such that y(0) = 0. If √a y(1) = π/32, then the value of a is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 1/2",
+      " 1/4",
+      " 1/16",
+      " 1"
+    ],
+    "correctOption": -30,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-april/"
+  },
+  {
+    "questionText": "If f(x) = log((1-x)/(1+x)) then f(2x/1+x2) is equal to",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " f(x)",
+      " 2f(x)",
+      " -2f(x)",
+      " [f(x)]2"
+    ],
+    "correctOption": -31,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-april/"
+  },
+  {
+    "questionText": "Let \\(\\begin{array}{l}2y={{\\left[ {{\\cot }^{-1}}\\left( \\frac{\\sqrt{3}\\cos x+\\sin x}{\\cos x-\\sqrt{3}\\sin x} \\right) \\right]}^{2}}\\end{array} \\) then \\(\\begin{array}{l}\\frac{dy}{dx}=\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " x-(π/6)",
+      " x+(π/6)",
+      " 2x-(π/6)",
+      " 2x-(π/3)"
+    ],
+    "correctOption": -32,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-april/"
+  },
+  {
+    "questionText": "Let S1 is set of minima and S2 is set of maxima for the curve y = 9x4+12x3-36x2-25 then",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " S1 = {-2,-1} S2 = {0}",
+      " S1 = {-2,1} S2 = {0}",
+      " S1 = {-2,1} S2 = {-1}",
+      " S1 = {-2,2} S2 = {0}"
+    ],
+    "correctOption": -31,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-april/"
+  },
+  {
+    "questionText": "Let f:[0,2] -> R be a twice differentiable functions such that f’’(x) >0 for all x ∈ (0,2). If f(x) = f(x)+f(2-x). then f is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " Increasing in (0, 1) and decreasing in (1, 2)",
+      " Decreasing in (0, 1) and increasing in (1, 2)",
+      " Increasing in (0, 2)",
+      " Decreasing in (0, 2)"
+    ],
+    "correctOption": -31,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-april/"
+  },
+  {
+    "questionText": "Let vertices of the triangle ABC is A(0, 0), B(0, 1) and C(x, y) and perimeter is 4 then locus of ‘C’ is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 9x2 + 8y2+8y = 16",
+      " 8x2 + 9y2+9y = 16",
+      " 9x2 + 8y2-8y = 16",
+      " 8x2 + 9y2-9x = 16"
+    ],
+    "correctOption": -30,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-april/"
+  },
+  {
+    "questionText": "A point on the straight line, 3x + 5y = 15 which is equidistant from the coordinate axes will lie only in",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 1st, 2nd and 4th quadrants",
+      " 1st and 2nd quadrants",
+      " 4th quadrants",
+      " 1st quadrants"
+    ],
+    "correctOption": -31,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-april/"
+  },
+  {
+    "questionText": "The perpendicular distance of point ( 2,-1,4) from the line \\(\\begin{array}{l}\\frac{x+3}{10}=\\frac{y-2}{-7}=\\frac{z}{1}\\end{array} \\) lies between",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (2, 3)",
+      " (3, 4)",
+      " (4, 5)",
+      " (1, 2)"
+    ],
+    "correctOption": -31,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-april/"
+  },
+  {
+    "questionText": "If a plane passes through intersection of planes 2x-y-4 = 0 and y+2z-4 = 0 and also passes through the point (1, 1, 0). Then the equation of the plane is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " x-y-z = 0",
+      " 2x-z = 0",
+      " x+2z-1 = 0",
+      " x-z-1 = 0"
+    ],
+    "correctOption": -32,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-april/"
+  },
+  {
+    "questionText": "The sum of the solutions of the equation |√x-2|+√x(√x-4)+2 = 0, (x>0) is equal to",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 4",
+      " 10",
+      " 9",
+      " 12"
+    ],
+    "correctOption": -31,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-april/"
+  },
+  {
+    "questionText": "If the tangents on the ellipse 4x2+y2 = 8 at the points (1,2) and (a,b) areperpendicular to each other, then a2 is equal to",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 2/17",
+      " 64/17",
+      " 128/17",
+      " 4/17"
+    ],
+    "correctOption": -32,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-april/"
+  },
+  {
+    "questionText": "Find the magnitude of projection of vector \\(\\begin{array}{l}2\\hat{i}+3\\hat{j}+\\hat{k}\\end{array} \\) on a vector which is perpendicular to the plane containing vectors \\(\\begin{array}{l}\\hat{i}+\\hat{j}+\\hat{k}\\end{array} \\) and \\(\\begin{array}{l}\\hat{i}+2\\hat{j}+3\\hat{k}\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " √3/2",
+      " √(3/2)",
+      " 3√6",
+      " √6"
+    ],
+    "correctOption": -31,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-april/"
+  },
+  {
+    "questionText": "If α = cos-1(3/5), β = tan-1 (1/3), where 0<α, β < π/2, then α-β is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " tan-1(9/5√10)",
+      " sin-1(9/5√10)",
+      " tan-1(9/15)",
+      " cos-1(9/5√10)"
+    ],
+    "correctOption": -31,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-april/"
+  },
+  {
+    "questionText": "Question 1. There are 5 girls and 7 boys. A team of 3 boys and 2 girls is to be formed such that no two specific boys are in the same team. Number of way to do so",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 400",
+      " 250",
+      " 200",
+      " 300"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-january/"
+  },
+  {
+    "questionText": "Question 2.  The equation x2+2x+2 = 0 has roots α and β. Then value of α15 + β15is;",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 512",
+      " 256",
+      " -512",
+      " -256"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-january/"
+  },
+  {
+    "questionText": "Question 3. \\(\\begin{array}{l}\\int_{0}^{\\pi }\\left | \\cos x \\right |^{3}dx\\end{array} \\) is equal to;",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 4/3",
+      " 2/3",
+      " 0",
+      " 8/3"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-january/"
+  },
+  {
+    "questionText": "Question 4. If x2 ≠ nπ+1, n ∈N, then \\(\\begin{array}{l}\\int x \\sqrt{\\frac{2 \\sin \\left(x^{2}-1\\right)-\\sin 2\\left(x^{2}-1\\right)}{2 \\sin \\left(x^{2}-1\\right)+\\sin 2\\left(x^{2}-1\\right)}} d x\\end{array} \\) is equal to",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " \\(\\begin{array}{l}ln \\cos \\left ( \\frac{x^{2}-1}{2} \\right )+c\\end{array} \\)",
+      " \\(\\begin{array}{l}\\frac{1}{2}ln \\cos \\left ( \\frac{x^{2}-1}{2} \\right )+c\\end{array} \\)",
+      " \\(\\begin{array}{l}ln \\sec \\left ( \\frac{x^{2}-1}{2} \\right )+c\\end{array} \\)",
+      " \\(\\begin{array}{l}\\frac{1}{2}ln \\sec \\left ( \\frac{x^{2}-1}{2} \\right )+c\\end{array} \\)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-january/"
+  },
+  {
+    "questionText": "Question 5. If \\(\\begin{array}{l}\\vec{a}=i -j\\end{array} \\) , \\(\\begin{array}{l}\\vec{b}=i +j+k\\end{array} \\) are two vectors, and c is another vector such that \\(\\begin{array}{l}\\vec{a}\\times \\vec{c}+\\vec{b}=\\vec{0}\\end{array} \\) and \\(\\begin{array}{l}\\vec{a}. \\vec{c}=4\\end{array} \\) then \\(\\begin{array}{l}\\left | \\vec{c}\\right |^{2} =\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 9",
+      " 8",
+      " 19/2",
+      " 17/2"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-january/"
+  },
+  {
+    "questionText": "Question 7. Average height and variance of 5 students in a class is 150 and 18 respectively. A new student whose height is 156 cm is added to the group. Find new variance.",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 20",
+      " 22",
+      " 16",
+      " 14"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-january/"
+  },
+  {
+    "questionText": "Question 8. a,b,c are in G.P. a+b+c = bx , then x cannot be;",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 2",
+      " -2",
+      " 3",
+      " 4"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-january/"
+  },
+  {
+    "questionText": "Question 9.{2403/15} = k/15 then find k. (where {.} denotes fractional part function).",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 2",
+      " 8",
+      " 1",
+      " 4"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-january/"
+  },
+  {
+    "questionText": "Question 10. \\(\\begin{array}{l}\\lim_{y\\to 0}\\frac{\\sqrt{1+\\sqrt{1+y^{4}}}-\\sqrt{2}}{y^{4}}\\end{array} \\) =",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 1/4√2",
+      " 1/2√2",
+      " 1/2√2(1+√2)",
+      " does not exist"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-january/"
+  },
+  {
+    "questionText": "Question 11.There is a parabola having axis as x-axis, vertex is at a distance of 2 unit from origin & focus is at (4, 0). Which of the following point does not lie on the parabola.",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (6, 8)",
+      " (5, 2√6)",
+      " (8, 4√3)",
+      " (4,-4)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-january/"
+  },
+  {
+    "questionText": "Question 12. Find sum of all possible values of θ in the interval (-π/2, π) for which \\(\\begin{array}{l}\\frac{3+2i\\sin \\theta }{1-2i\\sin \\theta}\\end{array} \\) is purely imaginary;",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " π/3",
+      " π",
+      " 2π/3",
+      " π/2"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-january/"
+  },
+  {
+    "questionText": "Question 13.Let A = \\(\\begin{array}{l}\\begin{bmatrix} \\cos \\theta &-\\sin \\theta \\\\ \\sin \\theta & \\cos \\theta \\end{bmatrix}\\end{array} \\) find the value of A-50 at θ = π/12.",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " \\(\\begin{array}{l}\\begin{bmatrix} -\\frac{\\sqrt{3}}{2} & -\\frac{1}{2}\\\\ -\\frac{1}{2}& \\frac{\\sqrt{3}}{2} \\end{bmatrix}\\end{array} \\)",
+      " \\(\\begin{array}{l}\\begin{bmatrix} \\frac{\\sqrt{3}}{2} & \\frac{1}{2}\\\\ -\\frac{1}{2}& \\frac{\\sqrt{3}}{2} \\end{bmatrix}\\end{array} \\)",
+      " \\(\\begin{array}{l}\\begin{bmatrix} -\\frac{\\sqrt{3}}{2} & \\frac{1}{2}\\\\ \\frac{1}{2}& \\frac{\\sqrt{3}}{2} \\end{bmatrix}\\end{array} \\)",
+      " \\(\\begin{array}{l}\\begin{bmatrix} \\frac{{1}}{2} & \\frac{\\sqrt{3}}{2}\\\\ \\frac{\\sqrt{3}}{2}& -\\frac{{1}}{2} \\end{bmatrix}\\end{array} \\)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-january/"
+  },
+  {
+    "questionText": "Question 14. If (A⊕B)∧(∼ A⊝ B)\n = \\(\\begin{array}{l}A\\wedge B\\end{array} \\) what should be proper symbol in place of \\(\\begin{array}{l}\\oplus\\end{array} \\) and ⊝ to hold the equation",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " \\(\\begin{array}{l}\\wedge and\\vee\\end{array} \\)",
+      " \\(\\begin{array}{l}\\wedge and\\wedge\\end{array} \\)",
+      " \\(\\begin{array}{l}\\vee and\\vee\\end{array} \\)",
+      " \\(\\begin{array}{l}\\vee and\\wedge\\end{array} \\)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-january/"
+  },
+  {
+    "questionText": "Question 15. If y (x) is solution of x(dy/dx) +2y = x2, y(1) = 1, then value of y(1/2)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " -49/16",
+      " 49/16",
+      " 45/8",
+      " -45/8"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-january/"
+  },
+  {
+    "questionText": "Question 16. From a well shuffled deck of cards, 2 cards are drawn with replacement. If x represent numbers of times ace coming, then value of P(x = 1) + P(x = 2) is;",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 25/169",
+      " 24/169",
+      " 49/169",
+      " 23/169"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-january/"
+  },
+  {
+    "questionText": "Question 17. If eccentricity of the hyperbola \\(\\begin{array}{l}\\frac{x^{2}}{\\cos ^{2}\\theta }-\\frac{y^{2}}{\\sin ^{2}\\theta } =1\\end{array} \\) is more than 2 when ∈(0, π/2) then values of length of latus rectum lies in the interval",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (3, ∞)",
+      " (1, 3/ 2)",
+      " (2, 3)",
+      " (-3, -2)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-january/"
+  },
+  {
+    "questionText": "Question 18. If slant height of a right circular cone is 3 cm then the maximum volume of cone is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 2√3 πcm3",
+      " 4√3 πcm3",
+      " (2+√3) πcm3",
+      " (2-√3) πcm3"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-january/"
+  },
+  {
+    "questionText": "Question 19.  If cos-1(2/3x) + cos-1(3/4x) = π/2, x>3/4 then x =",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " √145/11",
+      " √145/12",
+      " √146/10",
+      " √146/11"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-january/"
+  },
+  {
+    "questionText": "Question 20. If px+qy+r = 0 represent a family of straight lines such that 3p+2q+4r = 0 then;",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " All lines are parallel",
+      " All lines are inconsistent",
+      " All lines are concurrent at (3/4, 1/2)",
+      " All lines are concurrent at (3,2)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-january/"
+  },
+  {
+    "questionText": "Question 21. Consider the system of equations x+y+z = 1, 2x+3y+2z =1, 2x+3y+(a2 -1)z = a+1 then",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " system has a unique solution for ǀaǀ = √3",
+      " system is inconsistence for ǀaǀ = √3",
+      " system is inconsistence for a = 4",
+      " system is inconsistence for a = 3"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-january/"
+  },
+  {
+    "questionText": "Question 22.The value of 3(cos θ – sin θ)4 + 6(sin θ + cos θ)2+4 sin6θ is, where θ∈ (π/4, π/2)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 13-4 cos4θ",
+      " 13-4 cos6θ",
+      " 13-4 cos6θ+2 sin4θ cos2θ",
+      " 13-4 cos4θ+2 sin4θ cos2θ"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-january/"
+  },
+  {
+    "questionText": "Question 23. 3 circles of radii a, b, c (a < b < c) touch each other externally and have x – axis as a common tangent then;",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " a, b, c are in A.P.",
+      " 1/√b = (1/√a) + (1/√c)",
+      " √a, √b, √c are in A.P.",
+      " (1/√c) + (1/√b) = (1/√a)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-january/"
+  },
+  {
+    "questionText": "Question 24.If f(x) = 1/x, f2(x) = 1-x, f3(x) = 1/(1-x) then find J(x) such that f2oJof1(x) = f3(x)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " f1(x)",
+      " (1/x) f3(x)",
+      " f3(x)",
+      " f2(x)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-january/"
+  },
+  {
+    "questionText": "Question 25.Find the equation of line through (−4,1,3) and parallel to the plane x + y + z = 3 while the line intersects another line whose equation is x + y – z = 0 = x + 2y -3z + 5;",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " \\(\\begin{array}{l}\\frac{x+4}{-3}= \\frac{y-1}{-2}=\\frac{z-3}{1}\\end{array} \\)",
+      " \\(\\begin{array}{l}\\frac{x+4}{1}= \\frac{y-1}{2}=\\frac{z-3}{1}\\end{array} \\)",
+      " \\(\\begin{array}{l}\\frac{x+4}{-3}= \\frac{y-1}{2}=\\frac{z-3}{1}\\end{array} \\)",
+      " \\(\\begin{array}{l}\\frac{x+4}{-1}= \\frac{y-1}{2}=\\frac{z-3}{-3}\\end{array} \\)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-january/"
+  },
+  {
+    "questionText": "Question 26.Consider the curves y = x2 +2 and y = 10-x2. Let θ be the angle between both the curves at point of intersection, then find ǀtan θǀ",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 8/15",
+      " 5/17",
+      " 3/17",
+      " 8/17"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-january/"
+  },
+  {
+    "questionText": "Question 27.A plane parallel to y-axis passing through line of intersection of planes x+y+z =1 and 2x+3y-z-4 = 0 which of the point lie on the plane.",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (3,2,1)",
+      " (−3,0,1)",
+      " (−3,1,1)",
+      " (3,1,−1)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-january/"
+  },
+  {
+    "questionText": "Question 28.Find common tangent of the two curves y2 = 4x and x2+y2-6x = 0.",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " y = (x/3)+3",
+      " y = (x/√3) -√3",
+      " y = (x/3)-3",
+      " y = (x/√3) +√3"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-maths-january/"
+  },
+  {
+    "questionText": "The general solution of the differential equation v(1+x2+y2+x2y2)+xy(dy/dx) = 0\n(where C is a constant of integration)\n\n1) \\(\\begin{array}{l}\\sqrt{1+y^{2}}+\\sqrt{1+x^{2}}= \\frac{1}{2}log_{e}\\left ( \\frac{\\sqrt{1+x^{2}}-1}{\\sqrt{1+x^{2}}+1} \\right )+c\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "1)",
+      "\\(\\begin{array}{l}\\sqrt{1+y^{2}}-\\sqrt{1+x^{2}}= \\frac{1}{2}log_{e}\\left ( \\frac{\\sqrt{1+x^{2}}-1}{\\sqrt{1+x^{2}}+1} \\right )+c\\end{array} \\)",
+      "\\(\\begin{array}{l}\\sqrt{1+y^{2}}+\\sqrt{1+x^{2}}= \\frac{1}{2}log_{e}\\left ( \\frac{\\sqrt{1+x^{2}}+1}{\\sqrt{1+x^{2}}-1} \\right )+c\\end{array} \\)",
+      "\\(\\begin{array}{l}\\sqrt{1+y^{2}}-\\sqrt{1+x^{2}}= \\frac{1}{2}log_{e}\\left ( \\frac{\\sqrt{1+x^{2}}+1}{\\sqrt{1+x^{2}}-1} \\right )+c\\end{array} \\)"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-6-shift-1/"
+  },
+  {
+    "questionText": "If the volume of a parallelopiped, whose coterminuous edges are given by the vectors \\(\\begin{array}{l}\\vec{a}=\\hat{i}+\\hat{j}+n\\hat{k}\\end{array} \\), \\(\\begin{array}{l}\\vec{b}=2\\hat{i}+4\\hat{j}-n\\hat{k}\\end{array} \\), and \\(\\begin{array}{l}\\vec{c}=\\hat{i}+n\\hat{j}+3\\hat{k}\\end{array} \\) (n \\(\\begin{array}{l}\\geq\\end{array} \\) 0), is 158 cu. units, then:\n\na) \\(\\begin{array}{l}\\vec{a}.\\vec{c}=17\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "",
+      " \\(\\begin{array}{l}\\vec{b}.\\vec{c}=10\\end{array} \\)",
+      " n = 9",
+      " n = 7"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-5-shift-1/"
+  },
+  {
+    "questionText": "Question 1.Let y = y(x) be the solution of the differential equation, xy’-y = x2(xcosx+sinx),x > 0. If y(π) = π, then y’’(π/2)+y(π/2) is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 2+(π/2)+(π2/4)",
+      " 2+(π/2)",
+      " 1+(π/2)",
+      " 1+(π/2)+ (π2/4)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-4-shift-1/"
+  },
+  {
+    "questionText": "Question 2. The value of \\(\\begin{array}{l}\\sum_{r=0}^{20} \\: ^{50-r}C_{6}\\end{array} \\) is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 51C7–30C7",
+      " 51C7+30C7",
+      " 50C7–30C7",
+      " 50C6–30C6"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-4-shift-1/"
+  },
+  {
+    "questionText": "Question 4. Let P(3, 3) be a point on the hyperbola, (x2/a2)-(y2/b2) = 1. If the normal to it at P intersects the x-axis at (9, 0) and e is its eccentricity, then the ordered pair (a2, e2) is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (9, 3)",
+      " (9/2, 2)",
+      " (9/2, 3)",
+      " (3/2, 2)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-4-shift-1/"
+  },
+  {
+    "questionText": "Question 5. Let (x2/a2)+(y2/b2) = 1 (a>b) be a given ellipse, length of whose latus rectum is 10. If its eccentricity is the maximum value of the function, Φ(t) = (5/12)+t-t2, then a2+b2 is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 135",
+      " 116",
+      " 126",
+      " 145"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-4-shift-1/"
+  },
+  {
+    "questionText": "Question 6. Let \\(\\begin{array}{l}f(x) = \\int \\frac{\\sqrt{x}}{(1+x)^{2}}dx\\end{array} \\) , x≥0. Then f(3)-f(1) is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (-π/6)+(1/2)+(√3/4)",
+      " (π/6)+(1/2)-(√3/4)",
+      " (-π/12)+(1/2)+(√3/4)",
+      " (π/12)+(1/2)-(√3/4)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-4-shift-1/"
+  },
+  {
+    "questionText": "Question 7. If 1+(1-22×1)+(1-42×3)+(1-62×5)+……+(1-202×19) = α – 220β, then an ordered pair (α, β) is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (10,97)",
+      " (11,103)",
+      " (11,97)",
+      " (10,103)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-4-shift-1/"
+  },
+  {
+    "questionText": "Question 8. The integral \\(\\begin{array}{l}\\int \\left ( \\frac{x}{x\\sin x+\\cos x} \\right )^{2}dx\\end{array} \\) is equal to: (where C is a constant of integration)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " tan x-(x sec x/(x sin x+cos x))+C",
+      " sec x-(x tan x/(x sin x+cos x))+C",
+      " sec x+(x tan x/(x sin x+cos x))+C",
+      " tan x+(x sec x/(x sin x+cos x))+C"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-4-shift-1/"
+  },
+  {
+    "questionText": "Question 9. Let f(x)= |x-2| and g(x) = f(f(x)) ,x∈0,4]. Then \\(\\begin{array}{l}\\int_{0}^{3}(g(x)-f(x))dx\\end{array} \\) is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 1/2",
+      " 0",
+      " 1",
+      " 3/2"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-4-shift-1/"
+  },
+  {
+    "questionText": "Question 10. Let x0 be the point of local maxima of f(x) = \\(\\begin{array}{l}\\vec{a}.(\\vec{b}\\times \\vec{c})\\end{array} \\) where \\(\\begin{array}{l}\\vec{a}= x\\hat{i}-2\\hat{j}+3\\hat{k}\\end{array} \\), \\(\\begin{array}{l}\\vec{b}= -2\\hat{i}+x\\hat{j}-\\hat{k}\\end{array} \\) and \\(\\begin{array}{l}\\vec{c}= 7\\hat{i}-2\\hat{j}+x\\hat{k}\\end{array} \\). Then the value of \\(\\begin{array}{l}\\vec{a}.\\vec{b}+\\vec{b}.\\vec{c}+\\vec{c}.\\vec{a}\\end{array} \\) at x = x0 is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " -22",
+      " -4",
+      " -30",
+      " 14"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-4-shift-1/"
+  },
+  {
+    "questionText": "Question 11.A triangle ABC lying in the first quadrant has two vertices as A(1,2) and B(3,1). If BAC = 900 and ar(ΔABC) = 5√5 s units, then the abscissa of the vertex C is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 1+√5",
+      " 1+2√ 5",
+      " 2√5-1",
+      " 2+√5"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-4-shift-1/"
+  },
+  {
+    "questionText": "Question 12.Let f be a twice differentiable function on (1,6). If f(2) = 8, f’(2) = 5, f’(x) ≥1 and f’’(x) ≥4, for all x ∈ (1,6), then:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " f(5)+f’(5) ≥28",
+      " f’(5)+f’’(5) ≤20",
+      " f(5) ≤10",
+      " f(5)+f’(5) ≤26"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-4-shift-1/"
+  },
+  {
+    "questionText": "Question 13.Let α and β be the roots of x2-3x+p = 0 and 1/γ and 1/δ be the roots of x2-6x+q = 0. If α, β, γ, δ form a geometric progression. Then ratio (2q+p): (2q-p) is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 33 :31",
+      " 9 : 7",
+      " 3 : 1",
+      " 5 : 3"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-4-shift-1/"
+  },
+  {
+    "questionText": "Question 14. Let u = (2z+i)/(z-ki), z = x+iy and k>0. If the curve represented by Re(u) +Im(u) =1 intersects the y-axis at the points P and Q where PQ =5, then the value of k is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 4",
+      " 1/2",
+      " 2",
+      " 3/2"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-4-shift-1/"
+  },
+  {
+    "questionText": "Question 15. If A = \\(\\begin{array}{l}\\begin{bmatrix} \\cos \\theta & i\\sin \\theta \\\\ i\\sin \\theta & \\cos \\theta \\end{bmatrix}\\end{array} \\), (θ = π/24) and A5 = \\(\\begin{array}{l}\\begin{bmatrix} a & b\\\\ c& d \\end{bmatrix}\\end{array} \\), where i = √-1, then which one of the following is not true?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " a2-d2 = 0",
+      " a2-c2 = 1",
+      " 0 ≤a2+b2 ≤1",
+      " a2-b2 = 1/2"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-4-shift-1/"
+  },
+  {
+    "questionText": "Question 16. The mean and variance of 8 observations are 10 and 13.5, respectively. If 6 of these observations are 5, 7, 10, 12, 14, 15, then the absolute difference of the remaining two observations is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 3",
+      " 9",
+      " 7",
+      " 5"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-4-shift-1/"
+  },
+  {
+    "questionText": "Question 17. A survey shows that 63% of the people in a city read newspaper A whereas 76% read newspaper B. If x% of the people read both the newspapers, then a possible value of x can be:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 37",
+      " 29",
+      " 65",
+      " 55"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-4-shift-1/"
+  },
+  {
+    "questionText": "Question 19. Two vertical poles AB = 15 m and CD = 10 m are standing apart on a horizontal ground with points A and C on the ground. If P is the point of intersection of BC and AD, then the height of P (in m) above the line AC is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 5",
+      " 20/3",
+      " 10/3",
+      " 6"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-4-shift-1/"
+  },
+  {
+    "questionText": "Question 20. If (a+√2b cos x)( a-√2b cos y) = a2-b2, where a>b>0, then dy/dx at (π/4, π/4) is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (a+b)/(a-b)",
+      " (a-2b)/(a+2b)",
+      " (a-b)/(a+b)",
+      " (2a+b)/(2a-b)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-4-shift-1/"
+  },
+  {
+    "questionText": "The value of (2.1P0-3.2P1+4.3P2-….. up to 51th term) +(1!-2!+3!-…… up to 51th term) is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 1-51(51)!",
+      " 1+(52)!",
+      " 1",
+      " 1+ (51)!"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-3-shift-1/"
+  },
+  {
+    "questionText": "Let P be a point on the parabola, y2 = 12x and N be the foot of the perpendicular drawn from P on the axis of the parabola. A line is now drawn through the mid-point M of PN, parallel to its axis which meets the parabola at Q. If the y-intercept of the line NQ is 4/3 , then:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " PN = 4",
+      " MQ = 1/3",
+      " PN = 3",
+      " MQ = 1/4"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-3-shift-1/"
+  },
+  {
+    "questionText": "If Δ = \\(\\begin{array}{l}\\begin{vmatrix} x-2 & 2x-3 & 3x-4\\\\ 2x-3&3x-4 & 4x-5\\\\ 3x-5 & 5x-8 &10x-17 \\end{vmatrix}\\end{array} \\) = Ax3+Bx2+Cx+D, then B+C is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 1",
+      " -1",
+      " -3",
+      " 9"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-3-shift-1/"
+  },
+  {
+    "questionText": "The foot of the perpendicular drawn from the point (4,2,3) to the line joining the points (1,2,3) and (1,1,0) lies on the plane:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " x-y-2z = 1",
+      " x-2y+z = 1",
+      " 2x+y-z = 1",
+      " x+2y-z = 1"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-3-shift-1/"
+  },
+  {
+    "questionText": "If y2+loge(cos2x) = y, x?(-π/2, π/2), then",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " |y’(0)|+|y’’(0)| = 1",
+      " |y’’(0)| = 0",
+      " |y’(0)|+|y’’(0)| = 3",
+      " |y’’(0)| = 2"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-3-shift-1/"
+  },
+  {
+    "questionText": "2π-(sin-1(4/5)+sin-1(5/13)+sin-1(16/65)) is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 5π/4",
+      " 3π/2",
+      " 7π/4",
+      " π/2"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-3-shift-1/"
+  },
+  {
+    "questionText": "A hyperbola having the transverse axis of length v2 has the same foci as that of the ellipse 3x2+4y2 = 12, then this hyperbola does not pass through which of the following points ?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (v(3/2), 1/v2)",
+      " (1, -1/v2)",
+      " (1/v2, 0)",
+      " (-v(3/2),1)"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-3-shift-1/"
+  },
+  {
+    "questionText": "A die is thrown two times and the sum of the scores appearing on the die is observed to be a multiple of 4. Then the conditional probability that the score 4 has appeared atleast once is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 1/3",
+      " 1/4",
+      " 1/8",
+      " 1/9"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-3-shift-1/"
+  },
+  {
+    "questionText": "If the number of integral terms in the expansion of (31/2 +51/8)n is exactly 33, then the least value of n is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 128",
+      " 248",
+      " 256",
+      " 264"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-3-shift-1/"
+  },
+  {
+    "questionText": "\\(\\begin{array}{l}\\int_{-\\pi }^{\\pi }\\left | \\pi -\\left | x \\right | \\right |dx\\end{array} \\) is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " π2",
+      " π2/2",
+      " v2π2",
+      " 2π2"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-3-shift-1/"
+  },
+  {
+    "questionText": "The proposition p -> ∼(p^q) is equivalent to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (∼p) ?(∼ q)",
+      " (∼ p) ^q",
+      " q",
+      " (∼ p) ?q"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-3-shift-1/"
+  },
+  {
+    "questionText": "The function, f(x) = (3x-7)x2/3, x ∈ R is increasing for all x lying in:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (-∞, -14/15) U (0,∞)",
+      " (-∞, 14/15)",
+      " (-∞,0)U(14/15, ∞)",
+      " (-∞,0)U(3/7, ∞)"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-3-shift-1/"
+  },
+  {
+    "questionText": "If the first term of an A.P. is 3 and the sum of its first 25 terms is equal to the sum of its next 15 terms, then the common difference of this A.P. is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 1/6",
+      " 1/5",
+      " 1/4",
+      " 1/7"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-3-shift-1/"
+  },
+  {
+    "questionText": "The solution curve of the differential equation, (1+e-x)(1+y2)dy/dx = y2, which passes through the point (0,1), is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " y2 = 1+y loge(1+e-x)/2",
+      " y2 +1 = y ((loge(1+e-x)/2 )+2)",
+      " y2 +1 = y ((loge(1+ex)/2 )+2)",
+      " y2 = 1+y loge(1+ex)/2"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-3-shift-1/"
+  },
+  {
+    "questionText": "The area (in sq. units) of the region {(x,y):0 =y =x2+1, 0 =y =x+1, 1/2 =x=2} is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 23/16",
+      " 79/16",
+      " 23/6",
+      " 79/24"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-3-shift-1/"
+  },
+  {
+    "questionText": "If α and β are the roots of the equation x2+px+2 = 0 and (1/α) and (1/β) are the roots of the equation 2x2+2qx+1 = 0, then (α-1/α)(β-1/β)(α+1/α)(β+1/β) is equal to :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (9/4)(9+p2)",
+      " (9/4)(9+q2)",
+      " (9/4)(9-p2)",
+      " (9/4)(9-q2)"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-3-shift-1/"
+  },
+  {
+    "questionText": "The lines \\(\\begin{array}{l}\\vec{r}= (\\hat{i}-\\hat{j})+l(2\\hat{i}+\\hat{k})\\end{array} \\) and \\(\\begin{array}{l}\\vec{r}= (2\\hat{i}-\\hat{j})+m(\\hat{i}+\\hat{j}-\\hat{k})\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " do not intersect for any values of l and m",
+      " intersect when l = 1 and m = 2",
+      " intersect when l = 2 and m = 1/2",
+      " intersect for all values of l and m"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-3-shift-1/"
+  },
+  {
+    "questionText": "If x3dy+xy dx = x2dy+2y dx; y(2) = e and x>1, then y(4) is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " √e/2",
+      " (3/2)√e",
+      " (1/2)+√e",
+      " (3/2)+√e"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-3-shift-2/"
+  },
+  {
+    "questionText": "Let A be a 3×3 matrix such that adj A = \\(\\begin{array}{l}\\begin{bmatrix} 2 & -1 &1 \\\\ -1 &0 &2 \\\\ 1 & -2 & -1 \\end{bmatrix}\\end{array} \\) and B = adj(adj A) . If |A| = λ and |(B-1)T| = μ, then the ordered pair, (|λ|,μ) is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (9, 1/81)",
+      " (9, 1/9)",
+      " (3, 1/81)",
+      " (3, 81)"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-3-shift-2/"
+  },
+  {
+    "questionText": "Let a, b, cεR be such that a2+b2+c2 = 1, if a cos θ = b cos(θ+2π/3) = c cos(θ+4π/3), where θ = π/9, then the angle between the vectors \\(\\begin{array}{l}a\\hat{i}+b\\hat{j}+c\\hat{k}\\end{array} \\) and \\(\\begin{array}{l}b\\hat{i}+c\\hat{j}+a\\hat{k}\\end{array} \\) is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " π/2",
+      " 2π/3",
+      " π/9",
+      " 0"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-3-shift-2/"
+  },
+  {
+    "questionText": "Suppose f(x) is a polynomial of degree four, having critical points at (-1,0,1). If T = {xεR f(x) = f(0) }, then the sum of squares of all the elements of T is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 6",
+      " 2",
+      " 8",
+      " 4"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-3-shift-2/"
+  },
+  {
+    "questionText": "If the value of the integral \\(\\begin{array}{l}\\int_{0}^{\\frac{1}{2}}\\frac{x^{2}}{(1-x^{2})^{\\frac{3}{2}}}dx\\end{array} \\) is k/6, then k is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 2√3+π",
+      " 3√2+π",
+      " 3√2-π",
+      " 2√3-π"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-3-shift-2/"
+  },
+  {
+    "questionText": "If the term independent of x in the expansion of ((3/2)x2 -(1/3x))9 is k, then 18 k is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 5",
+      " 9",
+      " 7",
+      " 11"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-3-shift-2/"
+  },
+  {
+    "questionText": "If a triangle ABC has vertices A(-1,7), B(-7,1) and C(5,-5), then its orthocentre has coordinates;",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (-3,3)",
+      " (-3/5, 3/5)",
+      " (3/5, -3/5)",
+      " (3,-3)"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-3-shift-2/"
+  },
+  {
+    "questionText": "Let e1 and e2 be the eccentricities of the ellipse, (x2/25)+(y2/b2) = 1 (b<5) and the hyperbola, (x2/16)-(y2/b2) = 1 respectively satisfying e1e2 = 1. If α and β are the distances between the foci of the ellipse and the foci of the hyperbola respectively, then the ordered pair (α,β) is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (8,12)",
+      " (24/5,10)",
+      " (20/3,12)",
+      " (8,10)"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-3-shift-2/"
+  },
+  {
+    "questionText": "If z1, z2 are complex numbers such that Re(z1) = |z1-1|, Re(z2) = |z2-1| and arg (z1-z2) = π/6, then Im(z1+z2) is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 2√3",
+      " 2/√3",
+      " 1/√3",
+      " √3/2"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-3-shift-2/"
+  },
+  {
+    "questionText": "The set of all real values of λ for which the quadratic equations, (λ2+1)x2-4λx+2 = 0 always have exactly one root in the interval (0,1) is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (-3,-1)",
+      " (2,4)",
+      " (1,3)",
+      " (0,2)"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-3-shift-2/"
+  },
+  {
+    "questionText": "Let the latus rectum of the parabola y2 = 4x be the common chord to the circles C1 and C2 each of them having radius 2√5. Then, the distance between the centres of the circles C1 and C2 is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 8",
+      " 8√5",
+      " 4√5",
+      " 12"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-3-shift-2/"
+  },
+  {
+    "questionText": "The plane which bisects the line joining the points (4,-2,3) and (2,4,-1) at right angles also passes through the point:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (0,-1,1)",
+      " (4,0,1)",
+      " (4,0,-1)",
+      " (0,1,-1)"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-3-shift-2/"
+  },
+  {
+    "questionText": "\\(\\begin{array}{l}\\lim_{x\\to a}\\frac{(a+2x)^{\\frac{1}{3}}-(3x)^{\\frac{1}{3}}}{(3a+x)^{\\frac{1}{3}}-(4x)^{\\frac{1}{3}}}\\end{array} \\) is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (2/9)4/3",
+      " (2/3)4/3",
+      " (2/3)(2/9)1/3",
+      " (2/9)(2/3)1/3"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-3-shift-2/"
+  },
+  {
+    "questionText": "If \\(\\begin{array}{l}\\int \\sin ^{-1}\\left ( \\sqrt{\\frac{x}{1+x}} \\right )dx= A(x)\\tan ^{-1}(\\sqrt{x})+B(x)+C\\end{array} \\) , where C is a constant of integration, then the ordered pair (A(x), B(x)) can be:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (x+1, -√x)",
+      " (x-1, -√x)",
+      " (x+1, √x)",
+      " (x-1, √x)"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-3-shift-2/"
+  },
+  {
+    "questionText": "If the sum of the series \\(\\begin{array}{l}20+19\\frac{3}{5}+19\\frac{1}{5}+18\\frac{4}{5}+…\\end{array} \\) upto nth term is 488 and the nth term is negative, then:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " n = 60",
+      " n = 41",
+      " nth term is -4",
+      " nth term is \\(\\begin{array}{l}-4\\frac{2}{5}\\end{array} \\)"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-3-shift-2/"
+  },
+  {
+    "questionText": "If the surface area of a cube is increasing at a rate of 3.6 cm2/sec, retaining its shape; then the rate of change of its volume (in cm3/sec), when the length of a side of the cube is 10cm, is :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 9",
+      " 10",
+      " 18",
+      " 20"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-3-shift-2/"
+  },
+  {
+    "questionText": "Question 1.A line parallel to the straight line 2x-y = 0 is tangent to the hyperbola (x2/4)-(y2/2) = 1 at the point (x1, y1). Then x12+5y12 is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 6",
+      " 10",
+      " 8",
+      " 5"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 2. The domain of the function f(x) = sin-1 [(|x|+5)/(x2+1)] is (-∞, -a]U[a,∞). Then a is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (√17-1)/2",
+      " √17/2",
+      " (1+√17)/2",
+      " (√17/2)+1"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 4. The sum of the first three terms of a G.P. is S and their product is 27. Then all such S lie in",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (-∞, -9]∪[3, ∞)",
+      " [-3, ∞)",
+      " (-∞, -9]",
+      " (-∞, -3]∪[9, ∞)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 5. If R = {(x,y):x,y ∈ Z, x2+3y2 ≤ 8} is a relation on the set of integers Z, then the domain of R-1 is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " {-1, 0, 1}",
+      " {-2, -1, 1, 2}",
+      " {0,1}",
+      " {-2,-1,0,1,2}"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 6. The value of (1+sin (2π/9)+i cos(2π/9)/(1+sin (2π/9)-i cos(2π/9))3 is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (-1/2)(1-i√3)",
+      " (1/2)(1-i√3)",
+      " (-1/2)(√3-i)",
+      " (1/2)(√3-i)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 7. Let P(h,k) be a point on the curve y = x2+7x+2, nearest to the line, y = 3x-3. Then the equation of the normal to the curve at P is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " x+3y-62 = 0",
+      " x-3y-11 = 0",
+      " x-3y+22 = 0",
+      " x+3y+26 = 0"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 9. Box I contains 30 cards numbered 1 to 30 and Box II contains 20 cards numbered 31 to 50. A box is selected at random and a card is drawn from it. The number on the card is found to be a non-prime number. The probability that the card was drawn from Box I is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 4/17",
+      " 8/17",
+      " 2/5",
+      " 2/3"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 10. If p(x) be a polynomial of degree three that has a local maximum value 8 at x = 1 and a local minimum value 4 at x = 2; then p(0) is equal to :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 12",
+      " -12",
+      " -24",
+      " 6"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 11.The contrapositive of the statement “If I reach the station in time, then I will catch the train” is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " If I will catch the train, then I reach the station in time.",
+      " If I do not reach the station in time, then I will catch the train.",
+      " If I do not reach the station in time, then I will not catch the train.",
+      " If I will not catch the train, then I do not reach the station in time."
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 12.Let α and β be the roots of the equation, 5x2+6x-2 = 0. If Sn = αn+βn, n = 1,2,3,.. then:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 5S6+6S5+2S4 = 0",
+      " 6S6+5S5 = 2S4",
+      " 6S6+5S5+2S4 = 0",
+      " 5S6+6S5= 2S4"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 13. If the tangent to the curve y = x+sin y at a point (a,b) is parallel to the line joining (0, 3/2) and (1/2, 2), then:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " b = (π/2)+a",
+      " |a+b| = 1",
+      " |b-a| = 1",
+      " b = a"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 14. Area (in sq. units) of the region outside (x/2)+ (y/3) = 1 and inside the ellipse (x2/4)+(y2/9) = 1 is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 3(π-2)",
+      " 6(π-2)",
+      " 6(4-π)",
+      " 3(4-π)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 15. If |x| <1, |y| <1, and xy, then the sum to infinity of the following series – (x+y)+(x2+xy+y2)+(x3+x2y+xy2+y3)+… is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (x+y+xy)/(1-x)(1-y)",
+      " (x+y-xy)/(1-x)(1-y)",
+      " (x+y+xy)/(1+x)(1+y)",
+      " (x+y-xy)/(1+x)(1+y)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 16. Let α>0, β>0, be such that α3+β2 = 4. If the maximum value of the term independent of x in the binomial expansion of (αx1/9+βx-1/6)10 is 10k, then k is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 176",
+      " 336",
+      " 352",
+      " 84"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 18. Let X = {x∈N: 1≤x≤17} and Y = {ax+b:x∈X and a,b∈R, a>0}. If mean and variance of elements of Y are 17 and 216 respectively then a+b is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " -27",
+      " 7",
+      " -7",
+      " 9"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 19.Let y = y(x) be the solution of the differential equation, (2+sinx)/(y+1) (dy/dx) = -cos x, y>0, y(0) = 1. If y(π) = a, and (dy/dx) at x = π is b, then the ordered pair (a,b) is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (2,2/3)",
+      " (1,1)",
+      " (2,1)",
+      " (1,-1)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 20. The plane passing through the points (1,2,1), (2,1,2) and parallel to the line, 2x = 3y, z = 1 also passes through the point:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (0,-6,2)",
+      " (0,6,-2)",
+      " (-2,0,1)",
+      " (2,0,-1)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 1.Let f:R -> R be a function which satisfies f(x+y) = f(x)+f(y) for all x, y ∈ R. If f(1) = 2 and g(n) = \\(\\begin{array}{l}\\sum_{k=1}^{n-1}f(k)\\end{array} \\), n ∈ N then the value of n for which g(n) = 20 is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 9",
+      " 5",
+      " 4",
+      " 20"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sep-2-shift-2/"
+  },
+  {
+    "questionText": "Question 2. If the sum of first 11 terms of an A.P, a1,a2,a3… is 0 (a1 ≠ 0) then the sum of the A.P, a1, a3 , a5…a23 is ka1, where k is equal to",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " -121/10",
+      " -72/5",
+      " 72/5",
+      " 121/10"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sep-2-shift-2/"
+  },
+  {
+    "questionText": "Question 3.  Let EC denote the complement of an event E. Let E1, E2 and E3 be any pair wise independent events with P(E1)>0 and P(E1 ∩ E2 ∩ E3) = 0. Then P(E2C ∩ E3C/E1) is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " P(E3C)- P(E2C)",
+      " P(E3)- P(E2C)",
+      " P(E3C)- P(E2)",
+      " P(E2C)+ P(E3)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sep-2-shift-2/"
+  },
+  {
+    "questionText": "Question 4. If the equation cos4θ+sin4θ+λ = 0 has real solutions for θ, then λ lies in the interval:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (-1/2, -1/4]",
+      " [-1,-1/2]",
+      " [-3/2, -5/4]",
+      " (-5/4, -1)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sep-2-shift-2/"
+  },
+  {
+    "questionText": "Question 6. The imaginary part of (3+2√-54)1/2-(3-2√-54)1/2 can be:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " √6",
+      " -2√6",
+      " 6",
+      " -√6"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sep-2-shift-2/"
+  },
+  {
+    "questionText": "Question 7.A plane passing through the point (3,1,1) contains two lines whose direction ratios are (1, -2, 2) and (2, 3, -1) respectively. If this plane also passes through the point (α,-3,5), then α is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " -5",
+      " 10",
+      " 5",
+      " -10"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sep-2-shift-2/"
+  },
+  {
+    "questionText": "Question 8.Let A = {X= (x,y,z)T: PX = 0 and x2+y2+z2 = 1}, where P = \\(\\begin{array}{l}\\begin{bmatrix} 1 & 2 & 1\\\\ -2 & 3 & -4\\\\ 1 & 9& -1 \\end{bmatrix}\\end{array} \\) then the set A:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " contains more than two elements.",
+      " is a singleton.",
+      " contains exactly two elements.",
+      " is an empty set."
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sep-2-shift-2/"
+  },
+  {
+    "questionText": "Question 9. The equation of the normal to the curve y = (1+x)2y +cos2(sin -1x) at x = 0 is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " y+4x = 2",
+      " 2y+x = 4",
+      " x+4y = 8",
+      " y = 4x+2"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sep-2-shift-2/"
+  },
+  {
+    "questionText": "Question 10. Consider a region R = {(x,y)∈R2 : x2 ≤y ≤ 2x}. If a line y = α divides the area of region R into two equal parts, then which of the following is true.?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " α3-6α2+16 = 0",
+      " 3α2-8α3/2+8 = 0",
+      " α3-6α3/2-16 = 0",
+      " 3α2-8α+8 = 0"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sep-2-shift-2/"
+  },
+  {
+    "questionText": "Question 11.Let f: (-1, ∞)→R be defined by f(0) = 1 and f(x) = (1/x)loge(1+x), x ≠ 0. Then the function f:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " increases in (-1, ∞)",
+      " decreases in (-1,0) and increases in (0, ∞)",
+      " increases in (-1,0) and decreases in (0, ∞)",
+      " decreases in (-1, ∞)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sep-2-shift-2/"
+  },
+  {
+    "questionText": "Question 12.Which of the following is a tautology?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (p→q) ˄( q→p)",
+      " (~p) ˄(p ˅q)→q",
+      " (q→p) ˅~(p→q)",
+      " (~q)˅( p˄q)→q"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sep-2-shift-2/"
+  },
+  {
+    "questionText": "Question 13. Let f(x) be a quadratic polynomial such that f(-1)+f(2) = 0. If one of the roots of f(x) = 0 is 3, then its other roots lies in:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (0,1)",
+      " (1,3)",
+      " (-1,0)",
+      " (-3,-1)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sep-2-shift-2/"
+  },
+  {
+    "questionText": "Question 15. The set of all possible values of θ in the interval (0, π) for which the points (1, 2) and (sin θ, cos θ ) lie on the same side of the line x+y = 1 is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (0, π/4)",
+      " (0, π/2)",
+      " (0, 3π/4)",
+      " (π/4, 3π/4)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sep-2-shift-2/"
+  },
+  {
+    "questionText": "Question 16. Let n>2 be an integer. Suppose that there are n metro stations in a city located along a circular path. Each pair of stations is connected by a straight track only. Further, each pair of nearest stations is connected by blue line, whereas all remaining pairs of stations are connected by red line. If the number of red lines is 99 times the number of blue lines, then the value of n is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 201",
+      " 199",
+      " 101",
+      " 200"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sep-2-shift-2/"
+  },
+  {
+    "questionText": "Question 17. If a curve y = f(x), passing through the point (1,2) is the solution of the differential equation, 2x2dy = (2xy+y2)dx, then f(1/2) is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " -1/(1+loge2)",
+      " 1+loge 2",
+      " 1/(1+loge2)",
+      " 1/(1-loge2)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sep-2-shift-2/"
+  },
+  {
+    "questionText": "Question 18. For some θ∈(0, π/2) , if the eccentricity of the hyperbola, x2-y2sec2 θ = 10 is √5 times the eccentricity of the ellipse, x2sec2θ+y2 = 5, then the length of the latus rectum of the ellipse, is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 4√5/3",
+      " 2√5/3",
+      " 2√6",
+      " √30"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sep-2-shift-2/"
+  },
+  {
+    "questionText": "Question 19.\\(\\begin{array}{l}\\lim_{x\\to0}\\left ( \\tan (\\frac{\\pi }{4}+x) \\right )^{\\frac{1}{x}}\\end{array} \\) is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " e",
+      " e2",
+      " 2",
+      " 1"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sep-2-shift-2/"
+  },
+  {
+    "questionText": "Question 20. Let a, b, c ∈ R be all non-zero and satisfy a3+b3+c3 = 2. If the matrix A = \\(\\begin{array}{l}\\begin{bmatrix} a & b & c\\\\ b &c &a \\\\ c& a & b \\end{bmatrix}\\end{array} \\) satisfies ATA = I, then a value of abc can be:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 2/3",
+      " 3",
+      " -1/3",
+      " 1/3"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-sep-2-shift-2/"
+  },
+  {
+    "questionText": "Question 1.  If C be the centroid of the triangle having vertices (3, -1), (1, 3) and (2, 4). Let P be the point of intersection of the lines x + 3y – 1 = 0 and 3x – y + 1 = 0, then the line passing through the points C and P also passes through the point:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (-9, -7)",
+      " (-9, -6)",
+      " (7, 6)",
+      " (9, 7)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 2. The product 21/4×41/16×81/48×161/128… ..∞ to is equal to",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 21/4",
+      " 2",
+      " 21/2",
+      " 1"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 3. A spherical iron ball of 10 cm radius is coated with a layer of ice of uniform thickness that melts at the rate of 50 cm3/min. When the thickness of ice is 5 cm, then the rate (in cm/min.) at which the thickness of ice decreases, is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 5/6π",
+      " 1/54π",
+      " 1/36π",
+      " 1/18π"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 4. Let f be any function continuous on [𝑎,𝑏] and twice differentiable on (𝑎,𝑏). If for all 𝑥∈(𝑎,𝑏),f’(x)> 0 and f’’(x) < 0, then for any c ∈ (a,b), (f(c) – f(a)])- (f(b) – f(c)]) is greater than:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (b-c)/(c-a)",
+      " 1",
+      " (c-a)/(b-c)",
+      " (b+a)/(b-a)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 5. The value of cos3 (π/8) cos (3π/8) + sin3 (π/8) sin (3π/8) is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 1/4",
+      " 1/2√2",
+      " 1/2",
+      " 1/√2"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 6. The number of real roots of the equation, e4x + e3x – 4e2x + 1 = 0 is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 3",
+      " 4",
+      " 1",
+      " 2"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 7. The value of \\(\\begin{array}{l}\\int_{0}^{2\\pi }\\frac{x\\sin ^{8}x}{\\sin ^{8}x+\\cos ^{8}x}dx\\end{array} \\) is equal to",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 2",
+      " 4",
+      " 22",
+      " π2"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 9. If e1 and e2 are the eccentricities of the ellipse, (x2/18) + (y2/4) = 1 and the hyperbola, (x2/9) -(y2/4) =1 respectively and (e1 , e2) is a point on the ellipse, 15x2 + 3y2 = k. Then k is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 14",
+      " 15",
+      " 17",
+      " 16"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 10. If f(x) =\n\nis continuous at x = 0 then a + 2b is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2020/09/jee-main-2020-paper-with-solutions-maths-shift-1-jan-9.png",
+    "options": [
+      " -2",
+      " 1",
+      " 0",
+      " 1"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-9-shift-1/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "Question 11. If the matrices A = \\(\\begin{array}{l}\\begin{bmatrix} 1 & 1 &2 \\\\ 1& 3&4 \\\\ 1 & -1&3 \\end{bmatrix}\\end{array} \\) , B = adj A and C = 3A, then \\(\\begin{array}{l}\\frac{\\left | adj \\: B \\right |}{\\left | C \\right |}\\end{array} \\) is equal to",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 16",
+      " 2",
+      " 8",
+      " 72"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 12. A circle touches the y-axis at the point (0,4) and passes through the point (2,0). Which of the following lines is not a tangent to the circle?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 4x−3y+17 = 0",
+      " 3x+4y−6 = 0",
+      " 4x+3y−8 = 0",
+      " 3x−4y−24 = 0"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 13. Let 𝑧 be a complex number such that \\(\\begin{array}{l}{\\left | \\frac{z-i}{z+2i} \\right |}= 1\\end{array} \\) and \\(\\begin{array}{l}{\\left | z\\right |}= \\frac{5}{2}\\end{array} \\). Then the value of \\(\\begin{array}{l}{\\left | z+3i\\right |}\\end{array} \\) is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " √10",
+      " 7/2",
+      " 15/4",
+      " 2√3"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 14. If f’(x) = tan -1 (sec x + tan x ), (-π/2) < x < (π/2), and f(0) = 0, then f(1) is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (π+1)/4",
+      " (π+2)/4",
+      " 1/4",
+      " (π-1)/4"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 15. Negation of the statement: ′√5 is an integer or 5 is irrational′ is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " √5 is irrational or 5 is an integer.",
+      " √5 is not an integer or 5 is not irrational.",
+      " √5 is an integer and 5 is irrational.",
+      " √5 is not an integer and 5 is not irrational."
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 16. If for all real triplets (a,b,c), f(x) = a+ bx+ cx2; then \\(\\begin{array}{l}\\int_{0}^{1}f(x)dx\\end{array} \\) is equal to",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 2(3f(1)+2f(1/2))",
+      " (1/3)(f(0)+f(1/2))",
+      " (1/2) (f(1)+3f(1/2))",
+      " (1/6)(f(0)+f(1)+4f(1/2))"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 17. If the number of five digit numbers with distinct digits and 2 at the 10th place is 336k, then k is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 8",
+      " 7",
+      " 4",
+      " 6"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 18. Let the observations xi(1 ≤ i ≤ 10) satisfy the equations, \\(\\begin{array}{l}\\sum_{i=1}^{10}(x_{i}-5)=10\\end{array} \\) and \\(\\begin{array}{l}\\sum_{i=1}^{10}(x_{i}-5)^{2}=40\\end{array} \\). If μ and λ are the mean and the variance of observations, (x1-3),(x2-3)…..(x10-3) , then the ordered pair (μ,λ) is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (6,3)",
+      " (3,6)",
+      " (3,3)",
+      " (6,6)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 19. The integral \\(\\begin{array}{l}\\int \\frac{dx}{\\left (x+4\\right )^{\\frac{8}{7}}\\left (x-3 \\right )^{\\frac{6}{7}}}\\end{array} \\) is equal to: (where C is a constant of integration)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " \\(\\begin{array}{l}-\\left ( \\frac{x-3}{x+4} \\right )^{-\\frac{1}{7}}+ C\\end{array} \\)",
+      " \\(\\begin{array}{l}\\frac{1}{2}\\left ( \\frac{x-3}{x+4} \\right )^{\\frac{3}{7}}+ C\\end{array} \\)",
+      " \\(\\begin{array}{l}\\left ( \\frac{x-3}{x+4} \\right )^{\\frac{1}{7}}+ C\\end{array} \\)",
+      " \\(\\begin{array}{l}-\\frac{1}{13}\\left ( \\frac{x-3}{x+4} \\right )^{-\\frac{13}{7}}+ C\\end{array} \\)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-9-shift-1/"
+  },
+  {
+    "questionText": "If A = {x∈ R∶ |x| <2} and B = {x∈ R∶ |x-2| ≥3} then :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "A – B = [-1,2]",
+      "B – A = R-(-2,5)",
+      "A⋃B = R-(2,5)",
+      "A∩B = (-2,-1)"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-9-shift-2/"
+  },
+  {
+    "questionText": "If 10 different balls has to be placed in 4 distinct boxes at random, then the probability that two of these boxes contain exactly 2 and 3 balls is :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "965/210",
+      "945/210",
+      "945/211",
+      "965/211"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-9-shift-2/"
+  },
+  {
+    "questionText": "If x = 2 sin θ – sin 2 θ and y = 2 cos θ – cos 2 θ, θ ∈ [0, 2π], then d2y/dx2 at θ =π is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "-3/8",
+      "3/4",
+      "3/2",
+      "-3/4"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-9-shift-2/"
+  },
+  {
+    "questionText": "Let f and g be differentiable functions on R, such that fog is the identity function. If for some a, b ∈ R, g’(a) = 5 and g(a) = b, then f'(b) is equal to :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "2/5",
+      "5",
+      "1",
+      "1/5"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-9-shift-2/"
+  },
+  {
+    "questionText": "In the expansion of \\(\\begin{array}{l}\\left ( \\frac{x}{\\cos \\theta }+\\frac{1}{x\\sin \\theta } \\right )^{16}\\end{array} \\) , if l1 is the least value of the term independent of x when (π/8) ≤ θ ≤ (π/4) and l2 is the least value of the term independent of x when (π/16) ≤ θ ≤ (π/8), then the ratio l2 : l1 is equal to :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "16:1",
+      "8:1",
+      "1:8",
+      "1:16"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-9-shift-2/"
+  },
+  {
+    "questionText": "Let a,b ∈R, a ≠ 0, such that the equation, ax2-2bx+5 = 0 has a repeated root α, which is also a root of the equation x2-2bx-10 = 0. If β is the root of this equation, then α2+β2 is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "24",
+      "25",
+      "26",
+      "28"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-9-shift-2/"
+  },
+  {
+    "questionText": "Let [t] denotes the greatest integer ≤ t and \\(\\begin{array}{l}\\lim_{x\\to0} x\\left [ \\frac{4}{x} \\right ]= A\\end{array} \\) . Then the function, f(x)=[x2] sin πx is discontinuous, when x is equal to",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "√(A+1)",
+      "√A",
+      "√(A+5)",
+      "√(A+21)"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-9-shift-2/"
+  },
+  {
+    "questionText": "Let a-2b+c = 1. If f(x) = \\(\\begin{array}{l}\\begin{vmatrix} x+a & x+2&x+1 \\\\ x+b& x+3 & x+2\\\\ x+c &x+4 & x+3 \\end{vmatrix}\\end{array} \\), then",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "f(-50) = 501",
+      "f(-50) = -1",
+      "f(50) = 1",
+      "f(-50) = -501"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-9-shift-2/"
+  },
+  {
+    "questionText": "If p -> (p ∧~ q) is false. Then the truth values of p and q are respectively",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "F, T",
+      "T, F",
+      "F, F",
+      "T, T"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-9-shift-2/"
+  },
+  {
+    "questionText": "The length of minor axis (along y-axis) of an ellipse of the standard form is 4/√3. If this ellipse touches the line x + 6y = 8, then its eccentricity is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "(1/2)(√5/3)",
+      "(1/2)√(11/3)",
+      "√(5/6)",
+      "(1/3)√(11/3)"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-9-shift-2/"
+  },
+  {
+    "questionText": "If z be a complex number satisfying |Re(z)|+|Im(z)| = 4, then |𝑧| cannot be:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "√7",
+      "√(17/2)",
+      "√10",
+      "√8"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-9-shift-2/"
+  },
+  {
+    "questionText": "If \\(\\begin{array}{l}x = \\sum_{n=0}^{\\infty }(-1)^{n}\\tan ^{2n}\\theta\\end{array} \\) and \\(\\begin{array}{l}y = \\sum_{n=0}^{\\infty }\\cos ^{2n}\\theta\\end{array} \\) where 0 < θ < π/4, then:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "y(1+x) = 1",
+      "x(1-y) = 1",
+      "y(1-x) = 1",
+      "x(1+y) = 1"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-9-shift-2/"
+  },
+  {
+    "questionText": "If \\(\\begin{array}{l}\\frac{dy}{dx}= \\frac{xy}{x^{2}+y^{2}}\\end{array} \\) , y(1) = 1, then a value of x satisfying y(x)= e is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "√3e",
+      "(1/2)√3e",
+      "√2e",
+      "e/√2"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-9-shift-2/"
+  },
+  {
+    "questionText": "If one end of focal chord AB of the parabola y2 = 8x is at A(1/2,-2) , then the equation of tangent to it at B is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "x+2y+8 = 0",
+      "2x-y-24 = 0",
+      "x-2y+8 = 0",
+      "2x+y-24 = 0"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-9-shift-2/"
+  },
+  {
+    "questionText": "Let an be the nth term of a G.P. of positive terms. If \\(\\begin{array}{l}\\sum_{n=1}^{100}a_{2n+1}= 200\\end{array} \\) and \\(\\begin{array}{l}\\sum_{n=1}^{100}a_{2n}= 100\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "300",
+      "175",
+      "225",
+      "150"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-9-shift-2/"
+  },
+  {
+    "questionText": "If \\(\\begin{array}{l}\\int \\frac{d\\theta }{\\cos ^{2}\\theta (\\tan 2\\theta +\\sec 2\\theta )}= \\lambda \\tan \\theta +2\\: log_{e}\\left | f(\\theta ) \\right |+C\\end{array} \\) where C is constant if integration, then the ordered pair (λ, f(θ)) is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "(-1, 1-tan θ)",
+      "(-1, 1+tan θ)",
+      "(1, 1+tan θ)",
+      "(1, 1-tan θ)"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-9-shift-2/"
+  },
+  {
+    "questionText": "Let 𝐴 and 𝐵 be two events such that the probability that exactly one of them occurs is 2/5 and the probability that 𝐴 or 𝐵 occurs is 1/2, then the probability of both of them occur together is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "0.10",
+      "0.20",
+      "0.01",
+      "0.02"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-8-shift-2/"
+  },
+  {
+    "questionText": "Let 𝑆 be the set of all real roots of the equation, 3x (3x − 1) + 2 = |3x − 1| + |3x − 2|. Then S:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "is a singleton.",
+      "is an empty set.",
+      "contains at least four elements",
+      "contains exactly two elements."
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-8-shift-2/"
+  },
+  {
+    "questionText": "The mean and variance of 20 observations are found to be 10 and 4, respectively. On rechecking, it was found that an observation 9 was incorrect and the correct observation was 11. Then the correct variance is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "4.01",
+      "3.99",
+      "3.98",
+      "4.02"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-8-shift-2/"
+  },
+  {
+    "questionText": "Let 𝑎⃗ = 𝑖̂− 2𝑗̂+ 𝑘̂, 𝑏⃗ = 𝑖̂− 𝑗̂+ 𝑘̂ be two vectors. If 𝑐⃗ is a vector such that 𝑏⃗× 𝑐⃗= 𝑏⃗× 𝑎⃗and 𝑐⃗. 𝑎⃗= 0 then 𝑐⃗. 𝑏⃗ is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "1/2",
+      "– 3/2",
+      "– 1/2",
+      "−1"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-8-shift-2/"
+  },
+  {
+    "questionText": "Let 𝑓: (1,3) → 𝑅 be a function defined by 𝑓(𝑥) = 𝑥[𝑥] /(𝑥 2+1) , where [𝑥] denotes the greatest integer ≤ 𝑥. Then the range of 𝑓 is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "( 2/5 , 3/5 ] ∪ ( 3/4 , 4/5 )",
+      "( 2/5 , 4/5 ]",
+      "( 3/5 , 4/5 )",
+      "( 2/5 , 1/2 ) ∪ ( 3/5 , 4/5 ]"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-8-shift-2/"
+  },
+  {
+    "questionText": "If 𝛼 and 𝛽 be the coefficients of 𝑥 4 and 𝑥 2 respectively in the expansion of \\(\\begin{array}{l}(x+\\sqrt{x^{2}-1})^{6}+(x-\\sqrt{x^{2}-1})^{6}\\end{array} \\) , then:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "𝛼 + 𝛽 = −30",
+      "𝛼 − 𝛽 = −132",
+      "𝛼 + 𝛽 = 60",
+      "𝛼 − 𝛽 = 60"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-8-shift-2/"
+  },
+  {
+    "questionText": "If a hyperbola passes through the point (10, 16) and it has vertices at (±6, 0), then the equation of the normal at 𝑃 is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "3𝑥 + 4𝑦 = 94",
+      "𝑥 + 2𝑦 = 42",
+      "2𝑥 + 5𝑦 = 100",
+      "𝑥 + 3𝑦 = 58"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-8-shift-2/"
+  },
+  {
+    "questionText": "\\(\\begin{array}{l}\\lim_{x\\rightarrow 0}\\frac{\\int_{0}^{x}tsin (10t)dt}{x}\\end{array} \\) is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "0",
+      "1/10",
+      "– 1/10",
+      "− 1/5"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-8-shift-2/"
+  },
+  {
+    "questionText": "If a line, 𝑦 = 𝑚𝑥 + 𝑐 is a tangent to the circle, (𝑥 − 3) 2 + 𝑦 2 = 1 and it is perpendicular to a line 𝐿1, where 𝐿1 is the tangent to the circle, 𝑥 2 + 𝑦 2 = 1 at the point ( 1 /√2 , 1/√2 ); then:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "𝑐 2 + 7𝑐 + 6 = 0",
+      "𝑐 2 − 6𝑐 + 7 = 0",
+      "𝑐 2 − 7𝑐 + 6 = 0",
+      "𝑐 2 + 6𝑐 + 7 = 0"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-8-shift-2/"
+  },
+  {
+    "questionText": "Let 𝛼 = (−1+𝑖√3)/2 . If \\(\\begin{array}{l}a= (1+\\alpha )\\sum_{k=0}^{100}a^{2k}\\end{array} \\) and \\(\\begin{array}{l}b= \\sum_{k=0}^{100}a^{3k}\\end{array} \\) , then 𝑎 and 𝑏 are the roots of the quadratic equation:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "𝑥 2 + 101𝑥 + 100 = 0",
+      "𝑥 2 + 102𝑥 + 101 = 0",
+      "𝑥 2 − 102𝑥 + 101 = 0",
+      "𝑥 2 − 101𝑥 + 100 = 0"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-8-shift-2/"
+  },
+  {
+    "questionText": "The mirror image of the point (1, 2, 3) in a plane is (− 7/3, − 4/3 , − 1/ 3 ). Which of the following points lies on this plane?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "(1, −1, 1)",
+      "(−1, −1, 1)",
+      "(1, 1, 1)",
+      "(−1, −1, −1)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-8-shift-2/"
+  },
+  {
+    "questionText": "The length of the perpendicular from the origin, on the normal to the curve, 𝑥 2 + 2𝑥𝑦 − 3𝑦 2 = 0 at the point (2, 2) is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "2",
+      "2√2",
+      "4√2",
+      "√2"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-8-shift-2/"
+  },
+  {
+    "questionText": "Which of the following statements is a tautology?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "~(𝑝 ∧ ~𝑞) → (𝑝 ∨ 𝑞)",
+      "(~𝑝 ∨ ~𝑞) → (𝑝 ∧ 𝑞)",
+      "𝑝 ∨ (~𝑞) → (𝑝 ∧ 𝑞)",
+      "~(𝑝 ∨ ~𝑞) → (𝑝 ∨ 𝑞)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-8-shift-2/"
+  },
+  {
+    "questionText": "If \\(\\begin{array}{l}I = \\int_{1}^{2}\\frac{dx}{\\sqrt{2x^{3}-9x^{2}+12x+4}}\\end{array} \\), then:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "1/6 < I 2 < 1/2",
+      "1/8 < I 2 < 1/4",
+      "1/9 < I 2 < 1/8",
+      "1/16 < I 2 < 1/9"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-8-shift-2/"
+  },
+  {
+    "questionText": "If \\(\\begin{array}{l}A = \\begin{bmatrix} 2 & 2\\\\ 9 & 4 \\end{bmatrix}\\end{array} \\) and \\(\\begin{array}{l}I = \\begin{bmatrix} 1 & 0\\\\ 0 & 1 \\end{bmatrix}\\end{array} \\), then 10𝐴 −1 is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "6I − 𝐴",
+      "𝐴 − 6I",
+      "4I − 𝐴",
+      "𝐴 − 4I"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-8-shift-2/"
+  },
+  {
+    "questionText": "The area (in sq. units) of the region {(𝑥, 𝑦) ∈ 𝑹 : 𝑥 2 ≤ 𝑦 ≤ 3 − 2𝑥}, is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "31/3",
+      "32/3",
+      "29/3",
+      "34/3"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-8-shift-2/"
+  },
+  {
+    "questionText": "Let 𝑆 be the set of all functions 𝑓:[0,1] → 𝐑, which are continuous on [0, 1] and differentiable on (0, 1). Then for every 𝑓 in 𝑆, there exists a 𝑐 ∈ (0,1), depending on 𝑓, such that:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "(f(1)−𝑓(𝑐))/ (1−𝑐) = 𝑓′(𝑐)",
+      "|f(𝑐) − 𝑓(1)| < |𝑓′(𝑐)|",
+      "|f(𝑐) + 𝑓(1)| < (1 + c)|𝑓 ′ (𝑐)|",
+      "|f(𝑐) − 𝑓(1)| < (1 − 𝑐)|𝑓′(𝑐)|"
+    ],
+    "correctOption": 18,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-8-shift-2/"
+  },
+  {
+    "questionText": "The differential equation of the family of curves, 𝑥 2 = 4b(𝑦 + 𝑏), 𝑏 ∈ 𝑹, is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "𝑥𝑦′′ = 𝑦′",
+      "x(𝑦′) 2 = 𝑥 + 2𝑦𝑦′",
+      "x(𝑦 ′ ) 2 = 𝑥 − 2𝑦𝑦′",
+      "x(𝑦 ′ ) 2 = 2𝑦𝑦 ′ − 𝑥"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-8-shift-2/"
+  },
+  {
+    "questionText": "If the 10𝑡ℎ term of an A.P. is 1/20 and its 20𝑡ℎ term is 1/10 , then the sum of its first 200 terms is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "\\(\\begin{array}{l}50\\tfrac{1}{4}\\end{array} \\)",
+      "100",
+      "50",
+      "\\(\\begin{array}{l}100\\tfrac{1}{2}\\end{array} \\)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-8-shift-2/"
+  },
+  {
+    "questionText": "Question 1. The area of the region, enclosed by the circle x2 + y2 = 2 which is not common to the region bounded by the parabola y2 = 𝑥 and the straight line 𝑦 = 𝑥, is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (1/3)(12𝜋 − 1)",
+      " (1/6)(12𝜋 − 1)",
+      " (1/3)(6𝜋 − 1)",
+      " (1/6)(24𝜋 − 1)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-7-shift-1/"
+  },
+  {
+    "questionText": "Question 2. Total number of six-digit numbers in which only and all the five digits 1,3,5,7 and 9 appear, is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 56",
+      " (½)(6!)",
+      " 6!",
+      " (5/2) 6!"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-7-shift-1/"
+  },
+  {
+    "questionText": "Question 3. An unbiased coin is tossed 5 times. Suppose that a variable 𝑋 is assigned the value 𝑘 when 𝑘 consecutive heads are obtained for 𝑘 = 3, 4, 5, otherwise 𝑋 takes the value -1. The expected value of 𝑋, is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 1/8",
+      " 3/16",
+      " -1/8",
+      " -3/16"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-7-shift-1/"
+  },
+  {
+    "questionText": "Question 4. If Re (z-1)/(2z + i) = 1, where z = x+iy, then the point (x,y) lies on a",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " circle whose centre is at (-1/2, -3/2)",
+      " straight line whose slope is 3/2.",
+      " circle whose diameter is √5/2",
+      " straight line whose slope is -2/3."
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-7-shift-1/"
+  },
+  {
+    "questionText": "Question 5. If f(a + b + 1 – x) = f(x) ∀x, where a and b are fixed positive real numbers, then \\(\\begin{array}{l}\\frac{1}{(a+b)}\\int_{a}^{b}x(f(x)+f(x+1))dx\\end{array} \\) is equal to",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " \\(\\begin{array}{l}\\int_{a-1}^{b-1}f(x)dx\\end{array} \\)",
+      " \\(\\begin{array}{l}\\int_{a+1}^{b+1}f(x+1)dx\\end{array} \\)",
+      " \\(\\begin{array}{l}\\int_{a-1}^{b-1}f(x+1)dx\\end{array} \\)",
+      " \\(\\begin{array}{l}\\int_{a+1}^{b+1}f(x)dx\\end{array} \\)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-7-shift-1/"
+  },
+  {
+    "questionText": "Question 6. If the distance between the foci of an ellipse is 6 and the distance between its directrices is 12, then the length of its latus rectum is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 2√3",
+      " √3",
+      " 3/√2",
+      " 3√2"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-7-shift-1/"
+  },
+  {
+    "questionText": "Question 7. The logical statement (p⇒q) ∧ (q ⇒∼ p) is equivalent to",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " ∼ p",
+      " p",
+      " q",
+      " ∼ q"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-7-shift-1/"
+  },
+  {
+    "questionText": "Question 8. The greatest positive integer 𝑘, for which 49𝑘 + 1 is a factor of the sum 49125 + 49124 + ⋯ + 492 + 49 + 1, is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 32",
+      " 60",
+      " 65",
+      " 63"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-7-shift-1/"
+  },
+  {
+    "questionText": "Question 10. If y(α) = \\(\\begin{array}{l}\\sqrt{2(\\frac{\\tan \\alpha + \\cot \\alpha }{1+\\tan ^{2}\\alpha })+\\frac{1}{\\sin ^{2}\\alpha }}\\end{array} \\) where α ∈ (3π/4, π) then dy/dα at α = 5π/6 is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " -1/4",
+      " 4/3",
+      " 4",
+      " -4"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-7-shift-1/"
+  },
+  {
+    "questionText": "Question 11. If y = mx + 4 is a tangent to both the parabolas, y2 = 4x and x2 = 2by, then b is equal to",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " -64",
+      " 128",
+      " -128",
+      " -32"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-7-shift-1/"
+  },
+  {
+    "questionText": "Question 12. Let 𝛼 be a root of the equation x2 + x+ 1= 0 and the matrix A = \\(\\begin{array}{l}\\frac{1}{\\sqrt{3}}\\begin{bmatrix} 1 & 1 & 1\\\\ 1& \\alpha & \\alpha ^{2}\\\\ 1& \\alpha ^{2} & \\alpha ^{4} \\end{bmatrix}\\end{array} \\) then the matrix A31 is equal to",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " A",
+      " A2",
+      " A3",
+      " I3"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-7-shift-1/"
+  },
+  {
+    "questionText": "Question 13. If g(x) = x2 + x – 1 and (gof)(x) = 4x2 – 10x + 5, then f(5/4) is equal to",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " -3/2",
+      " -1/2",
+      " 1/2",
+      " 3/2"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-7-shift-1/"
+  },
+  {
+    "questionText": "Question 14. Let 𝛼 and 𝛽 are two real roots of the equation (𝑘 + 1) tan2 𝑥 − √2 𝜆 tan 𝑥 = 1 − 𝑘, where (𝑘 ≠ −1) and are real numbers. If tan2(α  + β) = 50, then value of 𝜆 is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 5√2",
+      " 10√2",
+      " 10",
+      " 5"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-7-shift-1/"
+  },
+  {
+    "questionText": "Question 15. Let P be a plane passing through the points (2, 1, 0), (4, 1, 1) and (5, 0, 1) and 𝑅 be any point (2, 1, 6). Then the image of 𝑅 in the plane 𝑃 is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " (6, 5, 2)",
+      " (6, 5, −2)",
+      " (4,3, 2)",
+      " (3,4, −2)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-7-shift-1/"
+  },
+  {
+    "questionText": "Question 16. Let xk + yk = ak, (a,k>0) and (dy/dx) + (y/x)1/3 = 0, then k is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 1/3",
+      " 3/2",
+      " 2/3",
+      " 4/3"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-7-shift-1/"
+  },
+  {
+    "questionText": "Question 17. Let the function, f:[-7, 0] →R be continuous on [−7, 0] and differentiable on (−7, 0). If f(-7)= −3 and 𝑓′(𝑥) ≤ 2, for all 𝑥 ∈ (−7, 0), then for all such functions 𝑓, 𝑓(−1) + 𝑓(0) lies in the interval:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " [-6, 20]",
+      " (-∞, 20]",
+      " (-∞, 11]",
+      " [-3, 11]"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-7-shift-1/"
+  },
+  {
+    "questionText": "Question 19. Five numbers are in A.P., whose sum is 25 and product is 2520. If one of these five numbers is -1/2, then the greatest number amongst them is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      " 16",
+      " 27",
+      " 7",
+      " 21/2"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-7-shift-1/"
+  },
+  {
+    "questionText": "If 3x+4y =12√2 is a tangent to the ellipse (x2/a2) + (y2/9) = 1 for some a∈R then the distance between the foci of the ellipse is :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "2√5",
+      "2√7",
+      "2√2",
+      "4"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-7-shift-2/"
+  },
+  {
+    "questionText": "The coefficient of x7 in the expression (1 + x)10 + x(1 + x)9 + x2(1 + x)8 + ⋯ +x10 is :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "420",
+      "330",
+      "210",
+      "120"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-7-shift-2/"
+  },
+  {
+    "questionText": "In a workshop, there are five machines and the probability of any one of them to be out of service on a day is ¼ . If the probability that at most two machines will be out of service on the same day is (3/4)3 k, then k is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "17/2",
+      "4",
+      "17/4",
+      "17/8"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-7-shift-2/"
+  },
+  {
+    "questionText": "The locus of mid points of the perpendiculars drawn from points on the line x = 2y to the line x = y is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "2x − 3y = 0",
+      "3x − 2y = 0",
+      "5x − 7y = 0",
+      "7x − 5y = 0"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-7-shift-2/"
+  },
+  {
+    "questionText": "The value of α for which \\(\\begin{array}{l}4\\alpha \\int_{-1}^{2}e^{-\\alpha \\left | x \\right |}dx = 5\\end{array} \\) is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "loge 2",
+      "loge √2",
+      "loge (4/3)",
+      "loge (3/2)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-7-shift-2/"
+  },
+  {
+    "questionText": "If the sum of the first 40 terms of the series, 3 + 4 + 8 + 9 + 13 + 14 + 18 + 19 + ….. is (102)m, then m is equal to :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "10",
+      "25",
+      "5",
+      "20"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-7-shift-2/"
+  },
+  {
+    "questionText": "If \\(\\begin{array}{l}\\frac{3+i\\sin \\theta }{4-i\\cos \\theta }, \\theta \\in [0,2\\pi ]\\end{array} \\) is a real number, then the argument of sin 𝜃 + 𝑖 cos 𝜃 is :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "π- tan-1 (4/3)",
+      "– tan-1 (3/4)",
+      "π- tan-1 (4/3)",
+      "tan-1 (4/3)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-7-shift-2/"
+  },
+  {
+    "questionText": "Let 𝐴 = [𝑎𝑖𝑗] and B = [𝑏𝑖𝑗] be two 3 × 3 real matrices such that 𝑏𝑖𝑗 = (3)(𝑖+𝑗−2)𝑎𝑗𝑖, where 𝑖, 𝑗 = 1, 2, 3. If the determinant of 𝐵 is 81, then the determinant of 𝐴 is :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "1/9",
+      "1/81",
+      "1/3",
+      "3"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-7-shift-2/"
+  },
+  {
+    "questionText": "Let f(x) be a polynomial of degree 5 such that x = ± 1 are its critical points. If \\(\\begin{array}{l}\\lim_{x\\to 0} \\left (2+\\frac{f(x)}{x^{3}} \\right ) = 4\\end{array} \\) then which one of the following is not true?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "f(1) –4f(–1) = 4",
+      "x = 1 is a point of maxima and x = −1 is a point of minimum of f.",
+      "f is an odd function.",
+      "x = 1 is a point of minima and x = −1 is a point of maxima of f."
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-7-shift-2/"
+  },
+  {
+    "questionText": "The number of ordered pairs (r, k) for which 6 ⋅ 35Cr = (k2 − 3) ⋅ 36Cr+1 , where k is an integer, is :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "4",
+      "6",
+      "2",
+      "3"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-7-shift-2/"
+  },
+  {
+    "questionText": "Let a1, a2, a3, … be a G.P. such that a1 < 0, a1 + a2 = 4 and a3 + a4 = 16. If \\(\\begin{array}{l}\\sum_{i=1}^{9}a_{i} = 4\\lambda\\end{array} \\) then λ is equal to :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "171",
+      "511/3",
+      "-171",
+      "-513"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-7-shift-2/"
+  },
+  {
+    "questionText": "Let a, b,c be three unit vectors such that \\(\\begin{array}{l}\\vec{a}+\\vec{b}+\\vec{c} = 0\\end{array} \\) . If \\(\\begin{array}{l}\\lambda =\\vec{a}.\\vec{b}+\\vec{b}.\\vec{c}+\\vec{c}.\\vec{a}\\end{array} \\) and\n\\(\\begin{array}{l}\\vec{d} =\\vec{a}\\times \\vec{b}+\\vec{b}\\times \\vec{c}+\\vec{c}\\times \\vec{a}\\end{array} \\), then the ordered pair (λ,\\(\\begin{array}{l}\\vec{d}\\end{array} \\)) is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "(3/2, 3a×c)",
+      "(-3/2, 3c×b)",
+      "(-3/2, 3a×b)",
+      "(3/2, 3b×c)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-7-shift-2/"
+  },
+  {
+    "questionText": "If θ1 and θ2 be respectively the smallest and the largest values of θ in (0,2π) − {π} which satisfy the equation \\(\\begin{array}{l}2\\cot ^{2}\\theta -\\frac{5}{\\sin \\theta }+4 = 0\\end{array} \\) then \\(\\begin{array}{l}\\int_{\\theta _{1}}^{\\theta _{2}}\\cos ^{2}3\\theta d\\theta\\end{array} \\) is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "2π/3",
+      "π/3",
+      "(π/3) + (1/6)",
+      "π/9"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-7-shift-2/"
+  },
+  {
+    "questionText": "Let α and β are the roots of the equation x2 − x − 1 = 0. If pk = (α)k + (β)k, k ≥ 1 then which one of the following statements is not true?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "(p1 + p2 + p3 + p4 + p5) = 26",
+      "p5 = 11",
+      "p5 = p2 ⋅ p3",
+      "p3 = p5 − p4"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-7-shift-2/"
+  },
+  {
+    "questionText": "The area (in sq. units) of the region {(x, y)ϵR|4x2 ≤ y ≤ 8x + 12} is :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "125/3",
+      "128/3",
+      "124/3",
+      "127/3"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-7-shift-2/"
+  },
+  {
+    "questionText": "The value of c in Lagrange’s mean value theorem for the function f(x) = x3 − 4x2 + 8x + 11, where x ∈ [0,1] is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "(4 – √7)/3",
+      "2/3",
+      "(√7 – 2)/3",
+      "(4 – √5)/3"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-7-shift-2/"
+  },
+  {
+    "questionText": "Let y = y(x) be a function of x satisfying y√(1 − x2)= k − x√(1 − y2) where k is a constant and y(1/2) = -1/4. Then dy/dx at x = ½ is equal to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "-√5/2",
+      "√5/2",
+      "-√5/4",
+      "2/√5"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-7-shift-2/"
+  },
+  {
+    "questionText": "Let the tangents drawn from the origin to the circle, x2 + y2 − 8x − 4y + 16 = 0 touch it at the points 𝐴 and 𝐵. The (𝐴𝐵)2 is equal to",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "32/5",
+      "64/5",
+      "52/5",
+      "56/5"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-7-shift-2/"
+  },
+  {
+    "questionText": "Question 5: The vector equation of the plane passing through the intersection of the planes \\(\\begin{array}{l}\\vec{r}.(\\hat{i}+\\hat{j}+\\hat{k}) = 1\\end{array} \\) and \\(\\begin{array}{l}\\vec{r}.(\\hat{i}-2\\hat{j}) = -2\\end{array} \\) and the point (1, 0, 2) is:\n\na. \\(\\begin{array}{l}\\vec{r}.(\\hat{i}-7\\hat{j}+3\\hat{k}) = \\frac{7}{3}\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "math",
+    "options": [
+      "a.",
+      "\\(\\begin{array}{l}\\vec{r}.(\\hat{i}+7\\hat{j}+3\\hat{k}) = 7\\end{array} \\)",
+      "\\(\\begin{array}{l}\\vec{r}.(3\\hat{i}+7\\hat{j}+3\\hat{k}) = 7\\end{array} \\)",
+      "\\(\\begin{array}{l}\\vec{r}.(\\hat{i}+7\\hat{j}+3\\hat{k}) = \\frac{7}{3}\\end{array} \\)"
+    ],
+    "correctOption": -22,
+    "url": "https://byjus.com/jee/jee-main-2021-question-paper-maths-feb-24-shift-2/"
+  }
+]

@@ -1,0 +1,2590 @@
+[
+  {
+    "questionText": "Which of the following salts is the most basic in aqueous solution?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "CH3COOK",
+      "FeCl3",
+      "Pb(CH3COO)2",
+      "Al(CN)3"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-chemistry-jan-10-shift-1/"
+  },
+  {
+    "questionText": "Which of the following are Lewis acids?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "AlCl3 and SiCl4",
+      "PH3 and SiCl4",
+      "BCl3 and AlCl3",
+      "PH3 and BCl3"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-chemistry-jan-10-shift-1/"
+  },
+  {
+    "questionText": "An aqueous solution contain 0.10 M H2S and 0.20 M HCl. If the equilibrium constant for the formation of HS– from H2S is 1.0×10-7 and that of S2- from HS– ions is 1.2×10-13 then the concentration of S2- ions in aqueous solution is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "3×10-20",
+      "6×10-21",
+      "5×10-19",
+      "5×10-8"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-chemistry-jan-10-shift-1/"
+  },
+  {
+    "questionText": "The combustion of benzene (l) gives CO2(g) and H2O (l). Given that heat of combustion of benzene at constant volume is -3263.9 kJ mol -1 at 250C ; heat of combustion (in kJ/mol) of benzene at constant pressure will be (R = 8.314 JK-1 mol-1)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "-452.46",
+      "3260",
+      "-3267.6",
+      "4152.6"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-chemistry-jan-10-shift-1/"
+  },
+  {
+    "questionText": "The compound that does not produce nitrogen gas by the thermal decomposition is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "(NH4)2Cr2O7",
+      "NH4NO2",
+      "(NH4)2SO4",
+      "Ba(N3)2"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-chemistry-jan-10-shift-1/"
+  },
+  {
+    "questionText": "How long (approximate) should water be electrolysed by passing through 100 amperes current so that the oxygen released can completely burn 27.66 g of diborane? (Atomic weight of B = 10.8 u)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "0.8 hours",
+      "3.2 hours",
+      "1.6 hours",
+      "6.4 hours"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-chemistry-jan-10-shift-1/"
+  },
+  {
+    "questionText": "Total number of lone pair of electrons in I3 ion is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "6",
+      "9",
+      "12",
+      "3"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-chemistry-jan-10-shift-1/"
+  },
+  {
+    "questionText": "When metal ‘M’ is treated with NaOH, a white gelatinous precipitate ‘X’ is obtained, which is soluble in excess of NaOH. Compound ‘X’ when heated strongly gives an oxide which is used in chromatography as an adsorbent. The metal ‘M’ is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "Ca",
+      "Al",
+      "Fe",
+      "Zn"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-chemistry-jan-10-shift-1/"
+  },
+  {
+    "questionText": "According to molecular orbital theory, which of the following will not be a viable molecule?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "He2+",
+      "H2–",
+      "H22-",
+      "He22+"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-chemistry-jan-10-shift-1/"
+  },
+  {
+    "questionText": "The correct order of basicity of the following compound is :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2020/09/jee-main-chemistry-solved-paper-2018-set-c.png",
+    "options": [
+      "(b) < (a) < (c) < (d)",
+      "(b) < (a) < (d) < (c)",
+      "(d) < (b) < (a) < (c)",
+      "(a) < (b) < (c) < (d)"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-chemistry-jan-10-shift-1/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "Which type of ‘defect’ has the presence of cations in the interstitial sites?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "Vacancy defect",
+      "Frenkel defect",
+      "Metal deficiency defect",
+      "Schottky defect"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-chemistry-jan-10-shift-1/"
+  },
+  {
+    "questionText": "The oxidation states of Cr in [Cr(H2O)6]Cl3, [Cr(C6H6)2] and K2[Cr(CN)2(O)2(O2)(NH3)] respectively are",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "+3, +2 and +4",
+      "+3, 0 and +6",
+      "+3, 0 and +4",
+      "+3, +4 and +6"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-chemistry-jan-10-shift-1/"
+  },
+  {
+    "questionText": "Hydrogen peroxide oxidises [Fe(CN)6]4- to [Fe(CN)6]3- in acidic medium but reduces [Fe(CN)6]3- to [Fe(CN)6]4- in alkaline medium. The other products formed are, respectively.",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "(H2O+O2) and (H2O+OH–)",
+      "H2O and (H2O+O2)",
+      "H2O and (H2O+ OH–)",
+      "(H2O+O2) and H2O"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-chemistry-jan-10-shift-1/"
+  },
+  {
+    "questionText": "Glucose on prolonged heating with HI gives",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "1-Hexene",
+      "Hexanoic acid",
+      "6-iodohexanal",
+      "n-Hexane"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-chemistry-jan-10-shift-1/"
+  },
+  {
+    "questionText": "The recommended concentration of fluoride ion in drinking water is up to 1 ppm as fluoride ion is required to make teeth enamel harder by converting [3Ca3(PO4)2.Ca(OH)2] to",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "[3Ca(F)2.Ca(OH)2]",
+      "[3Ca3(PO4)2.CaF2]",
+      "[3{Ca(OH)2}.Ca(F)2]",
+      "[CaF2]"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-chemistry-jan-10-shift-1/"
+  },
+  {
+    "questionText": "The trans-alkenes are formed by the reduction of alkynes with",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "NaBH4",
+      "Na/liq. NH3",
+      "Sn – HCl",
+      "H2-Pd/C, BaSO4"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-chemistry-jan-10-shift-1/"
+  },
+  {
+    "questionText": "The ratio of mass percent of C and H of an organic compound (CXHYOZ) is 6 : 1. If one molecule of the above compound (CXHYOZ) contains half as much oxygen as required to burn one molecule of compound CXHY completely to CO2 and H2O. The empirical formula of compound CXHYOZ is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "C2H4O",
+      "C3H4O2",
+      "C2H4O3",
+      "C3H6O3"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-chemistry-jan-10-shift-1/"
+  },
+  {
+    "questionText": "Which of the following lines correctly show the temperature dependence of equilibrium constant K, for an exothermic reaction?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2020/09/chemistry-jee-main-solved-paper-2018-set-c.png",
+    "options": [
+      "B and C",
+      "C and D",
+      "A and D",
+      "A and B"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-chemistry-jan-10-shift-1/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "An aqueous solution contains an unknown concentration of Ba2+ . When 50 mL of a 1 M solution of Na2SO4 is added, BaSO4 just begins to precipitate. The final volume is 500 mL. The solubility product of BaSO4 is 1×10–10 . What is original concentration of Ba2+ ?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "2 ×10-9 M",
+      "1.1×10-9 M",
+      "1.0×10-9 M",
+      "5 ×10-9 M"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-chemistry-jan-10-shift-1/"
+  },
+  {
+    "questionText": "At 5180 C, the rate of decomposition of a sample of gaseous acetaldehyde, initially at a pressure of 363 torr, was 1.00 torr s–1 when 5% had reacted and 0.5 torr s–1 when 33% had reacted. The order of the reaction is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "3",
+      "1",
+      "0",
+      "2"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-chemistry-jan-10-shift-1/"
+  },
+  {
+    "questionText": "For 1 molal aqueous solution of the following compounds, which one will show the highest freezing point?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "[Co(H2O)5Cl]Cl2. H2O",
+      "[Co(H2O)4Cl2 ]Cl. 2H2O",
+      "[Co(H2O)3Cl3]. 3H2O",
+      "[Co(H2O)6 ]Cl3"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2018-question-paper-chemistry-jan-10-shift-1/"
+  },
+  {
+    "questionText": "Which of the following amine will be prepared by Gabriel phthalimide reaction?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "n-Butylamine",
+      "Triethylamine",
+      "neo-Pentylamine",
+      "tert-Butylamine"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-april/"
+  },
+  {
+    "questionText": "Reaction of dilute HCl with Maltose gives:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "D – glucose",
+      "D – fructose",
+      "D – glucose and D – fructose",
+      "D – galactose"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-april/"
+  },
+  {
+    "questionText": "The correct order of Kb value of the following is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2020/09/jee-main-2019-april-chemistry.png",
+    "options": [
+      "1 > 2 > 3",
+      "1 > 3 > 2",
+      "3 > 2 > 1",
+      "3 > 1 > 2"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-april/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "Write IUPAC name of the following compound",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2020/09/jee-main-2019-april-paper-with-solutions-chemistry.png",
+    "options": [
+      "3-Hydroxy-2-methylpentanoic acid",
+      "4-Methyl-3-hydroxypentanoic acid",
+      "3-Hydroxy-4-methylpentanoic acid",
+      "2-Methyl-2-hydroxypentanoic acid"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-april/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "Identify the compound ‘X’",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2020/09/jee-main-2019-chemistry-sample-solutions.png",
+    "options": [
+      "Toluidine",
+      "Benzamide",
+      "Para-Cresol",
+      "Oleic acid"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-april/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "Which of the following is not correct for an ideal gas as per first low of thermodynamics",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "Adiabatic ΔU = -w",
+      "Isothermal q = -w",
+      "cyclic q = -w",
+      "Isochoric ΔU = q"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-april/"
+  },
+  {
+    "questionText": "In Freundlich isotherm, \\(\\begin{array}{l}\\frac{x}{m}\\propto {{P}^{a}}.\\end{array} \\) Find the value of a from the following graph",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2020/09/jee-main-2019-april-chemistry-paper-with-solutions.png",
+    "options": [
+      "\\(\\begin{array}{l}\\frac{2}{3}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{1}{3}\\end{array} \\)",
+      "\\(\\begin{array}{l}\\frac{3}{2}\\end{array} \\)",
+      "1"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-april/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "In a mixture of A and B having vapour pressure of pure A and pure B are 400 mm Hg and 600 mm Hg respectively, mole fraction of B in liquid phase is 0.5. Calculate total vapour pressure and mole fraction of A and B in vapour phase",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "a.500, 0.4, 0.6",
+      "b.500, 0.5, 0.5",
+      "c.450, 0.4, 0.6",
+      "d.450, 0.5, 0.5"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-april/"
+  },
+  {
+    "questionText": "A forms ccp lattice, B occupy half of the octahedral voids and ‘O’ occupy all the tetrahedral voids. Calculate formula –",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "A2BO4",
+      "ABO4",
+      "A2B2O",
+      "A2B2O"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-april/"
+  },
+  {
+    "questionText": "B2H6 reacts with O2 and H2O respectively to form",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "B2O3, H3BO3",
+      "\\(\\begin{array}{l}{{B}_{2}}{{O}_{3}},B{{H}_{{{4}^{-}}}}\\end{array} \\)",
+      "HBO2, H3BO3",
+      "H3BO3, HBO2"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-april/"
+  },
+  {
+    "questionText": "Solution of 100 ml water contains 0.73 g of Mg(HCO3)2 and 0.81 g of Ca(HCO3)2. Calculate the hardness in terms of ppm of CaCO3.",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "102 ppm",
+      "104 ppm",
+      "5 × 103 ppm",
+      "103 ppm"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-april/"
+  },
+  {
+    "questionText": "For \\(\\begin{array}{l}Z{{r}_{3}}{{(P{{O}_{4}})}_{4}}\\end{array} \\) the solubility product is Ksp and solubility is S. Find the correct relation.",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "\\(\\begin{array}{l}S={{\\left( \\frac{{{K}_{sp}}}{6912} \\right)}^{1/7}}\\end{array} \\)",
+      "\\(\\begin{array}{l}S={{\\left( \\frac{{{K}_{sp}}}{216} \\right)}^{1/7}}\\end{array} \\)",
+      "\\(\\begin{array}{l}S={{\\left( \\frac{{{K}_{sp}}}{216} \\right)}^{1/8}}\\end{array} \\)",
+      "\\(\\begin{array}{l}S={{\\left( \\frac{{{K}_{sp}}}{912} \\right)}^{1/3}}\\end{array} \\)"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-april/"
+  },
+  {
+    "questionText": "Given complexes are low spin complexes, \n\\(\\begin{array}{l}{{[V{{(CN)}_{6}}]}^{4-}}\\end{array} \\)\n\\(\\begin{array}{l}{{[Cr{{(N{{H}_{3}})}_{6}}]}^{2+}}\\end{array} \\)\n\\(\\begin{array}{l}{{[Ru{{(N{{H}_{3}})}_{6}}]}^{3+}}\\end{array} \\)\n\\(\\begin{array}{l}{{[Fe{{(CN)}_{6}}]}^{4-}}\\end{array} \\)\nThen order of magnetic moment (μ) for \\(\\begin{array}{l}{{V}^{2+}},F{{e}^{2+}},C{{r}^{+3}},R{{u}^{3+}}\\end{array} \\) is\n\na. \\(\\begin{array}{l}{{V}^{2+}}>C{{r}^{2+}}>F{{e}^{2+}}>R{{u}^{3+}}\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "a.",
+      "\\(\\begin{array}{l}F{{e}^{2+}}>{{V}^{2+}}>C{{r}^{+2}}>R{{u}^{3+}}\\end{array} \\)",
+      "\\(\\begin{array}{l}{{V}^{2+}}>C{{r}^{2+}}>R{{u}^{3+}}>F{{e}^{2+}}\\end{array} \\)",
+      "\\(\\begin{array}{l}F{{e}^{2+}}>C{{r}^{3+}}>{{V}^{2+}}>R{{u}^{3+}}\\end{array} \\)"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-april/"
+  },
+  {
+    "questionText": "Given \\(\\begin{array}{l}E{{{}^\\circ }_{{{S}_{2}}O_{8}^{2-}/SO_{4}^{2-}}}=2.05V\\end{array} \\)\n\\(\\begin{array}{l}E_{B{{r}_{2}}/B{{r}^{-}}}^{o}=1.40V\\end{array} \\)\n\\(\\begin{array}{l}E_{A{{u}^{3+}}/Au}^{o}=1.10V\\end{array} \\)\n\\(\\begin{array}{l}E_{{{O}_{2}}/{{H}_{2}}O}^{o}=1.20V\\end{array} \\)\nWhich of the following is the strongest oxidizing agent?\n\na.\\(\\begin{array}{l}{{S}_{2}}O_{8}^{2-}\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "a.",
+      "b.Br2",
+      "c.Au+3",
+      "d.O2"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-april/"
+  },
+  {
+    "questionText": "Assertion: Ozone is getting depleted due to CFCsReason: With the deplection of ozone layer more UV radiation filters into troposphere",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "Both Assertion and Reason are true but Reason is not correct explanation of Assertion.",
+      "Assertion is true but Reason is false.",
+      "Assertion is false but Reason is true."
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-april/"
+  },
+  {
+    "questionText": "In which of the following order of hydration energy correct.",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "a.\\(\\begin{array}{l}L{{i}^{+}}>N{{a}^{+}}>{{K}^{+}}>R{{b}^{+}}>C{{s}^{+}}\\end{array} \\)",
+      "b.\\(\\begin{array}{l}L{{i}^{+}}<N{{a}^{+}}<{{K}^{+}}<R{{b}^{+}}<C{{s}^{+}}\\end{array} \\)",
+      "c.\\(\\begin{array}{l}L{{i}^{+}}>N{{a}^{+}}>{{K}^{+}}>C{{s}^{+}}>R{{b}^{+}}\\end{array} \\)",
+      "d.\\(\\begin{array}{l}L{{i}^{+}}<N{{a}^{+}}<{{K}^{+}}<C{{s}^{+}}<R{{b}^{+}}\\end{array} \\)"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-april/"
+  },
+  {
+    "questionText": "Ellingham diagram is used for",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "a.Reduction",
+      "b.Electrolysis",
+      "c.Zone refining",
+      "d.Van-Arkel"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-april/"
+  },
+  {
+    "questionText": "In isoelectronic species \\(\\begin{array}{l}C{{l}^{-}},Ar,C{{a}^{2+}}\\end{array} \\) size differ due to",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "a.Nuclear charge",
+      "b.Electronic – electronic repulsion in valence shell",
+      "c.Magnetic quantum number",
+      "d.Principal quantum number"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-april/"
+  },
+  {
+    "questionText": "Three mole of Ag is heated from 300 K to 1000 K. Calculate ΔH when P = 1 atm and CP = 23 + 0.01 T.",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "62 kJ/mol",
+      "45 kJ/mol",
+      "38 kJ/mol",
+      "54 kJ/mol"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-april/"
+  },
+  {
+    "questionText": "Which of the following lanthanoid ions are coloured?\n1.Lu+3\n\n2. Pm+3\n\n3.Sm+3\n\n4.Eu+3\n\n\na. \\(\\begin{array}{l}L{{u}^{+3}},P{{m}^{+3}},S{{m}^{+3}}\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "a.",
+      "\\(\\begin{array}{l}P{{m}^{+3}},S{{m}^{+3}},E{{u}^{+3}}\\end{array} \\)",
+      "\\(\\begin{array}{l}L{{u}^{+3}},P{{m}^{+3}},S{{n}^{+3}}\\end{array} \\)",
+      "\\(\\begin{array}{l}L{{u}^{+3}},S{{m}^{+3}},E{{u}^{+3}}\\end{array} \\)"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-april/"
+  },
+  {
+    "questionText": "Question 1. The weight of Na+ in the solution of Na2 SO4 is 92g . Find molality of Na+ per kg of water?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " 2",
+      " 4",
+      " 6",
+      " 8"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-january/"
+  },
+  {
+    "questionText": "Question 4. Which of the following is not correct about Henry’s law.",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " On increasing temperature value of KH increases",
+      " Value of KH increases solubility of gas increases",
+      " Value of KH for two different gases at same temperature is not same",
+      " None of these"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-january/"
+  },
+  {
+    "questionText": "Question 6.0.05 F charge is passed through a lead storage battery. In the anodic reaction, what is the amount of PbSO4 precipitated (Molar mass of PbSO4 is 303 g/mol)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " 30.3 g",
+      " 15.5 g",
+      " 7.6 g",
+      " 60.6 g"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-january/"
+  },
+  {
+    "questionText": "Question 7. In hydrogen emission spectrum electron transition takes place from n = 8 to n = nf. If we plot this graph of ῡ vs (1/nf2 ). Which of the following statement is correct.",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " Slope = −RH",
+      " Slope = RH",
+      " Intercept = RH",
+      " Graph is non-linear"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-january/"
+  },
+  {
+    "questionText": "Question 8. Given a mixture with 0.5 mole of gas A and X moles of gas B. Total pressure is 200 pa at 1000 k temperature in a vessel of volume 10m3. Then, find x. (R is universal gas constant).",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " (4-R)/2R",
+      " (4+R)/2R",
+      " (2-R)/2R",
+      " 2/2"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-january/"
+  },
+  {
+    "questionText": "Question 9.Which of the following are isotope of hydrogen",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " Deutrium, Protium",
+      " Deutrium, Tritium",
+      " Deutrium, Tritium, Protium",
+      " Protium"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-january/"
+  },
+  {
+    "questionText": "Question 13.Presence of which makes water unsuitable for drinking.",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " Fe = 0.2 ppm",
+      " Cu = 2 ppm",
+      " Mn = 0.5 ppm",
+      " Zn = 0.05 ppm"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-january/"
+  },
+  {
+    "questionText": "Question 14. Which of the following is strongest acid",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " CHCl3",
+      " CHI3",
+      " CHBr3",
+      " CH (CN)3"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-january/"
+  },
+  {
+    "questionText": "Question 15. Which of the following alkaline earth metal nitrate does not crystalline with water of crystallization?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " Ca(NO3)2",
+      " Mg(NO3)2",
+      " Sr(NO3)2",
+      " Ba(NO3)2"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-january/"
+  },
+  {
+    "questionText": "Question 16. Which of the following ore contains iron and copper",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " Malachite",
+      " Azurite",
+      " Copper pyrite",
+      " None of these"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-january/"
+  },
+  {
+    "questionText": "Question 17. Considering MOT comment on the stability:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " Li2+ stable Li2−unstable",
+      " Li2+ unstable Li2−unstable",
+      " Li2+ unstable Li2− unstable",
+      " Li2+ stable Li2– stable"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-january/"
+  },
+  {
+    "questionText": "Question 18. Which of the following property in a group decrease down the group and increase down the group respectively.",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " electronegativity and atomic radius",
+      " electronegativity and electro gain enthalpy",
+      " atomic radius and electronegativity",
+      " electro gain enthalpy and electronegativity"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-january/"
+  },
+  {
+    "questionText": "Question 21. Which of the following is a piezo electric material?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " Silica)",
+      " Quartz",
+      " Mica",
+      " Beryl"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-january/"
+  },
+  {
+    "questionText": "Question 22.Aluminium exist in +3 stable whereas thallium exists in both +1 & +3 oxidation state. Reason for this is;",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " Inert pair effect",
+      " Lanthanoid contraction",
+      " Diagonal relationship",
+      " None of these"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-january/"
+  },
+  {
+    "questionText": "Question 23. Maximum spin only magnetic moment for transition metal complex may be",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " 5.92 BM",
+      " 6.92 BM",
+      " 4.89 BM",
+      " 3.87 BM"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-january/"
+  },
+  {
+    "questionText": "Question 30.Consider the compound A [Cr (H2O)6] Cl3 ; yellow B [Cr(NH3)6] Cl3 violet. Then which of the following is incorrect.",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " (Δ0)A< (Δ0)B",
+      " The crystal field splitting parameter can be measured by wavelengths of complementary colors for (A) and (B) respectively.",
+      " Both are paramagnetic with three unpaired electrons each.",
+      " The crystal field splitting parameter can be measured by wavelength of yellow and violet colors for (A) and (B) respectively."
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-january/"
+  },
+  {
+    "questionText": " The species that has a spin-only magnetic moment of 5.9 BM, is: (Td= tetrahedral)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "[Ni(CN)4]2- (square planar)",
+      "Ni(CO)4(Td)",
+      "[MnBr4]2-(Td)",
+      "[NiCl4]2-(Td)"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-6-shift-1/"
+  },
+  {
+    "questionText": "For the reaction \\(\\begin{array}{l}Fe_{2}N(s)+\\frac{3}{2}H_{2}(g)\\rightleftharpoons 2Fe(s)+NH_{3}(g)\\end{array} \\)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "Kc= Kp(RT)1/2",
+      "Kc= Kp(RT)-1/2",
+      "Kc= Kp(RT)3/2",
+      "Kc= Kp(RT)"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-6-shift-1/"
+  },
+  {
+    "questionText": "A solution of two components containing n1 moles of the 1st component and n2 moles of the 2nd component is prepared. M1 and M2 are the molecular weights of component 1 and 2 respectively. If d is the density of the solution in g mL-1, C2 is the molarity and x2 is the mole fraction of the 2nd component, then C2 can be expressed as:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "\\(\\begin{array}{l}C_{2}=\\frac{dx_{1}}{M_{2}+x_{2}(M_{2}-M_{1})}\\end{array} \\)",
+      "\\(\\begin{array}{l}C_{2}=\\frac{1000x_{2}}{M_{1}+x_{2}(M_{2}-M_{1})}\\end{array} \\)",
+      "\\(\\begin{array}{l}C_{2}=\\frac{dx_{2}}{M_{2}+x_{2}(M_{2}-M_{1})}\\end{array} \\)",
+      "\\(\\begin{array}{l}C_{2}=\\frac{1000dx_{2}}{M_{1}+x_{2}(M_{2}-M_{1})}\\end{array} \\)"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-6-shift-1/"
+  },
+  {
+    "questionText": "The correct statement with respect to dinitrogen is?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "Liquid dinitrogen is not used in cryosurgery.",
+      "N2 is paramagnetic in nature",
+      "It can combine with dioxygen at 250 C",
+      "It can be used as an inert diluent for reactive chemicals."
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-6-shift-1/"
+  },
+  {
+    "questionText": "Among the sulphates of alkaline earth metals, the solubility of BeSO4 and MgSO4 in water, respectively, are:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "Poor and high",
+      "High and high",
+      "Poor and poor",
+      "High and poor"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-6-shift-1/"
+  },
+  {
+    "questionText": "Question 17: The reaction of NO with N2O4 at 250 K gives:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "N2O",
+      "NO2",
+      "N2O5",
+      "N2O3"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-6-shift-2/"
+  },
+  {
+    "questionText": "The most appropriate reagent for conversion of C2H5CN into CH3CH2CH2NH2 is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "NaBH4",
+      "Na(CN)BH3",
+      "CaH2",
+      "LiAlH4"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-5-shift-1/"
+  },
+  {
+    "questionText": "Which of the following is not an essential amino acid?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "Valine",
+      "Tyrosine",
+      "Lysine",
+      "Leucine"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-5-shift-1/"
+  },
+  {
+    "questionText": "The structure of PCl5 in the solid state is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "Square planar [PCl4]+ and octahedral [PCl6]–",
+      "Tetrahedral [PCl4]+ and octahedral [PCl6]–",
+      "Trigonal bipyramidal",
+      "Square pyramidal"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-5-shift-1/"
+  },
+  {
+    "questionText": "A diatomic molecule X2 has a body-centred cubic (bcc) structure with a cell edge of 300 pm. The density of the molecule is 6.17 g cm–3. The number of molecules present in 200 g of X2 is:(Avogadro constant (NA) = 6 × 1023 mol-1)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "8 NA",
+      "2 NA",
+      "40 NA",
+      "4 NA"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-5-shift-1/"
+  },
+  {
+    "questionText": "9.",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2020/09/jee-main-2020-paper-with-solutions-chemistry-shift-1-5th-sept-ques-9.png",
+    "options": [
+      "(B)",
+      "(A)",
+      "(C)",
+      "(D)"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-5-shift-1/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "If a person is suffering from the deficiency of nor-adrenaline, what kind of drug can be suggested?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "Antihistamine",
+      "Antidepressant",
+      "Anti-inflammatory",
+      "Analgesic"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-5-shift-1/"
+  },
+  {
+    "questionText": "The values of the crystal field stabilization energies for a high spin d6 metal ion in octahedral and tetrahedral fields, respectively, are:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "–2.4 Δo and –0.6 Δt",
+      "–1.6 Δo and –0.4 Δt",
+      "–0.4 Δo and –0.27 Δt",
+      "–0.4 Δo and –0.6 Δt"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-5-shift-1/"
+  },
+  {
+    "questionText": "A flask contains a mixture of compounds A and B. Both compounds decompose by first order kinetics. The half-lives for A and B are 300 s and 180 s, respectively. If the concentrations of A and B are equal initially, the time required for the concentration of A to be four times that of B (in s) is: (Use ln 2 = 0.693)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "180",
+      "300",
+      "120",
+      "900"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-5-shift-1/"
+  },
+  {
+    "questionText": "The condition that indicates a polluted environment is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "pH of rain water to be 5.6",
+      "BOD value of 5 ppm",
+      "0.03% of CO2 in the atmosphere",
+      "eutrophication"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-5-shift-1/"
+  },
+  {
+    "questionText": "In the sixth period, the orbitals that are filled are:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "6s, 5d, 5f, 6p",
+      "6s, 4f, 5d, 6p",
+      "6s, 6p, 6d, 6f",
+      "6s, 5f, 6d, 6p"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-5-shift-1/"
+  },
+  {
+    "questionText": "The difference between the radii of 3rd and 4th orbits of Li2+ is ΔR1. The difference between the radii of 3rd and 4th orbits of He+ is ΔR2. Ratio ΔR1: ΔR2 is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "8 : 3",
+      "3 : 8",
+      "3 : 2",
+      "2 : 3"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-5-shift-1/"
+  },
+  {
+    "questionText": "18: The correct electronic configuration and spin-only magnetic moment (BM) of Gd3+ (Z = 64), respectively, are:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "[Xe] 5f7 and 7.9",
+      "[Xe] 4f7 and 7.9",
+      "[Xe] 5f7 and 8.9",
+      "[Xe] 4f7 and 8.9"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-5-shift-1/"
+  },
+  {
+    "questionText": "19: An Ellingham diagram provides information about:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "The pressure dependence of the standard electrode potentials of reduction reactions involved in the extraction of metals.",
+      "The conditions of pH and potential under which a species is thermodynamically stable.",
+      "The kinetics of the reduction process.",
+      "The temperature dependence of the standard Gibbs energies of formation of some metal oxides."
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-5-shift-1/"
+  },
+  {
+    "questionText": "Question 1: The IUPAC name of the following compound is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2020/09/jee-main-2020-solved-paper-chemistry-shift-1-4th-sept-ques-1.png",
+    "options": [
+      "3-Bromo-5-methyl cyclopentane carboxylic acid",
+      "4-Bromo-2-methyl cyclopentane carboxylic acid",
+      "5-Bromo-3-methyl cyclopentanoic acid",
+      "3-Bromo-5-methyl cyclopentanoic acid"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-4-shift-1/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "Question 2: On heating, lead(II) nitrate gives a brown gas (A). The gas (A) on cooling changes to a colourless solid/liquid (B). (B) on heating with NO changes to a blue solid (C). The oxidation number of nitrogen in solid (C) is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "+3",
+      "+4",
+      "+2",
+      "+5"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-4-shift-1/"
+  },
+  {
+    "questionText": "Question 3: The ionic radii of O2–, F–, Na+ and Mg2+ are in the order:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "F– > O2– > Na+ > Mg2+",
+      "Mg2+ > Na+ > F– > O2–",
+      "O2– > F– > Na+ > Mg2+",
+      "O2–  > F– > Mg2+ > Na+"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-4-shift-1/"
+  },
+  {
+    "questionText": "Question 5: The region in the electromagnetic spectrum where the Balmer series lines appear is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "Microwave",
+      "Infrared",
+      "Ultraviolet",
+      "Visible"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-4-shift-1/"
+  },
+  {
+    "questionText": "Question 6: Identify the incorrect statement from the options below for the above cell:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "If Eext = 1.1 V, no flow of e– or current occurs",
+      "If Eext > 1.1 V, Zn dissolves at Zn electrode and Cu deposits at Cu electrode",
+      "If Eext > 1.1 V, e– flow from Cu to Zn",
+      "If Eext < 1.1 V, Zn dissolves at the anode and Cu deposits at the cathode"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-4-shift-1/"
+  },
+  {
+    "questionText": "Question 7: What are the functional groups present in the structure of maltose?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "One acetal and one hemiacetal",
+      "One acetal and one ketal",
+      "One ketal and one hemiketal",
+      "Two acetals"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-4-shift-1/"
+  },
+  {
+    "questionText": "Question 14: The pair in which both the species have the same magnetic moment (spin only) is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "[Co(OH)4]2– and [Fe(NH3)6]2+",
+      "[Mn(H2O)6]2+ and [Cr(H2O)]2+",
+      "[Cr(H2O)6]2+ and [CoCl4]2–",
+      "[Cr(H2O)6]2+ and [Fe(H2O)6]2+"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-4-shift-1/"
+  },
+  {
+    "questionText": "Question 15: The number of isomers possible for [Pt(en)(NO2)2] is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-4-shift-1/"
+  },
+  {
+    "questionText": "Question 18: Which of the following will react with CHCl3 + alc. KOH?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "Thymine and proline",
+      "Adenine and thymine",
+      "Adenine and lysine",
+      "Adenine and proline"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-4-shift-1/"
+  },
+  {
+    "questionText": "Question 19: The elements with atomic numbers 101 and 104 belong to, respectively:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "Actinoids and Group 6",
+      "Group 11 and Group 4",
+      "Group 6 and Actinoids",
+      "Actinoids and Group 4"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-4-shift-1/"
+  },
+  {
+    "questionText": "Question 20: On combustion of Li, Na and K in excess of air, the major oxides formed, respectively, are :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "Li2O2, Na2O2 and K2O2",
+      "Li2O, Na2O2 and KO2",
+      "Li2O, Na2O and K2O2",
+      "Li2O, Na2O2 and K2O"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-4-shift-1/"
+  },
+  {
+    "questionText": "Question 2: The process that is NOT endothermic in nature is :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "H(g) + e– ? H(g)–",
+      "Na(g) ? Na(g)– ? e–",
+      "Ar(g) + e– ? Ar(g)–",
+      "O–(g) + e– ? O(g)2-"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-4-shift-2/"
+  },
+  {
+    "questionText": "Question 4: A sample of red ink (a colloidal suspension) is prepared by mixing eosin dye, egg white, HCHO and water. The component which ensures the stability of the ink sample is :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "HCHO",
+      "Water",
+      "Eosin dye",
+      "Egg white"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-4-shift-2/"
+  },
+  {
+    "questionText": "Question 5: The one that can exhibit the highest paramagnetic behaviour among the following is: gly = glycinato; bpy = 2, 2’-bipyridine",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "[Ti (NH3)6]3+",
+      "[Co (OX)2 (OH)2]–",
+      "[Pd (gly)2]",
+      "[Fe (en) (bpy) (NH3)2]2+"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-4-shift-2/"
+  },
+  {
+    "questionText": "Question 7: Five moles of an ideal gas at 1 bar and 298 K is expanded into the vacuum to double the volume. The work done is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "zero",
+      "Cv [T2 – T1]",
+      "– RT (V2 – V1)",
+      "– RT ln (V2/V1)"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-4-shift-2/"
+  },
+  {
+    "questionText": "Question 8: 250 mL of a waste solution obtained from the workshop of a goldsmith contains 0.1 M AgNO3 and 0.1 M AuCl. The solution was electrolyzed at 2 V by passing a current of 1 A for 15 minutes. The metal/metals electrodeposited will be:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2020/09/jee-main-2020-paper-with-solutions-chemistry-shift-2-4th-sept-q8.png",
+    "options": [
+      "Silver and gold in proportion to their atomic weights",
+      "Silver and gold in equal mass proportion",
+      "only silver",
+      "only gold"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-4-shift-2/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "Question 9: The mechanism of action of “Terfenadine” (Seldane) is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "Helps in the secretion of histamine",
+      "Activates the histamine receptor",
+      "Inhibits the secretion of histamine",
+      "Inhibits the action of histamine receptor"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-4-shift-2/"
+  },
+  {
+    "questionText": "Question 10: The shortest wavelength of the H atom in the Lyman series is ?1. The longest wavelength in the Balmer series of He+ is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "9?1/5",
+      "27?1/5",
+      "36?1/5",
+      "5?1/9"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-4-shift-2/"
+  },
+  {
+    "questionText": "Question 13: The Crystal Field Stabilization Energy (CFSE) of [CoF3(H2O)3] (?0 < P) is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "– 0.8?0",
+      "– 0.8?0 + 2P",
+      "– 0.4?0 + P",
+      "– 0.4?0"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-4-shift-2/"
+  },
+  {
+    "questionText": "Question 16: The molecule in which hybrid AOs involve only one d-orbital of the central atom is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "[CrF6]3-",
+      "XeF4",
+      "BrF5",
+      "[Ni (CN)4]2-"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-4-shift-2/"
+  },
+  {
+    "questionText": "Question 18: The processes of calcination and roasting in metallurgical industries, respectively, can lead to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "Photochemical smog and ozone layer depletion",
+      "Photochemical smog and global warming",
+      "Global warming and photochemical smog",
+      "Global warming and acid rain"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-4-shift-2/"
+  },
+  {
+    "questionText": "Question 20: An alkaline earth metal ‘M’ readily forms water-soluble sulphate and water-insoluble hydroxide. Its oxide MO is very stable to heat and does not have a rock-salt structure. M is :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "Ca",
+      "Be",
+      "Mg",
+      "Sr"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-4-shift-2/"
+  },
+  {
+    "questionText": "Question 1: It is true that:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "A second order reaction is always a multistep reaction",
+      "A first order reaction is always a single step reaction",
+      "A zero order reaction is a multistep reaction",
+      "A zero order reaction is a single step reaction"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-3-shift-1/"
+  },
+  {
+    "questionText": "Question 2: An acidic buffer is obtained on mixing:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "100 mL of 0.1 M HCl and 200 mL of 0.1 M CH3COONa",
+      "100 mL of 0.1 M HCl and 200 mL of 0.1 M NaCl",
+      "100 mL of 0.1 M CH3 COOH and 100 mL of 0.1 M NaOH",
+      "100 mL of 0.1 M CH3COOH and 200 mL of 0.1 M NaOH"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-3-shift-1/"
+  },
+  {
+    "questionText": "Question 3: The Kjeldahl method of Nitrogen estimation fails for which of the following reaction products?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2021/08/JEE-Main-2020-Chemistry-Paper-With-Solutions-Shift-1-Sept-3.png",
+    "options": [
+      "(a), (c) and (d)",
+      "(b) and (c)",
+      "(c) and (d)",
+      "(a) and (d)"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-3-shift-1/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "Question 4: If the boiling point of H2O is 373 K, the boiling point of H2S will be :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "greater than 300 K but less than 373 K",
+      "equal to 373 K",
+      "more than 373 K",
+      "less than 300 K"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-3-shift-1/"
+  },
+  {
+    "questionText": "Question 5: The complex that can show optical activity is :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "cis– [CrCl2 (ox)2]3- (ox – oxalate)",
+      "trans – [Fe (NH3)2 (CN)4]–",
+      "trans – [Cr (Cl2) (ox)2]3-",
+      "cis– [Fe (NH3)2 (CN)4]–"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-3-shift-1/"
+  },
+  {
+    "questionText": "Question 7: Aqua regia is used for dissolving noble metals (Au, Pt, etc.). The gas evolved in this process is :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "N2O3",
+      "N2",
+      "N2O5",
+      "NO"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-3-shift-1/"
+  },
+  {
+    "questionText": "Question 8: The antifertility drug “Novestrol” can react with:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "Br2 / water; ZnCl2 / HCl; FeCl3",
+      "Br2 / water; ZnCl2 / HCl; NaOCl",
+      "Alcoholic HCN; NaOCl; ZnCl2 / HCl",
+      "ZnCl2 / HCl; FeCl3; Alcoholic HCN"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-3-shift-1/"
+  },
+  {
+    "questionText": "Question 10: Of the species, NO, NO+, NO2+ and NO–, the one with minimum bond strength is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "NO–",
+      "NO+",
+      "NO2+",
+      "NO"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-3-shift-1/"
+  },
+  {
+    "questionText": "Question 11: Glycerol is separated in soap industries by:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "Fractional distillation",
+      "Distillation under reduced pressure",
+      "Differential extraction",
+      "Steam distillation"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-3-shift-1/"
+  },
+  {
+    "questionText": "Question 12: Thermal power plants can lead to:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "Ozone layer depletion",
+      "Blue baby syndrome",
+      "Eutrophication",
+      "Acid rain"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-3-shift-1/"
+  },
+  {
+    "questionText": "Question 15: The atomic number of the element unnilennium is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "109",
+      "102",
+      "119",
+      "108"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-3-shift-1/"
+  },
+  {
+    "questionText": "Question 18: Tyndall effect is observed when:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "The diameter of dispersed particles is much smaller than the wavelength of light used.",
+      "The diameter of dispersed particles is much larger than the wavelength of light used.",
+      "The refractive index of the dispersed phase is greater than that of the dispersion medium.",
+      "The diameter of dispersed particles is similar to the wavelength of light used."
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-3-shift-1/"
+  },
+  {
+    "questionText": "Question 19: Let CNaCl and CBaSO4 be the conductances (in S) measured for saturated aqueous solutions of NaCl and BaSO4, respectively, at a temperature T. Which of the following is false?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "CNaCl (T2) > CBaSo4 (T1) for T2 > T1",
+      "CBaSo4 (T2) > CNaCl (T1) for T2 > T1",
+      "Ionic mobilities of ions from both salts increase with T.",
+      "CNaCl >> CBaSo4 at a given T"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-3-shift-1/"
+  },
+  {
+    "questionText": "Question 20: In a molecule of pyrophosphoric acid, the number of P-OH, P = O and P – O – P bonds / moiety(ies) respectively are:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "3, 3 and 3",
+      "4, 2 and 1",
+      "2, 4 and 1",
+      "4, 2 and 0"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-3-shift-1/"
+  },
+  {
+    "questionText": "Question 1: The five successive ionization enthalpies of an element are 800, 2427, 3658, 25024 and 32824 kJ mol–1. The number of valence electrons in the element is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "5"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-3-shift-2/"
+  },
+  {
+    "questionText": "Question 2: The incorrect statement is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "Manganate and permanganate ions are tetrahedral",
+      "In manganate and permanganate ions, the -bonding takes place by the overlap of p orbitals of oxygen and d-orbitals of manganese",
+      "Manganate and permanganate ions are paramagnetic",
+      "Manganate ion is green in colour and permanganate ion is purple in colour"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-3-shift-2/"
+  },
+  {
+    "questionText": "Question 4: An ionic micelle is formed on the addition of",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "liquid diethyl ether to aqueous NaCl solution",
+      "sodium stearate to pure toluene",
+      "excess water to liquid",
+      "excess water to liquid"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-3-shift-2/"
+  },
+  {
+    "questionText": "Question 6: Complex A has a composition of H12O6Cl3Cr. If the complex on treatment with conc. H2SO4 loses 13.5% of its original mass, the correct molecular formula of A is: [Given: the atomic mass of Cr = 52 amu and Cl = 35 amu]",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "[Cr(H2O)5Cl]Cl2 .H2O",
+      "[Cr(H2O)4Cl2]Cl.2H2O",
+      "[Cr(H2O)3Cl3].3H2O",
+      "[Cr(H2O)6]Cl3"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-3-shift-2/"
+  },
+  {
+    "questionText": "Question 7: The decreasing order of reactivity of the following compounds towards nucleophilic substitution (SN2) is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2020/09/jee-main-2020-solved-paper-chemistry-shift-2-3rd-sept-ques-7.png",
+    "options": [
+      "(III) > (II) > (IV) > (I)",
+      "(IV) > (II) > (III) > (I)",
+      "(II) > (III) > (IV) > (I)",
+      "(II) > (III) > (I) > (IV)"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-3-shift-2/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "Question 8: The increasing order of the reactivity of the following compounds in nucleophilic addition reaction is: Propanal, Benzaldehyde, Propanone, Butanone",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "Benzaldehyde < Propanal < Propanone < Butanone",
+      "Propanal < Propanone < Butanone < Benzaldehyde",
+      "Butanone < Propanone < Benzaldehyde < Propanal",
+      "Benzaldehyde < Butanone < Propanone < Propanal"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-3-shift-2/"
+  },
+  {
+    "questionText": "Question 12: Consider the hypothetical situation where the azimuthal quantum number, l, takes values 0, 1, 2, …… n + 1, where n is the principal quantum number. Then, the element with atomic number:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "13 has a half-filled valence subshell",
+      "9 is the first alkali metal",
+      "8 is the first noble gas",
+      "6 has a 2p-valence subshell"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-3-shift-2/"
+  },
+  {
+    "questionText": "Question 13: The d-electron configuration of [Ru(en)3]Cl2 and [Fe(H2O)6]Cl2, respectively are:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "t42g e2g and t62g eog",
+      "t62g eog and t62g eog",
+      "t42g e2g and t42g e2g",
+      "t62g e0g and t42g e2g"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-3-shift-2/"
+  },
+  {
+    "questionText": "Question 15: The strengths of 5.6 volume hydrogen peroxide (of density 1 g/mL) in terms of mass percentage and molarity (M), respectively, are: (Take the molar mass of hydrogen peroxide as 34 g/mol)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "0.85 and 0.5",
+      "0.85 and 0.25",
+      "1.7 and 0.25",
+      "1.7 and 0.5"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-3-shift-2/"
+  },
+  {
+    "questionText": "Question 17: A mixture of one mole each of H2, He and O2 each are enclosed in a cylinder of volume V at temperature T. If the partial pressure of H2 is 2 atm, the total pressure of the gases in the cylinder is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "6 atm",
+      "14 atm",
+      "38 atm",
+      "22 atm"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-3-shift-2/"
+  },
+  {
+    "questionText": "Question 19: For the reaction 2A + 3B + (3 / 2) C → 3P, which statement is correct?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "dnA / dt = dnB / dt = dnC / dt",
+      "dnA / dt = (3 / 2) dnB / dt = (3 / 4) dnC / dt",
+      "dnA / dt = (2 / 3) dnB / dt = (4 / 3) dnC / dt",
+      "dnA / dt = (2 / 3) dnB / dt = (3 / 4) dnC / dt"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-3-shift-2/"
+  },
+  {
+    "questionText": "Question 3. An open beaker of water in equilibrium with water vapour is in a sealed container. When a few grams of glucose are added to the beaker of water, the rate at which water molecules:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " leaves the vapour increases",
+      " leaves the solution increases",
+      " leaves the vapour decreases",
+      " leaves the solution decreases"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 5. The statement that is not true about ozone is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " in the stratosphere, it forms a protective shield against UV radiation.",
+      " in the atmosphere, it is depleted by CFCs.",
+      " in the stratosphere, CFCs release chlorine-free radicals (Cl) which reacts with O3 to give chlorine dioxide radicals.",
+      " it is a toxic gas and its reaction with NO gives NO2."
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 10. While titrating dilute HCl solution with aqueous NaOH, which of the following will not be required?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " Bunsen burner and measuring cylinder",
+      " Burette and porcelain tile",
+      " Clamp and phenolphthalein",
+      " Pipette and distilled water"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 12. On heating compound (A) gives a gas (B) which is a constituent of air. This gas when treated with H2 in the presence of a catalyst gives another gas (C) which is basic in nature. (A) should not be:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " (NH4)2Cr2O7",
+      " NaN3",
+      " NH4NO2",
+      " Pb(NO3)2"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 14. In general, the property (magnitudes only) that shows an opposite trend in comparison to other properties across a period is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " Ionization enthalpy",
+      " Electronegativity",
+      " Atomic radius",
+      " Electron gain enthalpy"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 17. Consider that a d6 metal ion (M2+) forms a complex with aqua ligands, and the spin only magnetic moment of the complex is 4.90 BM. The geometry and the crystal field stabilization energy of the complex is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " tetrahedral and –0.6Δt",
+      " tetrahedral and –1.6Δt + 1P",
+      " octahedral and –1.6Δ0",
+      " octahedral and –2.4Δ0 + 2P"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 18. If AB4 molecule is a polar molecule, a possible geometry of AB4 is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " Square planar",
+      " Tetrahedral",
+      " Square pyramidal",
+      " Rectangular planar"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 20. The metal mainly used in devising photoelectric cells is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " Li",
+      " Cs",
+      " Rb",
+      " Na"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sep-2-shift-1/"
+  },
+  {
+    "questionText": "Question 1. The de Broglie wavelength of an electron in the 4th Bohr orbit is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " 4πa0",
+      " 42πa0",
+      " 8πa0",
+      " 6πa0"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 2. If the magnetic moment of a dioxygen species is 1.73 B.M, it may be:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " O2, O2–, or O2+",
+      " O2–, or O2+",
+      " O2 or O2–,",
+      " O2, O2+"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 3. If enthalpy of atomisation for Br2(l) is x kJ/mol and bond enthalpy for Br2 is y kJ/mol, the relation between them:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " is x > y",
+      " is x < y",
+      " is x = y",
+      " does not exist"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 4. Which of the following oxides are acidic, basic and amphoteric, respectively?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " MgO, Cl2O, Al2O3",
+      " N2O3, Li2O, Al2O3",
+      " SO3, Al2O3, Na2O",
+      " P4O10, Cl2O, CaO"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 5. Complex X of composition Cr(H2O)6Cln, has a spin only magnetic moment of 3.83 BM. It reacts with AgNO3 and shows geometrical isomerism. The IUPAC nomenclature of X is :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " Hexaaqua chromium(III) chloride",
+      " Tetraaquadichlorido chromium(III) chloride dihydrate",
+      " Hexaaquachromium(IV) chloride",
+      " Tetraaquadichlorido chromium(IV) chloride dihydrate"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 6. The electronic configuration of bivalent europium and trivalent cerium, are: (Atomic Number : Xe = 54, Ce = 58, Eu = 63)",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " [Xe]4f 7, [Xe]4f 1",
+      " [Xe]4f 76s2 , [Xe]4f 26s2",
+      " [Xe]4f 2, [Xe]4f 7",
+      " [Xe]4f 4, [Xe]4f 9"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 7. The Ksp for the following dissociation is = 1.6 × 10–5. PbCl2 (s) ⇌ Pb2 + (aq) + 2Cl–(aq). Which of the following choices is correct for a mixture of 300 mL 0.134 M Pb(NO3)2 and 100mL",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " Q > Ksp",
+      " Q < Ksp",
+      " Q = Ksp",
+      " Not enough data provided"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 8. The compound that cannot act both as oxidising and reducing agent is :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " H2SO3",
+      " HNO2",
+      " H3PO4",
+      " H2O2"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 10. [Pd(F)(Cl)(Br)(I)]2−,has n number of geometrical Isomers. Then, the spin-only magnetic moment and crystal field stabilisation energy [CFSE] of [Fe(CN)6]n−6 , respectively, [Note: Ignore pairing energy].",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " 1.73 BM and – 2Δ0",
+      " 2.84 BM and – 1.6Δ0",
+      " 0 BM and – 2.4Δ0",
+      " 5.92 BM and 0"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 13. ‘X’ melts at low temperature and is a bad conductor of electricity in both liquid and solid state. X is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " Mercury",
+      " Silicon Carbide",
+      " Zinc Sulphide",
+      " Carbon Tetrachloride"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-9-shift-1/"
+  },
+  {
+    "questionText": "Question 2. The solubility product of Cr(OH)3 at 298 K is 6×10-31 . The concentration of hydroxide ions in a saturated solution Cr(OH)3 will be:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " (18×10-31)1/4",
+      " (18×10-31)1/2",
+      " (2.22×10-31)1/4",
+      " (4.86×10-29)1/4"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-9-shift-2/"
+  },
+  {
+    "questionText": "Question 4.  The first and second ionization enthalpies of a metal are 496 and 4560 kJ mol-1 respectively. How many moles of HCl and H2SO4, respectively, will be needed to react completely with 1 mole of metal hydroxide?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " 1 and 2",
+      " 1 and 0.5",
+      " 1 and 1",
+      " 2 and 0.5"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-9-shift-2/"
+  },
+  {
+    "questionText": "Question 7. The true statement amongst the following.",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " S is a function of temperature but S is not a function of temperature.",
+      " Both S and S are functions of temperature.",
+      " Both S and S are not functions of temperature.",
+      " S is not a function of temperature but S is a function of temperature."
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-9-shift-2/"
+  },
+  {
+    "questionText": "Question 8. The reaction of H3N3B3Cl3 (A) with LiBH4 in tetrahydrofuran gives inorganic benzene (B). Furthur, the reaction of (A) with (C) leads to H3N3B3(Me)3. Compounds (B) and (C) respectively, are:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " Boron nitride, MeBr",
+      " Diborane, MeMgBr",
+      " Borazine, MeBr",
+      " Borazine, MeMgBr"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-9-shift-2/"
+  },
+  {
+    "questionText": "Question 10. The isomer(s) of [Co(NH3)4Cl2] that has/have a Cl-Co-Cl angle of 900, is/are:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " cis only",
+      " trans only",
+      " meridional and trans",
+      " cis and trans"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-9-shift-2/"
+  },
+  {
+    "questionText": "Question 11.Amongst the following, the form of water with lowest ionic conductance at 298 K is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " distilled water",
+      " sea water",
+      " saline water used for intra venous injection",
+      " water from a well"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-9-shift-2/"
+  },
+  {
+    "questionText": "Question 12. The number of sp2 hybrid orbitals in molecule of benzene is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " 18",
+      " 24",
+      " 6",
+      " 12"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-9-shift-2/"
+  },
+  {
+    "questionText": "Question 14. Which of the following has the shortest C-Cl bond?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " Cl- CH=CH2",
+      " Cl-CH=CH-CH3",
+      " Cl-CH=CH-OCH3",
+      " Cl-CH=CH-NO2"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-9-shift-2/"
+  },
+  {
+    "questionText": "Question 15.Biochemical oxygen demand (BOD) is the amount of oxygen required (in ppm):",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " for the photochemical breakdown of waste present in 1m3 volume of a water body.",
+      " by anaerobic bacteria to break-down inorganic waste present in a water body.",
+      " by bacteria to break-down organic waste in a certain volume of water sample.",
+      " for sustaining life in a water body."
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-9-shift-2/"
+  },
+  {
+    "questionText": "Question 16. Which polymer has chiral, monomer(s)?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " Buna-N",
+      " Neoprene",
+      " Nylon 6,6",
+      " PHBV"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-9-shift-2/"
+  },
+  {
+    "questionText": "The radius of second Bohr orbit, in terms of the Bohr radius, 𝑎0 , in Li2+ is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "2a0/3",
+      "4a0/9",
+      "4a0/3",
+      "2a0/9"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-8-shift-2/"
+  },
+  {
+    "questionText": "A metal (A) on heating in nitrogen gas gives compound B. B on treatment with 𝐻2𝑂 gives a colourless gas which when passed through 𝐶𝑢𝑆𝑂4 solution gives a dark blue-violet coloured solution. A and B respectively, are :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "Na and Na3N",
+      "Mg andMg3N2",
+      "Mg, Mg(NO3)2",
+      "Na, NaNO3"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-8-shift-2/"
+  },
+  {
+    "questionText": "Hydrogen has three isotopes (A), (B) and (C). If the number of neutron(s) in (A), (B) and (C) respectively, are (x), (y) and (z), the sum of (x), (y) and (z) is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "4",
+      "1",
+      "3",
+      "2"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-8-shift-2/"
+  },
+  {
+    "questionText": "Consider the following plots of rate constant versus 1/𝑇 for four different reactions. Which of the following orders is correct for the activation energies of these reactions?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2020/09/jee-main-2020-chemistry-solved-question-paper.png",
+    "options": [
+      "Ea > Ec > Ed > Eb",
+      "Ec > Ea > Ed > Eb",
+      "Eb > Ed > Ec > Ea",
+      "E > Ea > Ed > Ec"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-8-shift-2/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "White phosphorus on reaction with concentrated NaOH solution in an inert atmosphere of 𝐶𝑂2 gives phosphine and compound (X). (X) on acidification with HCl gives compound (Y). The basicity of compound (Y) is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "1"
+    ],
+    "correctOption": 3,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-8-shift-2/"
+  },
+  {
+    "questionText": "Kjeldahl’s method cannot be used to estimate nitrogen for which of the following compounds?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "𝐶𝐻3𝐶𝐻2 − 𝐶 ≡ 𝑁",
+      "𝐶6𝐻5𝑁𝐻2",
+      "𝐶6𝐻5𝑁𝑂2",
+      "d."
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-8-shift-2/"
+  },
+  {
+    "questionText": "19:  Preparation of Bakelite proceeds via reactions:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "Electrophilic substitution and dehydration.",
+      "Electrophilic addition and dehydration.",
+      "Condensation and elimination",
+      "Nucleophilic addition and dehydration"
+    ],
+    "correctOption": 0,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-8-shift-2/"
+  },
+  {
+    "questionText": "Two monomers of maltose are:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "alpha-D-Glucose and alpha-D-Galactose",
+      "alpha-D-Glucose and alpha-D-Glucose",
+      "alpha-D-Glucose and alpha-D-Fructose",
+      "alpha-D-Glucose and alpha-D-Glucose"
+    ],
+    "correctOption": 1,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-8-shift-2/"
+  },
+  {
+    "questionText": "Question 1. The relative strength of interionic/ intermolecular forces in decreasing order is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " ion-dipole > dipole-dipole > ion-ion",
+      " dipole-dipole > ion-dipole > ion-ion",
+      " ion-ion > ion-dipole > dipole-dipole",
+      " ion-dipole > ion-ion > dipoledipole"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-7-shift-1/"
+  },
+  {
+    "questionText": "Question 2. Oxidation number of potassium in K2O, K2O2 and KO2, respectively, is :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " +2, +1, and \\(\\begin{array}{l}\\frac{+1}{2}\\end{array} \\)",
+      " +1, +2 and +4",
+      " +1, +1 and +1",
+      " +1, +4 and +2"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-7-shift-1/"
+  },
+  {
+    "questionText": "Question 3. At 350C, the vapour pressure of CS2 is 512 mm Hg and that of acetone is 344 mm Hg. A solution of CS2 in acetone has a total vapour pressure of 600 mm Hg. The false statement amongst the following is :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " CS2 and acetone are less attracted to each other than to themselves",
+      " heat must be absorbed in order to produce the solution at 350C",
+      " Raoult’s law is not obeyed by this system",
+      " a mixture of 100 mL CS2 and 100 mL acetone has a volume < 200 mL"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-7-shift-1/"
+  },
+  {
+    "questionText": "Question 4. The atomic radius of Ag is closest to :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " Ni",
+      " Cu",
+      " Au",
+      " Hg"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-7-shift-1/"
+  },
+  {
+    "questionText": "Question 5. The dipole moments of CCl4, CHCl3 and CH4 are in the order:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " CH4 < CCl4 < CHCl3",
+      " CHCl3 < CH4 = CCl4",
+      " CH4  = CCl4 < CHCl3",
+      " CCl4 < CH4 < CHCl3"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-7-shift-1/"
+  },
+  {
+    "questionText": "Question 6. In comparison to the zeolite process for the removal of permanent hardness, the synthetic resins method is :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " less efficient as it exchanges only anions",
+      " more efficient as it can exchanges only cations",
+      " less efficient as the resins cannot be regenerated",
+      " more efficient as it can exchange both cations as well as anions"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-7-shift-1/"
+  },
+  {
+    "questionText": "Question 7. Amongst the following statements, that which was not proposed by Dalton was :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " matter consists of indivisible atoms",
+      " when gases combine or reproduced in a chemical reaction they do so in a simple ratio by volume provided all gases are at the same T & P.",
+      " Chemical reactions involve reorganisation of atoms. These are neither created nor destroyed in a chemical reaction",
+      " all the atoms of a given element have identical properties including identical mass. Atoms of different elements differ in mass."
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-7-shift-1/"
+  },
+  {
+    "questionText": "Question 10. The number of orbitals associated with quantum number n = 5, ms = +½ is :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " 11",
+      " 15",
+      " 25",
+      " 50"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-7-shift-1/"
+  },
+  {
+    "questionText": "Question 11. The purest form of commercial iron is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " cast iron",
+      " wrought iron",
+      " scrap iron and pig iron",
+      " pig iron"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-7-shift-1/"
+  },
+  {
+    "questionText": "Question 12. The theory that can completely/ properly explain the nature of bonding in [Ni(CO)4] is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " Werner’s theory",
+      " Crystal Field Theory",
+      " Molecular Orbital Theory",
+      " Valence Bond Theory"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-7-shift-1/"
+  },
+  {
+    "questionText": "Question 13. The IUPAC name of the complex [Pt(NH3)2Cl(NH2CH3)]Cl is :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " Diamminechlorido (methanamine) platinum (II) chloride",
+      " Bisammine (methanamine) chloridoplatinum (II) chloride",
+      " Diammine (methanamine) chloridoplatinum (II) chloride",
+      " Diamminechlorido (aminomethane) platinum (II) chloride"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-7-shift-1/"
+  },
+  {
+    "questionText": "Question 17. Given that the standard potential; (Eo) of Cu2+/Cu and Cu+/Cu are 0.34 V and 0.522 V respectively, the Eo of Cu2+/Cu+ is :",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " +0.158 V",
+      " -0.158 V",
+      " 0.182 V",
+      " -0.182 V"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-7-shift-1/"
+  },
+  {
+    "questionText": "Question 18. A solution of m-chloroaniline, m-chlorophenol and m-chlorobenzoic acid in ethyl acetate was extracted initially with a saturated solution of NaHCO3 to give fraction A. The left over organic phase was extracted with dil. NaOH solution to give fraction B. The final organic layer was labelled as fraction C. Fractions A, B and C, contain respectively:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " m-chlorobenzoic acid, m-chlorophenol and m-chloroaniline",
+      " m-chlorophenol, m-chlorobenzoic acid and m-chloroaniline",
+      " m-chloroaniline, m-chlorobenzoic acid and m-chlorophenol",
+      " m-chlorobenzoic acid, m-chloroaniline and m-chlorophenol"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-7-shift-1/"
+  },
+  {
+    "questionText": "Question 19. The electron gain enthalpy (in kJ/mol) of fluorine, chlorine, bromine, and iodine, respectively, are:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      " -333, -325, -349 and -296",
+      " -333, -349, -325 and -296",
+      " -296, -325, -333 and -349",
+      " -349, -333, -325 and -296"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-7-shift-1/"
+  },
+  {
+    "questionText": "Which of the following statements is correct?",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "Gluconic acid can form cyclic (acetal/hemiacetal) structure",
+      "Gluconic acid is a dicarboxylic acid",
+      "Gluconic acid is obtained by oxidation of glucose with HNO3",
+      "Gluconic acid is a partial oxidation product of glucose"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-7-shift-2/"
+  },
+  {
+    "questionText": "The correct order of stability for the following alkoxides is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2020/09/shift-2-jee-main-2020-solved-paper-for-chemistry.png",
+    "options": [
+      "(C) > (A) > (B)",
+      "(C) > (B) > (A)",
+      "(B) > (A) > (C)",
+      "(B) > (C) > (A)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-7-shift-2/",
+    "bookMarkCover": false
+  },
+  {
+    "questionText": "A chromatography column, packed with silica gel as stationary phase, was used to separate a mixture of compounds consisting of (A) benzanilide, (B) aniline and (C) acetophenone. When the column is eluted with a mixture of solvents, hexane : ethyl acetate (20:80), the sequence of obtained compounds is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "(B), (A) and (C)",
+      "(C), (A) and (B)",
+      "(B), (C) and (A)",
+      "(A), (B) and (C)"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-7-shift-2/"
+  },
+  {
+    "questionText": "The bond order and magnetic characteristics of CN– are:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "3, paramagnetic",
+      "2.5, diamagnetic",
+      "3, diamagnetic",
+      "2.5, paramagnetic"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-7-shift-2/"
+  },
+  {
+    "questionText": "The equation that is incorrect is",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "λ0mNaBr – λ0mNaI = λ0mKBr – λ0mNaBr",
+      "λ0mNaBr – λ0mNaCl = λ0mKBr – λ0mKCl",
+      "λ0mKCl – λ0mNaCl = λ0mKBr – λ0mNaBr",
+      "λ0mH2O = λ0mHCl + λ0mNaOH – λ0mNaBr"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-7-shift-2/"
+  },
+  {
+    "questionText": "Two open beakers one containing a solvent and the other containing a mixture of that solvent with a non-volatile solute are together sealed in a container. Over time:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "the volume of the solution and the solvent does not change",
+      "the volume of the solution increases and the volume of the solvent decreases",
+      "the volume of the solution decreases and the volume of the solvent increases",
+      "the volume of the solution does not change and the volume of the solvent decreases"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-7-shift-2/"
+  },
+  {
+    "questionText": "The refining method used when the metal and the impurities have low and high melting temperatures, respectively, is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "vapour phase refining",
+      "distillation",
+      "liquation",
+      "zone refining"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-7-shift-2/"
+  },
+  {
+    "questionText": "The redox reaction among the following is:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "formation of ozone from atmospheric oxygen in the presence of sunlight",
+      "reaction of H2SO4 with NaOH",
+      "combination of dinitrogen with dioxygen at 2000 K",
+      "Reaction of [Co(H2O)6]Cl3 withAgNO3"
+    ],
+    "correctOption": 2,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-7-shift-2/"
+  },
+  {
+    "questionText": "Within each pair of elements F & Cl, S & Se and Li & Na, respectively, the elements that release more energy upon an electron gain are:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "Cl, Se and Na",
+      "Cl, S and Li",
+      "F, S and Li",
+      "F, Se and Na"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-7-shift-2/"
+  },
+  {
+    "questionText": "The ammonia (NH3) released on quantitative reaction of 0.6 g urea (NH2CONH2) with sodium hydroxide (NaOH) can be neutralized by:",
+    "difficulty": "Medium",
+    "exam": "jee",
+    "subject": "chemisty",
+    "options": [
+      "200 mL of 0.2 N HCl",
+      "200 mL of 0.4 N HCl",
+      "100 mL of 0.1 N HCl",
+      "100 mL of 0.2 N HCl"
+    ],
+    "correctOption": 17,
+    "url": "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-7-shift-2/"
+  }
+]

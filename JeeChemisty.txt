@@ -1,0 +1,327 @@
+  url =
+    "https://byjus.com/jee/jee-main-2018-question-paper-chemistry-jan-10-shift-1/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url = "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-april/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url = "https://byjus.com/jee/jee-main-2019-question-paper-chemistry-january/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-6-shift-1/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-6-shift-2/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-5-shift-1/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-5-shift-2/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-4-shift-1/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-4-shift-2/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-3-shift-1/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sept-3-shift-2/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sep-2-shift-1/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-sep-2-shift-2/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-9-shift-1/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-9-shift-2/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-8-shift-1/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-8-shift-2/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-7-shift-1/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2020-question-paper-chemistry-jan-7-shift-2/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2021-question-paper-chemistry-feb-24-shift-1/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2021-question-paper-chemistry-feb-24-shift-2/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2021-question-paper-chemistry-feb-25-shift-1/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2021-question-paper-chemistry-feb-25-shift-2/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2021-question-paper-chemistry-feb-26-shift-1/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2021-question-paper-chemistry-feb-26-shift-2/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2022-question-paper-chemistry-july-25-shift-1/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2022-question-paper-chemistry-july-25-shift-2/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2022-question-paper-chemistry-july-26-shift-1/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2022-question-paper-chemistry-july-26-shift-2/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2022-question-paper-chemistry-july-27-shift-1/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2022-question-paper-chemistry-july-27-shift-2/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2022-question-paper-chemistry-july-28-shift-1/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2022-question-paper-chemistry-july-28-shift-2/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2022-question-paper-chemistry-july-29-shift-1/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2022-question-paper-chemistry-july-29-shift-2/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2022-question-paper-chemistry-june-24-shift-1/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2022-question-paper-chemistry-june-24-shift-2/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2022-question-paper-chemistry-june-25-shift-1/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2022-question-paper-chemistry-june-25-shift-2/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2022-question-paper-chemistry-june-26-shift-1/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2022-question-paper-chemistry-june-26-shift-2/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2022-question-paper-chemistry-june-27-shift-1/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2022-question-paper-chemistry-june-27-shift-2/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2022-question-paper-chemistry-june-28-shift-1/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2022-question-paper-chemistry-june-28-shift-2/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2022-question-paper-chemistry-june-29-shift-1/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
+  url =
+    "https://byjus.com/jee/jee-main-2022-question-paper-chemistry-june-29-shift-2/";
+  difficulty = "Medium";
+  exam = "jee";
+  subject = "chemisty";
+  await getData(url,difficulty,exam,subject)  ;
+
