@@ -11,341 +11,23 @@ let url;
 let difficulty = "Medium";
 let exam = "jee";
 let subject = "math";
-fs.writeFileSync("data.json", "", (err) => {
-  if (err) {
-    console.error("Error emptying the file:", err);
-    return;
-  }
-  console.log("File emptied successfully.");
-});
-(async () => {
-  url =
-    "https://byjus.com/jee/jee-main-2018-question-paper-maths-jan-10-shift-1/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
 
-  url = "https://byjus.com/jee/jee-main-2019-question-paper-maths-april/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
+// fs.writeFileSync("data.json", "", (err) => {
+//   if (err) {
+//     console.error("Error emptying the file:", err);
+//     return;
+//   }
+//   console.log("File emptied successfully.");
+// });
 
-  url = "https://byjus.com/jee/jee-main-2019-question-paper-maths-january/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-6-shift-1/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-6-shift-2/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-5-shift-1/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-5-shift-2/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-4-shift-1/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-4-shift-2/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-3-shift-1/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2020-question-paper-maths-sept-3-shift-2/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2020-question-paper-maths-sep-2-shift-1/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2020-question-paper-maths-sep-2-shift-2/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-9-shift-1/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-9-shift-2/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-8-shift-1/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-8-shift-2/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-7-shift-1/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2020-question-paper-maths-jan-7-shift-2/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2021-question-paper-maths-feb-24-shift-1/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2021-question-paper-maths-feb-24-shift-2/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2021-question-paper-maths-feb-25-shift-1/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2021-question-paper-maths-feb-25-shift-2/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2021-question-paper-maths-feb-26-shift-1/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2021-question-paper-maths-feb-26-shift-2/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2022-question-paper-maths-july-25-shift-1/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2022-question-paper-maths-july-25-shift-2/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2022-question-paper-maths-july-26-shift-1/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2022-question-paper-maths-july-26-shift-2/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2022-question-paper-maths-july-27-shift-1/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2022-question-paper-maths-july-27-shift-2/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2022-question-paper-maths-july-28-shift-1/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2022-question-paper-maths-july-28-shift-2/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2022-question-paper-maths-july-29-shift-1/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2022-question-paper-maths-july-29-shift-2/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2022-question-paper-maths-june-24-shift-1/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2022-question-paper-maths-june-24-shift-2/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2022-question-paper-maths-june-25-shift-1/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2022-question-paper-maths-june-25-shift-2/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2022-question-paper-maths-june-26-shift-1/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2022-question-paper-maths-june-26-shift-2/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2022-question-paper-maths-june-27-shift-1/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2022-question-paper-maths-june-27-shift-2/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2022-question-paper-maths-june-28-shift-1/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2022-question-paper-maths-june-28-shift-2/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2022-question-paper-maths-june-29-shift-1/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-
-  url =
-    "https://byjus.com/jee/jee-main-2022-question-paper-maths-june-29-shift-2/";
-  difficulty = "Medium";
-  exam = "jee";
-  subject = "math";
-  await getData(url,difficulty,exam,subject)  ;
-})();
+// (async () => {
+//   url =
+//     "https://byjus.com/jee/jee-main-2018-question-paper-maths-jan-10-shift-1/";
+//   difficulty = "Medium";
+//   exam = "jee";
+//   subject = "math";
+//   await getData(url,difficulty,exam,subject)  ;
+//   })();
 
 async function getData(url1,difficulty1,exam1,subject1) {
   await axios
@@ -440,6 +122,15 @@ async function getData(url1,difficulty1,exam1,subject1) {
       console.error(`Error fetching data from ${url}: ${error.message}`);
     });
 }
+
+fs.readFile("JeeMath.json", "utf8", (err, data) => {
+  data = JSON.parse(data);
+  data.forEach((item) => {
+    sendData(item);
+  });
+});
+
+
 function sendData(data) {
   const apiEndpoint = "http://localhost:4040/admin/addMQuestion";
   const formData = new FormData();
